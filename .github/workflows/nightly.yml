@@ -79,6 +79,9 @@ jobs:
       - id: deploy
         uses: actions/deploy-pages@v4
 
+      - name: Link report in job summary
+        run: echo "### 📊 [Allure report](${{ steps.deploy.outputs.page_url }})" >> "$GITHUB_STEP_SUMMARY"
+
   perf:
     name: k6 checkout load
     runs-on: ubuntu-latest
@@ -104,3 +107,7 @@ jobs:
             perf-summary.json
             perf-summary.html
           retention-days: 30
+
+      - name: Link report in job summary
+        if: always()
+        run: echo "### ⚡ k6 checkout load report — see the **k6-summary** artifact on this run" >> "$GITHUB_STEP_SUMMARY"
