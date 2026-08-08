@@ -12,7 +12,6 @@ export class RegistrationPage {
   readonly securityQuestionOptions: Locator;
   readonly securityAnswer: Locator;
   readonly submitButton: Locator;
-  readonly repeatPasswordError: Locator;
 
   constructor(private readonly page: Page) {
     this.email = page.locator('#emailControl');
@@ -25,7 +24,6 @@ export class RegistrationPage {
     this.securityQuestionOptions = page.locator('mat-option');
     this.securityAnswer = page.locator('#securityAnswerControl');
     this.submitButton = page.locator('#registerButton');
-    this.repeatPasswordError = page.locator('#mat-error-repeat-password, mat-error').first();
   }
 
   async open(): Promise<void> {

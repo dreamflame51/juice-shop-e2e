@@ -1,4 +1,5 @@
 import { test as base, type Page } from '@playwright/test';
+import * as allure from 'allure-js-commons';
 
 import { JuiceShopClient, type AuthSession } from '../api/juice-shop.client';
 import { buildUser, type TestUser } from '../data/user.factory';
@@ -9,6 +10,8 @@ import { RegistrationPage } from '../pages/registration.page';
 import { config } from '../utils/config';
 
 interface Fixtures {
+  /** Auto-applied: tags each test with its Allure parentSuite/layer (UI/API/Perf). */
+  autoLayerLabel: void;
   /** Freshly generated, NOT yet registered. */
   testUser: TestUser;
   api: JuiceShopClient;
@@ -23,7 +26,24 @@ interface Fixtures {
   basketPage: BasketPage;
 }
 
+/** Derives the test layer (UI / API / Perf) from the spec file's path under tests/. */
+function layerFromFile(file: string): 'UI' | 'API' | 'Perf' {
+  if (/[\\/]tests[\\/]api[\\/]/.test(file)) return 'API';
+  if (/[\\/]tests[\\/]perf[\\/]/.test(file)) return 'Perf';
+  return 'UI';
+}
+
 export const test = base.extend<Fixtures>({
+  autoLayerLabel: [
+    async ({}, use, testInfo) => {
+      const layer = layerFromFile(testInfo.file);
+      await allure.parentSuite(layer);
+      await allure.label('layer', layer);
+      await use();
+    },
+    { auto: true },
+  ],
+
   context: async ({ context }, use) => {
     await context.addCookies([
       { name: 'cookieconsent_status', value: 'dismiss', url: config.baseURL },

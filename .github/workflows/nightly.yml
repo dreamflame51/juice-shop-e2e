@@ -33,16 +33,11 @@ jobs:
 
   report:
     name: Allure report
-    needs: test
+    needs: [test, perf]
     if: always()
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
@@ -73,11 +68,29 @@ jobs:
           path: allure-history
           key: allure-history-${{ github.run_id }}
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Download k6 summary
+        uses: actions/download-artifact@v4
         with:
-          path: allure-report
-      - id: deploy
-        uses: actions/deploy-pages@v4
+          name: k6-summary
+          path: k6-summary
+
+      - name: Embed k6 report into Pages site
+        run: |
+          mkdir -p allure-report/perf
+          cp k6-summary/perf-summary.html allure-report/perf/index.html
+          cp k6-summary/perf-summary.json allure-report/perf/perf-summary.json
+
+      - name: Deploy report to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
+          keep_files: true
+
+      - name: Link reports in job summary
+        run: |
+          echo "### 📊 [Allure report](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/)" >> "$GITHUB_STEP_SUMMARY"
+          echo "### ⚡ [k6 checkout load report](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/perf/)" >> "$GITHUB_STEP_SUMMARY"
 
   perf:
     name: k6 checkout load
@@ -100,5 +113,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: k6-summary
-          path: perf-summary.json
+          path: |
+            perf-summary.json
+            perf-summary.html
           retention-days: 30
