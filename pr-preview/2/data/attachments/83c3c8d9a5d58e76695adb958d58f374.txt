@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Delia Crist","mobileNum":6889805875,"zipCode":"73936","streetAddress":"8065 Alexander Run","city":"Columbus","state":"West Virginia","country":"Montserrat","UserId":24,"updatedAt":"2026-08-08T07:44:19.340Z","createdAt":"2026-08-08T07:44:19.340Z"}}
