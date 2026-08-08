@@ -14,7 +14,7 @@ export function buildAddress(): TestAddress {
   return {
     fullName: faker.person.fullName(),
     mobileNum: faker.string.numeric(10),
-    zipCode: faker.location.zipCode(),
+    zipCode: faker.location.zipCode('#####'),
     streetAddress: faker.location.streetAddress(),
     city: faker.location.city(),
     state: faker.location.state(),

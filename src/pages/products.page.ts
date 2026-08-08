@@ -7,7 +7,7 @@ export class ProductsPage {
 
   constructor(private readonly page: Page) {
     this.productCards = page.locator('mat-card');
-    this.snackbar = page.locator('[matsnackbarlabel]');
+    this.snackbar = page.locator('.mat-simple-snack-bar-content');
     this.basketButton = page.getByRole('button', { name: 'Show the shopping cart' });
   }
 

@@ -12,6 +12,8 @@ export function buildCard(): TestCard {
     fullName: faker.person.fullName(),
     cardNum: faker.finance.creditCardNumber('4###########1111').replace(/\D/g, ''),
     expMonth: faker.number.int({ min: 1, max: 12 }),
-    expYear: faker.date.future({ years: 5 }).getFullYear(),
+    // Juice Shop hardcodes a minimum expYear of 2080 server-side (unrelated to
+    // the current date) — see tests/perf/checkout.js which relies on the same value.
+    expYear: faker.number.int({ min: 2080, max: 2099 }),
   };
 }
