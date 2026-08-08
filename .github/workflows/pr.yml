@@ -2,6 +2,7 @@ name: PR
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened, closed]
   workflow_dispatch:
 
 concurrency:
@@ -11,6 +12,7 @@ concurrency:
 jobs:
   static:
     name: Lint & typecheck
+    if: github.event.action != 'closed'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,7 +24,10 @@ jobs:
 
   smoke:
     name: Smoke suite
+    if: github.event.action != 'closed'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: ./.github/actions/setup
@@ -35,12 +40,40 @@ jobs:
       - name: Stop the SUT
         if: always()
         run: npm run sut:down
-      - uses: actions/upload-artifact@v4
+      - name: Generate Allure report
         if: always()
+        run: npm run allure:generate
+
+      - name: Deploy Allure preview to gh-pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: playwright-report
-          path: playwright-report/
-          retention-days: 7
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
+          destination_dir: pr-preview/${{ github.event.pull_request.number }}
+          keep_files: true
+
       - name: Link report in job summary
         if: always()
-        run: echo "### 🎭 [Playwright report](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts) — download \`playwright-report\` artifact" >> "$GITHUB_STEP_SUMMARY"
+        run: echo "### 📊 [Allure report preview](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/pr-preview/${{ github.event.pull_request.number }}/)" >> "$GITHUB_STEP_SUMMARY"
+
+  cleanup-preview:
+    name: Remove Allure preview
+    if: github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+      - name: Delete PR preview folder
+        run: |
+          rm -rf "pr-preview/${{ github.event.pull_request.number }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Remove Allure preview for PR #${{ github.event.pull_request.number }}"
+            git push
+          fi
