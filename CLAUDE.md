@@ -83,7 +83,16 @@ tests/
   until the first tells a complete story: baseline → threshold → breach response.
 
 ## Skills
-Not defining custom Claude Code skills yet — using playwright-cli's built-in
-skills for now. Additional project-specific skills (domain mapping, scenario
-planning, spec generation, spec healing) may be added later as the project
-matures.
+`@playwright/cli` is installed as a devDependency and its skill is vendored
+into `.claude/skills/playwright-cli/` (copied from
+`node_modules/@playwright/cli`, since `node_modules` is gitignored). It gives
+Claude Code browser automation (open/click/fill/snapshot/network mocking/
+tracing/test generation) against the Dockerized SUT — use it for exploratory
+UI work, debugging failing specs, and generating locators, not as a
+replacement for committed Playwright specs. Run commands via
+`npx playwright-cli ...`. Re-run the copy step after bumping the
+`@playwright/cli` version so the skill content stays in sync.
+
+No other custom Claude Code skills yet. Additional project-specific skills
+(domain mapping, scenario planning, spec generation, spec healing) may be
+added later as the project matures.
