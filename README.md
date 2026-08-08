@@ -72,8 +72,11 @@ from and saved to the GitHub Actions cache on every nightly run.
 
 `tests/perf/checkout.js` drives the stateful write path — register → login →
 add to basket → checkout — ramping to 10 VUs over two minutes with think time
-between steps. It runs nightly only, against the Dockerized SUT, and its k6
-summary is published as the `k6-summary` CI artifact.
+between steps. It runs nightly only, against the Dockerized SUT. `npm run perf`
+writes `perf-summary.json` and an `perf-summary.html` report (via
+[k6-reporter](https://github.com/benc-uk/k6-reporter)) alongside the stdout
+summary — open the HTML file directly in a browser to view results locally.
+Both files are published as the `k6-summary` CI artifact.
 
 **Baseline** (local, Dockerized SUT, 180 iterations, 0 failures):
 

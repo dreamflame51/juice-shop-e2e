@@ -6,6 +6,7 @@ allure-results/
 allure-report/
 allure-history/
 perf-summary.json
+perf-summary.html
 playwright-report/
 test-results/
 .deepeval/

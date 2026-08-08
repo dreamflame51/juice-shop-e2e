@@ -100,5 +100,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: k6-summary
-          path: perf-summary.json
+          path: |
+            perf-summary.json
+            perf-summary.html
           retention-days: 30

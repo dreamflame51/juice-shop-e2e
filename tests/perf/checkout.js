@@ -1,6 +1,8 @@
 import { check, fail, sleep } from 'k6';
 import http from 'k6/http';
 import { Trend } from 'k6/metrics';
+import { textSummary } from 'https://jslib.k6.io/k6-summary/0.1.0/index.js';
+import { htmlReport } from 'https://raw.githubusercontent.com/benc-uk/k6-reporter/main/dist/bundle.js';
 
 // Stateful write path: register -> login -> add to basket -> checkout.
 // Read-only product listing would prove nothing interesting about the SUT.
@@ -163,4 +165,15 @@ export default function (data) {
   check(checkout, {
     'order confirmed': (r) => r.status === 200 && !!r.json('orderConfirmation'),
   });
+}
+
+// Defining handleSummary() replaces k6's default outputs entirely, so the
+// JSON export (still consumed by CI as the archived artifact) and stdout text
+// have to be produced here alongside the HTML report.
+export function handleSummary(data) {
+  return {
+    'perf-summary.json': JSON.stringify(data),
+    'perf-summary.html': htmlReport(data),
+    stdout: textSummary(data, { indent: ' ', enableColors: true }),
+  };
 }
