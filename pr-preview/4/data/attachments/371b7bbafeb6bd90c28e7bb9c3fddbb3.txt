@@ -1,2 +1,0 @@
-400 http://localhost:3000/api/Cards/
-{"message":"Validation error: Validation min on expYear failed","errors":[{"field":"expYear","message":"Validation min on expYear failed"}]}

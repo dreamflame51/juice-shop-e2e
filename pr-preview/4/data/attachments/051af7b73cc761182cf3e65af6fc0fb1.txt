@@ -1,2 +1,0 @@
-201 http://localhost:3000/api/Addresss/
-{"status":"success","data":{"id":8,"fullName":"Luz Kuhic","mobileNum":8738441001,"zipCode":"38486","streetAddress":"77287 Bernhard Isle","city":"South Roslynland","state":"Georgia","country":"Northern Mariana Islands","UserId":24,"updatedAt":"2026-08-08T17:02:39.614Z","createdAt":"2026-08-08T17:02:39.614Z"}}
