@@ -36,8 +36,11 @@ jobs:
         if: always()
         run: npm run sut:down
       - uses: actions/upload-artifact@v4
-        if: failure()
+        if: always()
         with:
           name: playwright-report
           path: playwright-report/
           retention-days: 7
+      - name: Link report in job summary
+        if: always()
+        run: echo "### 🎭 [Playwright report](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}#artifacts) — download \`playwright-report\` artifact" >> "$GITHUB_STEP_SUMMARY"
