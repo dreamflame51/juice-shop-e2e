@@ -1,5 +1,7 @@
 import * as allure from 'allure-js-commons';
 
+import { buildAddress } from '../../../src/data/address.factory';
+import { buildCard } from '../../../src/data/card.factory';
 import { expect, test } from '../../../src/fixtures/test';
 
 const APPLE_JUICE_ID = 1;
@@ -10,11 +12,7 @@ test.describe('Checkout API', () => {
     await allure.label('category', 'perf-relevant');
   });
 
-  test('@smoke completes an order end to end and returns a confirmation', async ({
-    api,
-    session,
-    registeredUser,
-  }) => {
+  test('@smoke completes an order end to end and returns a confirmation', async ({ api, session }) => {
     await allure.step('add a product to the basket', () =>
       api.addToBasket(session.basketId, APPLE_JUICE_ID, 2),
     );
@@ -24,7 +22,7 @@ test.describe('Checkout API', () => {
     expect(products[0].BasketItem.quantity).toBe(2);
 
     const [addressId, paymentId] = await allure.step('create address and card', () =>
-      Promise.all([api.createAddress(registeredUser.email), api.createCard(registeredUser.email)]),
+      Promise.all([api.createAddress(buildAddress()), api.createCard(buildCard())]),
     );
 
     const confirmation = await allure.step('check out', () =>
@@ -34,13 +32,13 @@ test.describe('Checkout API', () => {
     expect(confirmation).toMatch(/^[0-9a-f]{4}-[0-9a-f]+$/);
   });
 
-  test('empties the basket once the order is placed', async ({ api, session, registeredUser }) => {
+  test('empties the basket once the order is placed', async ({ api, session }) => {
     await allure.label('category', 'functional');
 
     await api.addToBasket(session.basketId, APPLE_JUICE_ID, 1);
     const [addressId, paymentId] = await Promise.all([
-      api.createAddress(registeredUser.email),
-      api.createCard(registeredUser.email),
+      api.createAddress(buildAddress()),
+      api.createCard(buildCard()),
     ]);
     await api.checkout(session.basketId, { addressId, paymentId, deliveryMethodId: 3 });
 
