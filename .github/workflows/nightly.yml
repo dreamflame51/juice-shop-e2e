@@ -33,7 +33,7 @@ jobs:
 
   report:
     name: Allure report
-    needs: test
+    needs: [test, perf]
     if: always()
     runs-on: ubuntu-latest
     permissions:
@@ -73,14 +73,28 @@ jobs:
           path: allure-history
           key: allure-history-${{ github.run_id }}
 
+      - name: Download k6 summary
+        uses: actions/download-artifact@v4
+        with:
+          name: k6-summary
+          path: k6-summary
+
+      - name: Embed k6 report into Pages site
+        run: |
+          mkdir -p allure-report/perf
+          cp k6-summary/perf-summary.html allure-report/perf/index.html
+          cp k6-summary/perf-summary.json allure-report/perf/perf-summary.json
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: allure-report
       - id: deploy
         uses: actions/deploy-pages@v4
 
-      - name: Link report in job summary
-        run: echo "### 📊 [Allure report](${{ steps.deploy.outputs.page_url }})" >> "$GITHUB_STEP_SUMMARY"
+      - name: Link reports in job summary
+        run: |
+          echo "### 📊 [Allure report](${{ steps.deploy.outputs.page_url }})" >> "$GITHUB_STEP_SUMMARY"
+          echo "### ⚡ [k6 checkout load report](${{ steps.deploy.outputs.page_url }}perf/)" >> "$GITHUB_STEP_SUMMARY"
 
   perf:
     name: k6 checkout load
@@ -107,7 +121,3 @@ jobs:
             perf-summary.json
             perf-summary.html
           retention-days: 30
-
-      - name: Link report in job summary
-        if: always()
-        run: echo "### ⚡ k6 checkout load report — see the **k6-summary** artifact on this run" >> "$GITHUB_STEP_SUMMARY"
