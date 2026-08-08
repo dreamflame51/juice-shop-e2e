@@ -1,0 +1,35 @@
+{
+  "name": "juice-shop-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sut:up": "docker compose up -d --wait",
+    "sut:down": "docker compose down -v",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:ui": "playwright test tests/ui",
+    "test:api": "playwright test tests/api",
+    "perf": "dotenv -- k6 run --summary-export=perf-summary.json tests/perf/checkout.js",
+    "allure:generate": "allure generate allure-results -o allure-report",
+    "allure:open": "allure open allure-report",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "@faker-js/faker": "^9.0.0",
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.0.0",
+    "allure": "3.14.3",
+    "allure-js-commons": "3.10.2",
+    "allure-playwright": "3.10.2",
+    "dotenv": "^16.4.5",
+    "dotenv-cli": "^7.4.4",
+    "eslint": "^9.14.0",
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.14.0"
+  }
+}

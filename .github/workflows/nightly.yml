@@ -1,0 +1,104 @@
+name: Nightly
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Full suite (shard ${{ matrix.shard }}/4)
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+        with:
+          test-user-password: ${{ secrets.TEST_USER_PASSWORD }}
+      - run: npx playwright install --with-deps chromium
+      - run: npm run sut:up
+      - run: npx playwright test --shard=${{ matrix.shard }}/4
+      - if: always()
+        run: npm run sut:down
+      - name: Upload this shard's raw results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results-${{ matrix.shard }}
+          path: allure-results/
+          retention-days: 7
+
+  report:
+    name: Allure report
+    needs: test
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+        with:
+          test-user-password: ${{ secrets.TEST_USER_PASSWORD }}
+
+      - name: Merge shard results
+        uses: actions/download-artifact@v4
+        with:
+          pattern: allure-results-*
+          merge-multiple: true
+          path: allure-results
+
+      # Restored before generation and saved after, so the report keeps its
+      # trend and flaky history from the first run onwards.
+      - name: Restore Allure history
+        uses: actions/cache/restore@v4
+        with:
+          path: allure-history
+          key: allure-history-${{ github.run_id }}
+          restore-keys: allure-history-
+
+      - run: npm run allure:generate
+
+      - name: Save Allure history
+        uses: actions/cache/save@v4
+        with:
+          path: allure-history
+          key: allure-history-${{ github.run_id }}
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: allure-report
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+  perf:
+    name: k6 checkout load
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/setup
+        with:
+          test-user-password: ${{ secrets.TEST_USER_PASSWORD }}
+      # A fresh SUT per run also means fresh product stock, which the scenario
+      # depends on.
+      - run: npm run sut:up
+      - uses: grafana/setup-k6-action@v1
+      # Thresholds in the script are the gate — a non-zero exit fails the job.
+      - run: npm run perf
+      - if: always()
+        run: npm run sut:down
+      - name: Upload k6 summary
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: k6-summary
+          path: perf-summary.json
+          retention-days: 30

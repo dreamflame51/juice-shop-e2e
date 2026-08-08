@@ -1,0 +1,30 @@
+name: Setup
+description: Install Node and dependencies, and materialise .env from CI configuration.
+
+inputs:
+  test-user-password:
+    description: Password used for factory-generated test users.
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 22
+        cache: npm
+
+    - shell: bash
+      run: npm ci
+
+    # .env is gitignored, so CI recreates it. Everything that needs
+    # environment config — Playwright, docker compose, k6 — reads this one file.
+    - shell: bash
+      env:
+        TEST_USER_PASSWORD: ${{ inputs.test-user-password }}
+      run: |
+        {
+          echo 'JUICE_SHOP_PORT=3000'
+          echo 'BASE_URL=http://localhost:3000'
+          echo "TEST_USER_PASSWORD=${TEST_USER_PASSWORD}"
+        } > .env
