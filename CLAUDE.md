@@ -50,7 +50,7 @@ tests/
 - No JRE dependency — Allure3's generator is Node-native
 - Every spec must:
   - Tag domain via `allure.epic(<domain>)`
-  - Tag category via `allure.label('category', 'functional'|'security'|'perf-relevant')`
+  - Tag category via `allure.label('category', 'Functional'|'Security'|'Performance')`
   - Use `allure.step()` for multi-step actions, not bare comments
 - CI: merge `allure-results` across shards before generating HTML
 - CI: restore/cache `allure-results/history/` before generation, persist after

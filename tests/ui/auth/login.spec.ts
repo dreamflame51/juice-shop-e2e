@@ -4,11 +4,11 @@ import { expect, test } from '../../../src/fixtures/test';
 
 test.describe('Login', () => {
   test.beforeEach(async () => {
-    await allure.epic('Authentication');
+    await allure.epic('UI: Authentication');
   });
 
-  test('@smoke a registered user can log in', async ({ page, loginPage, registeredUser }) => {
-    await allure.label('category', 'functional');
+  test('@smoke A registered user can log in', async ({ page, loginPage, registeredUser }) => {
+    await allure.label('category', 'Functional');
 
     await allure.step('open the login page', () => loginPage.open());
     await allure.step('submit valid credentials', () =>
@@ -19,11 +19,11 @@ test.describe('Login', () => {
     await expect(page.locator('#navbarAccount')).toBeVisible();
   });
 
-  test('rejects a wrong password without revealing whether the account exists', async ({
+  test('Rejects a wrong password without revealing whether the account exists', async ({
     loginPage,
     registeredUser,
   }) => {
-    await allure.label('category', 'security');
+    await allure.label('category', 'Security');
 
     await loginPage.open();
     await loginPage.login(registeredUser.email, 'definitely-not-the-password');
@@ -31,8 +31,8 @@ test.describe('Login', () => {
     await expect(loginPage.errorMessage).toHaveText(/invalid email or password/i);
   });
 
-  test('rejects an unknown account with the same generic error', async ({ loginPage, testUser }) => {
-    await allure.label('category', 'security');
+  test('Rejects an unknown account with the same generic error', async ({ loginPage, testUser }) => {
+    await allure.label('category', 'Security');
 
     await loginPage.open();
     await loginPage.login(testUser.email, testUser.password);

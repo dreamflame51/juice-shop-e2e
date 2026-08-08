@@ -15,6 +15,7 @@
     "perf": "dotenv -- k6 run tests/perf/checkout.js",
     "allure:generate": "allure generate allure-results -o allure-report",
     "allure:open": "allure open allure-report",
+    "clean:reports": "node -e \"['allure-results','allure-report','allure-history','playwright-report','test-results','perf-summary.json','perf-summary.html'].forEach(p=>require('fs').rmSync(p,{recursive:true,force:true}))\"",
     "lint": "eslint .",
     "type-check": "tsc --noEmit"
   },

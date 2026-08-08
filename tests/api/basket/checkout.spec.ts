@@ -8,11 +8,11 @@ const APPLE_JUICE_ID = 1;
 
 test.describe('Checkout API', () => {
   test.beforeEach(async () => {
-    await allure.epic('Shopping');
-    await allure.label('category', 'perf-relevant');
+    await allure.epic('API: Shopping');
+    await allure.label('category', 'Performance');
   });
 
-  test('@smoke completes an order end to end and returns a confirmation', async ({ api, session }) => {
+  test('@smoke Completes an order end to end and returns a confirmation', async ({ api, session }) => {
     await allure.step('add a product to the basket', () =>
       api.addToBasket(session.basketId, APPLE_JUICE_ID, 2),
     );
@@ -32,8 +32,8 @@ test.describe('Checkout API', () => {
     expect(confirmation).toMatch(/^[0-9a-f]{4}-[0-9a-f]+$/);
   });
 
-  test('empties the basket once the order is placed', async ({ api, session }) => {
-    await allure.label('category', 'functional');
+  test('Empties the basket once the order is placed', async ({ api, session }) => {
+    await allure.label('category', 'Functional');
 
     await api.addToBasket(session.basketId, APPLE_JUICE_ID, 1);
     const [addressId, paymentId] = await Promise.all([

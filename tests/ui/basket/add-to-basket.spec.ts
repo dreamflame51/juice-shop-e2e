@@ -6,11 +6,11 @@ const PRODUCT = 'Apple Juice (1000ml)';
 
 test.describe('Basket', () => {
   test.beforeEach(async () => {
-    await allure.epic('Shopping');
-    await allure.label('category', 'functional');
+    await allure.epic('UI: Shopping');
+    await allure.label('category', 'Functional');
   });
 
-  test('@smoke an authenticated user can add a product to the basket', async ({
+  test('@smoke An authenticated user can add a product to the basket', async ({
     authedPage,
     productsPage,
     basketPage,
@@ -29,7 +29,7 @@ test.describe('Basket', () => {
     await expect(basketPage.checkoutButton).toBeEnabled();
   });
 
-  test('basket seeded through the API is reflected in the UI', async ({
+  test('Basket seeded through the API is reflected in the UI', async ({
     api,
     session,
     authedPage,

@@ -4,14 +4,14 @@ import { expect, test } from '../../../src/fixtures/test';
 
 test.describe('Auth API', () => {
   test.beforeEach(async () => {
-    await allure.epic('Authentication');
+    await allure.epic('API: Authentication');
   });
 
-  test('@smoke issues a JWT and a basket id for valid credentials', async ({
+  test('@smoke Issues a JWT and a basket id for valid credentials', async ({
     api,
     registeredUser,
   }) => {
-    await allure.label('category', 'functional');
+    await allure.label('category', 'Functional');
 
     const response = await api.loginRaw(registeredUser.email, registeredUser.password);
 
@@ -22,8 +22,8 @@ test.describe('Auth API', () => {
     expect(body.authentication.bid).toBeGreaterThan(0);
   });
 
-  test('rejects a wrong password with 401 and no token', async ({ api, registeredUser }) => {
-    await allure.label('category', 'security');
+  test('Rejects a wrong password with 401 and no token', async ({ api, registeredUser }) => {
+    await allure.label('category', 'Security');
 
     const response = await api.loginRaw(registeredUser.email, 'wrong-password');
 
@@ -31,8 +31,8 @@ test.describe('Auth API', () => {
     expect(await response.text()).not.toContain('eyJ');
   });
 
-  test('is not bypassable via SQL injection in the email field', async ({ api }) => {
-    await allure.label('category', 'security');
+  test('Is not bypassable via SQL injection in the email field', async ({ api }) => {
+    await allure.label('category', 'Security');
 
     // Known Juice Shop vulnerability — this test documents the expected *secure*
     // behaviour and is therefore expected to fail against the vulnerable SUT.
