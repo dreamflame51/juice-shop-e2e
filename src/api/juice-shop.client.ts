@@ -1,5 +1,7 @@
 import type { APIRequestContext, APIResponse } from "@playwright/test";
 
+import type { TestAddress } from "../data/address.factory";
+import type { TestCard } from "../data/card.factory";
 import type { TestUser } from "../data/user.factory";
 
 export interface AuthSession {
@@ -90,34 +92,21 @@ export class JuiceShopClient {
     return body.data.Products;
   }
 
-  async createAddress(fullName: string): Promise<number> {
+  async createAddress(address: TestAddress): Promise<number> {
     const body = await json<{ data: { id: number } }>(
       await this.request.post("/api/Addresss/", {
         headers: this.authHeaders,
-        data: {
-          fullName,
-          mobileNum: 1234567890,
-          zipCode: "12345",
-          streetAddress: "1 Test Street",
-          city: "Testville",
-          state: "TS",
-          country: "Testland",
-        },
+        data: address,
       }),
     );
     return body.data.id;
   }
 
-  async createCard(fullName: string): Promise<number> {
+  async createCard(card: TestCard): Promise<number> {
     const body = await json<{ data: { id: number } }>(
       await this.request.post("/api/Cards/", {
         headers: this.authHeaders,
-        data: {
-          fullName,
-          cardNum: "4111111111111111",
-          expMonth: 12,
-          expYear: 2080,
-        },
+        data: card,
       }),
     );
     return body.data.id;
