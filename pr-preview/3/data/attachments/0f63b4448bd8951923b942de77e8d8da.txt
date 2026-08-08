@@ -1,2 +1,0 @@
-201 http://localhost:3000/api/Users/
-{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"rocio.fadel.ompt2fxj@e2e.test","updatedAt":"2026-08-08T07:51:07.986Z","createdAt":"2026-08-08T07:51:07.986Z","deletedAt":null}}

@@ -1,2 +1,0 @@
-400 http://localhost:3000/api/Addresss/
-{"message":"Validation error: Validation len on zipCode failed","errors":[{"field":"zipCode","message":"Validation len on zipCode failed"}]}
