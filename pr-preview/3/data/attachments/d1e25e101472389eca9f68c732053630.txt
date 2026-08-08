@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":26,"email":"aliya.walter.kojr951v@e2e.test","updatedAt":"2026-08-08T07:50:42.054Z","createdAt":"2026-08-08T07:50:42.054Z","deletedAt":null}}
