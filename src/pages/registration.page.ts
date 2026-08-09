@@ -8,7 +8,6 @@ export class RegistrationPage {
   readonly password: Locator;
   readonly repeatPassword: Locator;
   readonly securityQuestion: Locator;
-  readonly securityQuestionLabel: Locator;
   readonly securityQuestionOptions: Locator;
   readonly securityAnswer: Locator;
   readonly submitButton: Locator;
@@ -18,9 +17,6 @@ export class RegistrationPage {
     this.password = page.locator('#passwordControl');
     this.repeatPassword = page.locator('#repeatPasswordControl');
     this.securityQuestion = page.locator('mat-select[name="securityQuestion"]');
-    this.securityQuestionLabel = page.locator(
-      'mat-form-field:has(mat-select[name="securityQuestion"]) mat-label',
-    );
     this.securityQuestionOptions = page.locator('mat-option');
     this.securityAnswer = page.locator('#securityAnswerControl');
     this.submitButton = page.locator('#registerButton');
@@ -32,7 +28,7 @@ export class RegistrationPage {
 
   async selectFirstSecurityQuestion(): Promise<void> {
     const firstOption = this.securityQuestionOptions.first();
-    await clickUntilVisible(this.securityQuestionLabel, firstOption);
+    await clickUntilVisible(this.securityQuestion, firstOption);
     await firstOption.click();
   }
 
