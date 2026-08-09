@@ -69,10 +69,10 @@ src/
   data/       faker-based factories — user, address, card
   fixtures/   test.ts — testUser, api, registeredUser, session, authedPage,
               page-object fixtures, auto Allure layer labelling
-  pages/      POM — login, registration, products, basket (locators/actions only)
+  pages/      POM — login, registration, products, basket, checkout (locators/actions only)
   utils/      env config loader, wait strategies
 tests/
-  ui/{auth,basket}/
+  ui/{auth,basket,products}/
   api/{auth,basket}/
   perf/       k6 scripts (run outside the Playwright runner)
 ```
@@ -140,10 +140,20 @@ previous run.
 `TEST_USER_PASSWORD` is supplied as a repository secret; no credentials live in
 the repo.
 
-## A note on the failing security test
+## A note on the failing security tests
 
-`tests/api/auth/login.spec.ts` contains a login SQL-injection check marked
-`test.fail()`. Juice Shop is deliberately vulnerable, so the test documents
-the *expected secure* behaviour and is expected to fail against this SUT — if
-it ever starts passing, the vulnerability has been fixed and the annotation
-should be removed.
+A few tests are marked `test.fail()` because they document expected-*correct*
+behaviour that the deliberately-vulnerable SUT doesn't actually exhibit:
+
+- `tests/api/auth/login.spec.ts` — a login SQL-injection check (Security)
+- `tests/api/basket/isolation.spec.ts` — reading or checking out another
+  user's basket by guessing its id (Security; missing ownership checks on
+  `GET /rest/basket/:id` and `POST /rest/basket/:id/checkout`)
+- `tests/api/basket/concurrency.spec.ts` — concurrent adds of the same
+  product to a basket (Functional; a race on the "does this BasketItem
+  already exist" check drops 4 of 5 concurrent requests instead of summing
+  quantities)
+
+If one of these ever starts passing, the corresponding bug has been fixed and
+the annotation should be removed. See
+[docs/test-catalog.md](docs/test-catalog.md) for the full list of scenarios.

@@ -24,6 +24,16 @@ export interface OrderDetails {
   deliveryMethodId: number;
 }
 
+const ENDPOINTS = {
+  users: "/api/Users/",
+  login: "/rest/user/login",
+  basketItems: "/api/BasketItems/",
+  basket: (basketId: number) => `/rest/basket/${basketId}`,
+  addresses: "/api/Addresss/",
+  cards: "/api/Cards/",
+  checkout: (basketId: number) => `/rest/basket/${basketId}/checkout`,
+} as const;
+
 async function json<T>(response: APIResponse): Promise<T> {
   if (!response.ok()) {
     throw new Error(
@@ -76,15 +86,15 @@ export class JuiceShopClient {
       securityAnswer: user.securityAnswer,
     };
     await json(
-      await this.call("POST /api/Users/", data, () =>
-        this.request.post("/api/Users/", { data }),
+      await this.call(`POST ${ENDPOINTS.users}`, data, () =>
+        this.request.post(ENDPOINTS.users, { data }),
       ),
     );
   }
 
   loginRaw(email: string, password: string): Promise<APIResponse> {
-    return this.call("POST /rest/user/login", { email, password }, () =>
-      this.request.post("/rest/user/login", { data: { email, password } }),
+    return this.call(`POST ${ENDPOINTS.login}`, { email, password }, () =>
+      this.request.post(ENDPOINTS.login, { data: { email, password } }),
     );
   }
 
@@ -99,32 +109,42 @@ export class JuiceShopClient {
     };
   }
 
+  addToBasketRaw(
+    basketId: number,
+    productId: number,
+    quantity: number,
+  ): Promise<APIResponse> {
+    const data = { BasketId: basketId, ProductId: productId, quantity };
+    return this.call(`POST ${ENDPOINTS.basketItems}`, data, () =>
+      this.request.post(ENDPOINTS.basketItems, { headers: this.authHeaders, data }),
+    );
+  }
+
   async addToBasket(
     basketId: number,
     productId: number,
     quantity: number,
   ): Promise<void> {
-    const data = { BasketId: basketId, ProductId: productId, quantity };
-    await json(
-      await this.call("POST /api/BasketItems/", data, () =>
-        this.request.post("/api/BasketItems/", { headers: this.authHeaders, data }),
-      ),
+    await json(await this.addToBasketRaw(basketId, productId, quantity));
+  }
+
+  getBasketRaw(basketId: number): Promise<APIResponse> {
+    return this.call(`GET ${ENDPOINTS.basket(basketId)}`, undefined, () =>
+      this.request.get(ENDPOINTS.basket(basketId), { headers: this.authHeaders }),
     );
   }
 
   async getBasket(basketId: number): Promise<BasketProduct[]> {
     const body = await json<{ data: { Products: BasketProduct[] } }>(
-      await this.call(`GET /rest/basket/${basketId}`, undefined, () =>
-        this.request.get(`/rest/basket/${basketId}`, { headers: this.authHeaders }),
-      ),
+      await this.getBasketRaw(basketId),
     );
     return body.data.Products;
   }
 
   async createAddress(address: TestAddress): Promise<number> {
     const body = await json<{ data: { id: number } }>(
-      await this.call("POST /api/Addresss/", address, () =>
-        this.request.post("/api/Addresss/", { headers: this.authHeaders, data: address }),
+      await this.call(`POST ${ENDPOINTS.addresses}`, address, () =>
+        this.request.post(ENDPOINTS.addresses, { headers: this.authHeaders, data: address }),
       ),
     );
     return body.data.id;
@@ -132,22 +152,29 @@ export class JuiceShopClient {
 
   async createCard(card: TestCard): Promise<number> {
     const body = await json<{ data: { id: number } }>(
-      await this.call("POST /api/Cards/", card, () =>
-        this.request.post("/api/Cards/", { headers: this.authHeaders, data: card }),
+      await this.call(`POST ${ENDPOINTS.cards}`, card, () =>
+        this.request.post(ENDPOINTS.cards, { headers: this.authHeaders, data: card }),
       ),
     );
     return body.data.id;
+  }
+
+  checkoutRaw(
+    basketId: number,
+    orderDetails: OrderDetails,
+  ): Promise<APIResponse> {
+    const data = { couponData: "", orderDetails };
+    return this.call(`POST ${ENDPOINTS.checkout(basketId)}`, data, () =>
+      this.request.post(ENDPOINTS.checkout(basketId), { headers: this.authHeaders, data }),
+    );
   }
 
   async checkout(
     basketId: number,
     orderDetails: OrderDetails,
   ): Promise<string> {
-    const data = { couponData: "", orderDetails };
     const body = await json<{ orderConfirmation: string }>(
-      await this.call(`POST /rest/basket/${basketId}/checkout`, data, () =>
-        this.request.post(`/rest/basket/${basketId}/checkout`, { headers: this.authHeaders, data }),
-      ),
+      await this.checkoutRaw(basketId, orderDetails),
     );
     return body.orderConfirmation;
   }

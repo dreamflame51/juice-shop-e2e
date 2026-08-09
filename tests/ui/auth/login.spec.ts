@@ -1,5 +1,6 @@
 import * as allure from 'allure-js-commons';
 
+import { buildUser } from '../../../src/data/user.factory';
 import { expect, test } from '../../../src/fixtures/test';
 
 test.describe('Login', () => {
@@ -19,24 +20,23 @@ test.describe('Login', () => {
     await expect(page.locator('#navbarAccount')).toBeVisible();
   });
 
-  test('Rejects a wrong password without revealing whether the account exists', async ({
+  test('Rejects invalid credentials without revealing whether the account exists', async ({
     loginPage,
     registeredUser,
   }) => {
     await allure.label('category', 'Security');
+    
+    await allure.step('wrong password for a registered account', async () => {
+      await loginPage.open();
+      await loginPage.login(registeredUser.email, 'definitely-not-the-password');
+      await expect(loginPage.errorMessage).toHaveText(/invalid email or password/i);
+    });
 
-    await loginPage.open();
-    await loginPage.login(registeredUser.email, 'definitely-not-the-password');
-
-    await expect(loginPage.errorMessage).toHaveText(/invalid email or password/i);
-  });
-
-  test('Rejects an unknown account with the same generic error', async ({ loginPage, testUser }) => {
-    await allure.label('category', 'Security');
-
-    await loginPage.open();
-    await loginPage.login(testUser.email, testUser.password);
-
-    await expect(loginPage.errorMessage).toHaveText(/invalid email or password/i);
+    await allure.step('an account that was never registered', async () => {
+      const unregistered = buildUser();
+      await loginPage.open();
+      await loginPage.login(unregistered.email, unregistered.password);
+      await expect(loginPage.errorMessage).toHaveText(/invalid email or password/i);
+    });
   });
 });
