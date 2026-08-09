@@ -4,6 +4,7 @@ import * as allure from 'allure-js-commons';
 import { JuiceShopClient, type AuthSession } from '../api/juice-shop.client';
 import { buildUser, type TestUser } from '../data/user.factory';
 import { BasketPage } from '../pages/basket.page';
+import { CheckoutPage } from '../pages/checkout.page';
 import { LoginPage } from '../pages/login.page';
 import { ProductsPage } from '../pages/products.page';
 import { RegistrationPage } from '../pages/registration.page';
@@ -24,6 +25,7 @@ interface Fixtures {
   registrationPage: RegistrationPage;
   productsPage: ProductsPage;
   basketPage: BasketPage;
+  checkoutPage: CheckoutPage;
 }
 
 /** Derives the test layer (UI / API / Perf) from the spec file's path under tests/. */
@@ -98,6 +100,10 @@ export const test = base.extend<Fixtures>({
 
   basketPage: async ({ page }, use) => {
     await use(new BasketPage(page));
+  },
+
+  checkoutPage: async ({ page }, use) => {
+    await use(new CheckoutPage(page));
   },
 });
 

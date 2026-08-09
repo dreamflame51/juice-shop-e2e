@@ -67,6 +67,15 @@ tests/
 - No hardcoded URLs/secrets — pulled from config
 - Tagged by domain (epic) and category per Reporting section
 - Reuses an existing page object/fixture if one exists — don't duplicate
+- Added (or updated) as a row in `docs/test-catalog.md` — see below
+
+## Test Catalog — HARD RULE
+`docs/test-catalog.md` is the single source of truth for every spec/scenario
+in the suite: what it covers, its steps, and its layer/category. Any time a
+spec is added, removed, or its scenario changes (new test case, changed
+steps, changed category), update the catalog in the same change — do not
+leave it for a follow-up. This applies whether the spec was written by hand
+or generated. Stale rows are worse than no catalog.
 
 ## Performance (k6)
 - Scenario: login → add-to-basket → checkout under load (stateful writes, not

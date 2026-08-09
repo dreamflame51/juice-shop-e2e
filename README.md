@@ -17,7 +17,8 @@ log](docs/healed-tests/)) instead of hand-authoring every selector.
 
 📊 **[Latest Allure report](https://dreamflame51.github.io/juice-shop-e2e/)** ·
 ⚡ **[Latest k6 report](https://dreamflame51.github.io/juice-shop-e2e/perf/)** ·
-🩹 **[Healed tests log](docs/healed-tests/)**
+🩹 **[Healed tests log](docs/healed-tests/)** ·
+📋 **[Test catalog](docs/test-catalog.md)**
 
 ---
 
