@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":27,"email":"kenya50.rltbdo1o@e2e.test","updatedAt":"2026-08-09T13:36:31.860Z","createdAt":"2026-08-09T13:36:31.860Z","deletedAt":null}}

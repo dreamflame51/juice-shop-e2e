@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Victoria Fisher","mobileNum":2793864164,"zipCode":"34523","streetAddress":"12407 Gilbert Forest","city":"Palo Alto","state":"North Dakota","country":"Guadeloupe","UserId":28,"updatedAt":"2026-08-09T13:36:33.259Z","createdAt":"2026-08-09T13:36:33.259Z"}}

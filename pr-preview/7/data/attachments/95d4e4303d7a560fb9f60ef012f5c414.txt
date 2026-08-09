@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dixie Wuckert I","mobileNum":1583210360,"zipCode":"48794","streetAddress":"301 Washington Avenue","city":"New Tessworth","state":"Alaska","country":"Canada","UserId":23,"updatedAt":"2026-08-09T13:36:27.691Z","createdAt":"2026-08-09T13:36:27.691Z"}}
