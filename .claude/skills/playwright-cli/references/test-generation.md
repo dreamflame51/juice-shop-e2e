@@ -422,6 +422,13 @@ Only after the user answers, either update the spec (intentional change) or file
 - Fix failures one at a time; rerun after each.
 - If after thorough investigation you are confident the test is correct but the app is wrong *and* the user has confirmed it's a bug: mark the test `test.fixme(...)` with a comment pointing at the user's decision or issue link. Never silently skip.
 
+### 3.6 Log the heal
+
+Once a failure required real diagnosis (not just a rerun), append an entry to
+[`docs/healed-tests/log.json`](../../../docs/healed-tests/log.json) — see
+that directory's `README.md` for the schema. Skip this for failures that
+turned out to be pure flakes with no code change.
+
 ---
 
 ## Cross-references
