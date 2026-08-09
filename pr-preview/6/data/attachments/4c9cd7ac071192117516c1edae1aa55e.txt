@@ -1,2 +1,0 @@
-201 http://localhost:3000/api/Addresss/
-{"status":"success","data":{"id":7,"fullName":"Della Fritsch-Herzog Jr.","mobileNum":1051058480,"zipCode":"61246","streetAddress":"879 Sandy Lane","city":"South Velda","state":"Virginia","country":"Algeria","UserId":22,"updatedAt":"2026-08-09T05:16:28.875Z","createdAt":"2026-08-09T05:16:28.875Z"}}
