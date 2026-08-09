@@ -1,0 +1,1 @@
+{"id":"cfdaaa0b4d13e75be455a7b403d6659e","fullName":"api/auth/login.spec.ts:34:3","name":"is not bypassable via SQL injection in the email field","status":"passed","testResultsByEnv":{"default":"4bd84b913479e40151c9abfc120290b8"}}

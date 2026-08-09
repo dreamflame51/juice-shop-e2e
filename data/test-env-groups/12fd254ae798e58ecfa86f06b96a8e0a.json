@@ -1,0 +1,1 @@
+{"id":"12fd254ae798e58ecfa86f06b96a8e0a","fullName":"ui/auth/registration.spec.ts:31:3","name":"blocks submission when the repeated password does not match","status":"passed","testResultsByEnv":{"default":"f01ba8e0f46253e0f1cdeb5ebc6208ed"}}

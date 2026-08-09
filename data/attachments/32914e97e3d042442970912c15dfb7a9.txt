@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Jerome Friesen","mobileNum":6212517273,"zipCode":"08311","streetAddress":"4665 Eladio Loop","city":"Kansas City","state":"Maryland","country":"Northern Mariana Islands","UserId":24,"updatedAt":"2026-08-09T03:23:31.112Z","createdAt":"2026-08-09T03:23:31.112Z"}}
