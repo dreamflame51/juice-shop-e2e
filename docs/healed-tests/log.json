@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-08-08",
+    "spec": "tests/api/basket/checkout.spec.ts",
+    "tests": [
+      "@smoke Completes an order end to end and returns a confirmation",
+      "Empties the basket once the order is placed"
+    ],
+    "symptom": "Intermittent 400s from POST /api/Addresss/ and POST /api/Cards/ — \"Validation len on zipCode failed\" / \"Validation min on expYear failed\".",
+    "rootCause": "Test data factories generated occasionally-invalid values: faker.location.zipCode() sometimes produced a non-5/6-digit format, and card.factory.ts used faker.date.future() for expYear, which can land below Juice Shop's server-side minimum. That minimum turned out to be a hardcoded 2080, unrelated to the current date.",
+    "fix": "Pinned zipCode to a fixed 5-digit pattern in address.factory.ts. Rewrote expYear generation in card.factory.ts to a range of 2080-2099, matching the value tests/perf/checkout.js already used. Confirmed the 2080 boundary by probing POST /api/Cards/ directly with a range of years.",
+    "files": [
+      "src/data/address.factory.ts",
+      "src/data/card.factory.ts"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "spec": "tests/ui/auth/registration.spec.ts",
+    "tests": ["@smoke A new customer can register and then log in"],
+    "symptom": "Test timeout of 45000ms exceeded clicking the security-question mat-label; log showed 79 retries all failing with \"<mat-select> subtree intercepts pointer events\".",
+    "rootCause": "RegistrationPage.selectFirstSecurityQuestion() used clickUntilVisible() with the <mat-label> as the trigger to open the security-question dropdown. The label never opens the Angular Material select — only the mat-select trigger itself does — so the click was retried forever against the wrong element while the mat-select's own overlay intercepted pointer events.",
+    "fix": "Changed the clickUntilVisible() trigger from securityQuestionLabel to securityQuestion (the mat-select itself), confirmed via playwright-cli that clicking the mat-select directly opens the option list. Removed the now-unused securityQuestionLabel locator.",
+    "files": ["src/pages/registration.page.ts"]
+  },
+  {
+    "date": "2026-08-08",
+    "spec": "tests/ui/basket/add-to-basket.spec.ts",
+    "tests": ["@smoke An authenticated user can add a product to the basket"],
+    "symptom": "expect(locator).toContainText() timed out with \"element(s) not found\" for locator('[matsnackbarlabel]'), even though the basket count in the UI had already incremented to 1.",
+    "rootCause": "The [matsnackbarlabel] attribute selector no longer matches the app's current Angular Material markup. Using playwright-cli to click \"Add to Basket\" and inspect the live DOM showed the toast text actually lives in a .mat-simple-snack-bar-content span inside a snack-bar-container appended to the body.",
+    "fix": "Updated ProductsPage.snackbar to locator('.mat-simple-snack-bar-content'). The existing /placed .* into basket/i assertion text was already correct for a first add (confirmed live) and was left unchanged.",
+    "files": ["src/pages/products.page.ts"]
+  }
+]

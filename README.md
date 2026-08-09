@@ -12,7 +12,8 @@ standards as a portfolio project.
 [![k6](https://img.shields.io/badge/k6-load%20testing-7D64FF?logo=k6&logoColor=white)](https://k6.io)
 
 📊 **[Latest Allure report](https://dreamflame51.github.io/juice-shop-e2e/)** ·
-⚡ **[Latest k6 report](https://dreamflame51.github.io/juice-shop-e2e/perf/)**
+⚡ **[Latest k6 report](https://dreamflame51.github.io/juice-shop-e2e/perf/)** ·
+🩹 **[Healed tests log](docs/healed-tests/)**
 
 ---
 
