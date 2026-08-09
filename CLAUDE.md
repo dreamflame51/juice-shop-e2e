@@ -76,6 +76,11 @@ spec is added, removed, or its scenario changes (new test case, changed
 steps, changed category), update the catalog in the same change — do not
 leave it for a follow-up. This applies whether the spec was written by hand
 or generated. Stale rows are worse than no catalog.
+- Each test row must name the fixtures used for setup *before* the test's
+  first step (e.g. `authedPage` registers + logs in a user via the API,
+  `registeredUser` registers but doesn't authenticate) — not just the steps
+  the test body performs. This makes it clear at a glance whether a test
+  drives auth/setup through the UI or starts from already-seeded state.
 
 ## Performance (k6)
 - Scenario: login → add-to-basket → checkout under load (stateful writes, not
