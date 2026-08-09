@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nichole Buckridge","mobileNum":4893286372,"zipCode":"88867","streetAddress":"61709 The Limes","city":"Lansing","state":"South Carolina","country":"Cambodia","UserId":22,"updatedAt":"2026-08-09T03:46:28.891Z","createdAt":"2026-08-09T03:46:28.891Z"}}
