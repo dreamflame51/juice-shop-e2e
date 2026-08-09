@@ -3,7 +3,11 @@
 Playwright + TypeScript end-to-end automation against [OWASP Juice
 Shop](https://owasp.org/www-project-juice-shop/) — UI, API and load coverage,
 reported through Allure 3 and gated in GitHub Actions. Built to production
-standards as a portfolio project.
+standards as a portfolio project. The suite is co-developed with
+[`@playwright/cli`](https://www.npmjs.com/package/@playwright/cli) wired in as
+an agentic skill — Claude Code drives a real browser to explore the SUT,
+generate locators, and heal broken specs (see [healed tests
+log](docs/healed-tests/)) instead of hand-authoring every selector.
 
 [![PR](https://github.com/dreamflame51/juice-shop-e2e/actions/workflows/pr.yml/badge.svg)](https://github.com/dreamflame51/juice-shop-e2e/actions/workflows/pr.yml)
 [![Nightly](https://github.com/dreamflame51/juice-shop-e2e/actions/workflows/nightly.yml/badge.svg)](https://github.com/dreamflame51/juice-shop-e2e/actions/workflows/nightly.yml)
@@ -60,10 +64,11 @@ it. Nothing environment-specific is hardcoded in source.
 
 ```
 src/
-  api/        typed Juice Shop REST client
-  data/       faker-based factories — unique data per test
-  fixtures/   authedPage, api, registeredUser, session, page objects
-  pages/      POM — locators and actions only, zero assertions
+  api/        typed Juice Shop REST client (juice-shop.client.ts)
+  data/       faker-based factories — user, address, card
+  fixtures/   test.ts — testUser, api, registeredUser, session, authedPage,
+              page-object fixtures, auto Allure layer labelling
+  pages/      POM — login, registration, products, basket (locators/actions only)
   utils/      env config loader, wait strategies
 tests/
   ui/{auth,basket}/
@@ -78,9 +83,9 @@ tests/
 ## Reporting
 
 Every spec is tagged with an `epic` (domain) and a `category`
-(`functional` | `security` | `perf-relevant`), so the Allure report groups by
-both. Trend and flaky history live in `allure-history/history.jsonl`, restored
-from and saved to the GitHub Actions cache on every nightly run.
+(`Functional` | `Security` | `Performance`), so the Allure report groups by
+both. Trend and flaky history live under `allure-history/`, restored from and
+saved to the GitHub Actions cache on every nightly run.
 
 Each pull request also gets its own Allure preview, deployed to
 `pr-preview/<PR#>/` on the `gh-pages` branch and linked from the job summary —
@@ -94,7 +99,10 @@ between steps. It runs nightly only, against the Dockerized SUT. `npm run perf`
 writes `perf-summary.json` and a `perf-summary.html` report (via
 [k6-reporter](https://github.com/benc-uk/k6-reporter)) alongside the stdout
 summary — open the HTML file directly in a browser to view results locally.
-Both files are published as the `k6-summary` CI artifact.
+On the nightly run both files are uploaded as the `k6-summary` CI artifact and
+then embedded into the published Allure site at
+**[/perf/](https://dreamflame51.github.io/juice-shop-e2e/perf/)** — no need to
+download an artifact to see the load-test report.
 
 **Baseline** (local, Dockerized SUT, 180 iterations, 0 failures):
 
@@ -126,7 +134,7 @@ previous run.
 | Trigger     | What runs                                                                 |
 | ----------- | -------------------------------------------------------------------------- |
 | **PR**      | Lint, typecheck, `@smoke` suite — fast gate, plus an Allure preview link  |
-| **Nightly** | Full suite sharded 4 ways, Allure report published to GitHub Pages, k6 load run with its summary archived |
+| **Nightly** | Full suite sharded 4 ways, Allure report published to GitHub Pages, k6 load run with its summary published into the report (and archived as a CI artifact) |
 
 `TEST_USER_PASSWORD` is supplied as a repository secret; no credentials live in
 the repo.

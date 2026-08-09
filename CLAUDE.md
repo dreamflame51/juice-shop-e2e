@@ -96,3 +96,11 @@ replacement for committed Playwright specs. Run commands via
 No other custom Claude Code skills yet. Additional project-specific skills
 (domain mapping, scenario planning, spec generation, spec healing) may be
 added later as the project matures.
+
+## Keeping the README current
+Whenever a change touches CI workflows, reporting/Allure categories or
+history handling, the perf/k6 pipeline, directory layout, or scripts —
+re-check `README.md` (and `docs/healed-tests/README.md` if relevant) for
+drift before considering the task done. Stale examples (wrong category
+names, wrong artifact-vs-published-report claims, wrong paths) are worse than
+no docs.
