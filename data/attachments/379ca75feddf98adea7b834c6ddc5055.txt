@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nina Graham","mobileNum":3834434084,"zipCode":"91121","streetAddress":"313 Woodland Road","city":"Indianapolis","state":"Oklahoma","country":"Venezuela","UserId":25,"updatedAt":"2026-08-10T03:42:26.309Z","createdAt":"2026-08-10T03:42:26.309Z"}}

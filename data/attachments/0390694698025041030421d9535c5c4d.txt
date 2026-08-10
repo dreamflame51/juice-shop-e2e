@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Sammy Maggio","mobileNum":3892574807,"zipCode":"33236","streetAddress":"549 Clotilde Overpass","city":"New Joan","state":"Arkansas","country":"Mauritius","UserId":24,"updatedAt":"2026-08-10T03:42:26.361Z","createdAt":"2026-08-10T03:42:26.361Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Samantha Donnelly","mobileNum":6324554867,"zipCode":"71844","streetAddress":"875 Balistreri Ridges","city":"Port Maymiehaven","state":"Tennessee","country":"Estonia","UserId":28,"updatedAt":"2026-08-10T03:42:20.864Z","createdAt":"2026-08-10T03:42:20.864Z"}}

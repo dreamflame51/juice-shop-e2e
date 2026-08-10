@@ -1,0 +1,1 @@
+{"id":"bc9dfeb9383c832d4f933dcb59ee92d4","fullName":"api/basket/isolation.spec.ts:28:3","name":"Does not let another user read a victim's basket contents","status":"passed","testResultsByEnv":{"default":"126f914495ebca0fecb115e2e1d637fd"}}
