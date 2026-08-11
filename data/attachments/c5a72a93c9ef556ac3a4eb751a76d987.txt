@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Cody Smitham","mobileNum":8751745292,"zipCode":"98035","streetAddress":"734 Brook Street","city":"Aliaside","state":"Nevada","country":"Finland","UserId":27,"updatedAt":"2026-08-11T03:25:05.660Z","createdAt":"2026-08-11T03:25:05.660Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Eddie Bartell","mobileNum":5681883254,"zipCode":"47943","streetAddress":"4743 Lodge Lane","city":"Largo","state":"South Carolina","country":"Brunei Darussalam","UserId":25,"updatedAt":"2026-08-11T03:25:03.581Z","createdAt":"2026-08-11T03:25:03.581Z"}}

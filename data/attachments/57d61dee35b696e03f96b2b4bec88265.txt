@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Geoffrey Flatley","mobileNum":8987993137,"zipCode":"20988","streetAddress":"7704 Gabriel Trafficway","city":"Boscostead","state":"Alaska","country":"Solomon Islands","UserId":23,"updatedAt":"2026-08-11T03:25:01.979Z","createdAt":"2026-08-11T03:25:01.979Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Harold Hackett-Quigley","cardNum":4489402069721111,"expMonth":9,"expYear":2080,"UserId":24,"updatedAt":"2026-08-11T03:25:03.591Z","createdAt":"2026-08-11T03:25:03.591Z"}}
