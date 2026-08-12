@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Floyd Emmerich","mobileNum":291888306,"zipCode":"83660","streetAddress":"2990 N Railroad Street","city":"Southfield","state":"North Carolina","country":"Bonaire, Sint Eustatius and Saba","UserId":25,"updatedAt":"2026-08-12T03:54:09.572Z","createdAt":"2026-08-12T03:54:09.572Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Leo Franey","mobileNum":6250280711,"zipCode":"52403","streetAddress":"97363 Araceli Mills","city":"Fort Garrison","state":"Idaho","country":"North Macedonia","UserId":22,"updatedAt":"2026-08-12T03:53:31.378Z","createdAt":"2026-08-12T03:53:31.378Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Elena Dooley","mobileNum":2092314242,"zipCode":"39357","streetAddress":"3439 Stark Passage","city":"New Emmyberg","state":"Utah","country":"Russian Federation","UserId":28,"updatedAt":"2026-08-12T03:53:46.438Z","createdAt":"2026-08-12T03:53:46.438Z"}}

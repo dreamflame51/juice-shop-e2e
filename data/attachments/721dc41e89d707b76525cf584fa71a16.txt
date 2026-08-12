@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Jermaine Bosco","mobileNum":8597731650,"zipCode":"19676","streetAddress":"889 Aracely Skyway","city":"Rosemarytown","state":"Alabama","country":"Jamaica","UserId":24,"updatedAt":"2026-08-12T03:54:09.581Z","createdAt":"2026-08-12T03:54:09.581Z"}}

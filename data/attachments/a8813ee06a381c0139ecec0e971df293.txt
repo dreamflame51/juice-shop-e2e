@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Edmond Veum","cardNum":4238555459871111,"expMonth":5,"expYear":2088,"UserId":25,"updatedAt":"2026-08-12T03:54:09.588Z","createdAt":"2026-08-12T03:54:09.588Z"}}
