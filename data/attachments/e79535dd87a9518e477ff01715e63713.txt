@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Austin Osinski","mobileNum":6121083199,"zipCode":"72771","streetAddress":"6692 Cedar Grove","city":"Leeton","state":"Pennsylvania","country":"Christmas Island","UserId":27,"updatedAt":"2026-08-13T03:57:48.931Z","createdAt":"2026-08-13T03:57:48.931Z"}}

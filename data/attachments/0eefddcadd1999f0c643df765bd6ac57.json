@@ -1,0 +1,9 @@
+{
+  "email": "marcelina_hirthe52.9p1gf9c2@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Stella"
+}

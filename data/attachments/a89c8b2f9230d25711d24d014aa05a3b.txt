@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Angel Lang","mobileNum":6091185035,"zipCode":"56535","streetAddress":"6816 Kiarra Summit","city":"Port Josephine","state":"North Dakota","country":"Curacao","UserId":22,"updatedAt":"2026-08-13T03:57:39.210Z","createdAt":"2026-08-13T03:57:39.210Z"}}

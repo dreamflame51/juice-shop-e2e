@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Grace Blick","mobileNum":5033441275,"zipCode":"54849","streetAddress":"945 Hoppe Islands","city":"Palm Harbor","state":"Alaska","country":"Saint Lucia","UserId":25,"updatedAt":"2026-08-13T03:57:26.103Z","createdAt":"2026-08-13T03:57:26.103Z"}}

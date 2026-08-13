@@ -1,0 +1,2 @@
+200 http://localhost:3000/rest/basket/7
+{"status":"success","data":{"id":7,"coupon":null,"UserId":24,"createdAt":"2026-08-13T03:57:26.037Z","updatedAt":"2026-08-13T03:57:26.037Z","Products":[{"id":1,"name":"Apple Juice (1000ml)","description":"The all-time classic.","price":1.99,"deluxePrice":0.99,"image":"apple_juice.jpg","createdAt":"2026-08-13T03:57:19.711Z","updatedAt":"2026-08-13T03:57:19.711Z","deletedAt":null,"BasketItem":{"ProductId":1,"BasketId":7,"id":9,"quantity":2,"createdAt":"2026-08-13T03:57:26.065Z","updatedAt":"2026-08-13T03:57:26.065Z"}}]}}
