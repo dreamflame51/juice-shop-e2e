@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jordan Treutel","mobileNum":8862736400,"zipCode":"03012","streetAddress":"250 Conn Heights","city":"Laguna Niguel","state":"Florida","country":"Colombia","UserId":28,"updatedAt":"2026-08-14T03:54:11.079Z","createdAt":"2026-08-14T03:54:11.079Z"}}

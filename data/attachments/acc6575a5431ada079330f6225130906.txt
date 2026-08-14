@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Glenn Haley II","mobileNum":9893612514,"zipCode":"72197","streetAddress":"6103 Christ Lock","city":"Fort Miguelborough","state":"Utah","country":"Western Sahara","UserId":24,"updatedAt":"2026-08-14T03:54:15.157Z","createdAt":"2026-08-14T03:54:15.157Z"}}

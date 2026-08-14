@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Shelley Reinger","mobileNum":3065343974,"zipCode":"83011","streetAddress":"2740 Willow Drive","city":"Waylonland","state":"Rhode Island","country":"Austria","UserId":25,"updatedAt":"2026-08-14T03:54:15.164Z","createdAt":"2026-08-14T03:54:15.164Z"}}

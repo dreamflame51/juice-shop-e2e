@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Jack MacGyver","cardNum":4065626743531111,"expMonth":11,"expYear":2089,"UserId":25,"updatedAt":"2026-08-14T03:54:15.179Z","createdAt":"2026-08-14T03:54:15.179Z"}}

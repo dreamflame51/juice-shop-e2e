@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mildred Lebsack","mobileNum":7204579523,"zipCode":"53350","streetAddress":"50797 Stanley Road","city":"Verliehaven","state":"Michigan","country":"Niue","UserId":23,"updatedAt":"2026-08-14T03:54:13.960Z","createdAt":"2026-08-14T03:54:13.960Z"}}
