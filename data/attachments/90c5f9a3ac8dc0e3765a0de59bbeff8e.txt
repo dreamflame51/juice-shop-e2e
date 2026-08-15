@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Jeffrey Carter MD","mobileNum":2072582387,"zipCode":"06046","streetAddress":"6774 Lennie Island","city":"Port Marcelberg","state":"New York","country":"Bhutan","UserId":25,"updatedAt":"2026-08-15T02:42:44.883Z","createdAt":"2026-08-15T02:42:44.883Z"}}

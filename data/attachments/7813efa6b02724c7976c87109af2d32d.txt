@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Glenn Sanford","mobileNum":4404848291,"zipCode":"77714","streetAddress":"30772 Jessie Causeway","city":"North Brownview","state":"Indiana","country":"Cambodia","UserId":28,"updatedAt":"2026-08-15T02:42:53.036Z","createdAt":"2026-08-15T02:42:53.036Z"}}

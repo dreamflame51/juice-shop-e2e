@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Bethany Orn MD","cardNum":4301906535701111,"expMonth":6,"expYear":2094,"UserId":25,"updatedAt":"2026-08-15T02:42:44.891Z","createdAt":"2026-08-15T02:42:44.891Z"}}

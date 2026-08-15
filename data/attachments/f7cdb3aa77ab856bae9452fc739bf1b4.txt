@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Sergio Wilderman V","cardNum":4256036845821111,"expMonth":9,"expYear":2095,"UserId":22,"updatedAt":"2026-08-15T02:42:57.217Z","createdAt":"2026-08-15T02:42:57.217Z"}}
