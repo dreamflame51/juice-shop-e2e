@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Christina Lehner Jr.","mobileNum":4908982572,"zipCode":"99712","streetAddress":"299 Luis Courts","city":"Buckridgemouth","state":"Arkansas","country":"Guam","UserId":28,"updatedAt":"2026-08-16T02:50:36.716Z","createdAt":"2026-08-16T02:50:36.716Z"}}

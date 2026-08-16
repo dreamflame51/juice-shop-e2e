@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Valerie Oberbrunner","cardNum":4268292173631111,"expMonth":3,"expYear":2088,"UserId":25,"updatedAt":"2026-08-16T02:50:54.721Z","createdAt":"2026-08-16T02:50:54.721Z"}}

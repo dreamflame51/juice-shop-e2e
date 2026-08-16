@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lucy Quigley","mobileNum":142530177,"zipCode":"68023","streetAddress":"308 Vicenta Highway","city":"North Ellsworthboro","state":"Vermont","country":"Azerbaijan","UserId":22,"updatedAt":"2026-08-16T02:50:51.221Z","createdAt":"2026-08-16T02:50:51.221Z"}}

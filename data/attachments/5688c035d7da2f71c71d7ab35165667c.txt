@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Forrest Bradtke","mobileNum":2861271372,"zipCode":"40979","streetAddress":"95778 Gleichner Manor","city":"Wiegandberg","state":"Nevada","country":"South Africa","UserId":24,"updatedAt":"2026-08-16T02:50:54.697Z","createdAt":"2026-08-16T02:50:54.697Z"}}

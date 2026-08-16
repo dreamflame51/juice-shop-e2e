@@ -1,0 +1,9 @@
+{
+  "email": "mark.wolf82.gsde0udo@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Bandit"
+}
