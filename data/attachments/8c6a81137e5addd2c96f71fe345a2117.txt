@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Luis Feeney","mobileNum":7701049658,"zipCode":"96813","streetAddress":"34816 Hyatt Lake","city":"Lempitown","state":"Delaware","country":"Niue","UserId":24,"updatedAt":"2026-08-17T02:51:09.988Z","createdAt":"2026-08-17T02:51:09.988Z"}}

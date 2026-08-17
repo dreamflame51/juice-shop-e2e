@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Patti Price","mobileNum":5828046634,"zipCode":"98109","streetAddress":"735 11th Street","city":"New Norwoodcester","state":"Rhode Island","country":"El Salvador","UserId":28,"updatedAt":"2026-08-17T02:51:18.481Z","createdAt":"2026-08-17T02:51:18.481Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Shannon Denesik","cardNum":4458434811081111,"expMonth":7,"expYear":2087,"UserId":24,"updatedAt":"2026-08-17T02:51:09.994Z","createdAt":"2026-08-17T02:51:09.994Z"}}

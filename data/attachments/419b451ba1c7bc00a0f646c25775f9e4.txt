@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Katrina Murazik-Feeney","cardNum":4251439450301111,"expMonth":4,"expYear":2092,"UserId":25,"updatedAt":"2026-08-17T02:51:09.981Z","createdAt":"2026-08-17T02:51:09.981Z"}}

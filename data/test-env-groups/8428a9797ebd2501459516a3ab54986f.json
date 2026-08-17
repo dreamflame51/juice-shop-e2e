@@ -1,1 +1,1 @@
-{"id":"8428a9797ebd2501459516a3ab54986f","fullName":"ui/products/search.spec.ts:21:3","name":"Shows a no-results state for a term that matches nothing","status":"passed","testResultsByEnv":{"default":"a8513f7e7d20afc4c91fe33ffc0bca27"}}
+{"id":"8428a9797ebd2501459516a3ab54986f","fullName":"ui/products/search.spec.ts:21:3","name":"Shows a no-results state for a term that matches nothing","status":"failed","testResultsByEnv":{"default":"27351cddd608368cd9645548f61b9de0"}}

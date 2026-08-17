@@ -1,1 +1,1 @@
-{"id":"19dc135177ce6db21bd175746fdcc134","fullName":"ui/basket/checkout.spec.ts:15:3","name":"@smoke A user can complete checkout end to end","status":"passed","testResultsByEnv":{"default":"f1c4e5a673e34f50a796aac2a3008f5c"}}
+{"id":"19dc135177ce6db21bd175746fdcc134","fullName":"ui/basket/checkout.spec.ts:15:3","name":"@smoke A user can complete checkout end to end","status":"failed","testResultsByEnv":{"default":"94b8f9f3de5a5c32eeea1bea815faf37"}}
