@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Charlie Schmeler","mobileNum":6213558211,"zipCode":"92972","streetAddress":"54653 Chloe Harbors","city":"Kentonworth","state":"Florida","country":"Solomon Islands","UserId":28,"updatedAt":"2026-08-18T02:45:42.517Z","createdAt":"2026-08-18T02:45:42.517Z"}}

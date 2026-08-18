@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Kristi Senger","cardNum":4167775305361111,"expMonth":10,"expYear":2097,"UserId":25,"updatedAt":"2026-08-18T02:45:47.969Z","createdAt":"2026-08-18T02:45:47.969Z"}}

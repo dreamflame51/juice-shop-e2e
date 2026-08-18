@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Elena Lakin","mobileNum":5665105931,"zipCode":"63126","streetAddress":"1093 Simonis Forges","city":"Lawrenceboro","state":"Texas","country":"Sri Lanka","UserId":24,"updatedAt":"2026-08-18T02:45:47.946Z","createdAt":"2026-08-18T02:45:47.946Z"}}

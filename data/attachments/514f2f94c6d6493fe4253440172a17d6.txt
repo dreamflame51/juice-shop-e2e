@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Janice McGlynn","mobileNum":4363893204,"zipCode":"71099","streetAddress":"120 Little Parks","city":"Fort Trenttown","state":"Indiana","country":"Wallis and Futuna","UserId":22,"updatedAt":"2026-08-18T02:45:43.913Z","createdAt":"2026-08-18T02:45:43.913Z"}}

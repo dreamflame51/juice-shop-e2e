@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mona Parker DVM","mobileNum":2899612898,"zipCode":"33469","streetAddress":"54024 Ebba Highway","city":"East Brittany","state":"Massachusetts","country":"Guam","UserId":25,"updatedAt":"2026-08-18T02:45:47.954Z","createdAt":"2026-08-18T02:45:47.954Z"}}
