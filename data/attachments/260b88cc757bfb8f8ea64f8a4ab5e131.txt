@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Geraldine Kling","mobileNum":4216433176,"zipCode":"36116","streetAddress":"30457 Vilma Point","city":"Myatown","state":"Mississippi","country":"El Salvador","UserId":28,"updatedAt":"2026-08-19T02:47:59.275Z","createdAt":"2026-08-19T02:47:59.275Z"}}

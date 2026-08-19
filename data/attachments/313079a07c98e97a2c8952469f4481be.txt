@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dolores Swaniawski","mobileNum":693706899,"zipCode":"71242","streetAddress":"863 Chester Grove","city":"Delilahbury","state":"Texas","country":"Democratic People's Republic of Korea","UserId":25,"updatedAt":"2026-08-19T02:48:15.726Z","createdAt":"2026-08-19T02:48:15.726Z"}}

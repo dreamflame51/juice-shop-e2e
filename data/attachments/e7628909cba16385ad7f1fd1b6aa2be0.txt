@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"dennis.metz80.gtnxcf3m@e2e.test","updatedAt":"2026-08-19T02:47:59.205Z","createdAt":"2026-08-19T02:47:59.205Z","deletedAt":null}}

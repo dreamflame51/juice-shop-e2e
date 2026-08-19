@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ismael Reynolds","mobileNum":7573297740,"zipCode":"99257","streetAddress":"2262 Brookside","city":"Lillianaboro","state":"Delaware","country":"Thailand","UserId":23,"updatedAt":"2026-08-19T02:47:51.362Z","createdAt":"2026-08-19T02:47:51.362Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mrs. Ann Will","mobileNum":9468411471,"zipCode":"69248","streetAddress":"61268 Main Road","city":"Willybury","state":"Wisconsin","country":"Egypt","UserId":24,"updatedAt":"2026-08-19T02:48:15.786Z","createdAt":"2026-08-19T02:48:15.786Z"}}
