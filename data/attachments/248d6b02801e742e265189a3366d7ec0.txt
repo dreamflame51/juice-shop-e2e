@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Carrie Mueller","mobileNum":567867427,"zipCode":"71720","streetAddress":"733 Hackett Trafficway","city":"Strosinland","state":"New Hampshire","country":"Tunisia","UserId":23,"updatedAt":"2026-08-20T02:46:48.406Z","createdAt":"2026-08-20T02:46:48.406Z"}}

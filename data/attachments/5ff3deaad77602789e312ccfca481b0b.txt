@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"edyth43.u1mjdiio@e2e.test","updatedAt":"2026-08-20T02:46:43.363Z","createdAt":"2026-08-20T02:46:43.363Z","deletedAt":null}}

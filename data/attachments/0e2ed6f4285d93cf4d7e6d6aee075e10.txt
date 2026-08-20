@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Roy Hane","mobileNum":7355668932,"zipCode":"34387","streetAddress":"63306 Pearl Street","city":"Corona","state":"Alabama","country":"Gambia","UserId":24,"updatedAt":"2026-08-20T02:46:43.695Z","createdAt":"2026-08-20T02:46:43.695Z"}}

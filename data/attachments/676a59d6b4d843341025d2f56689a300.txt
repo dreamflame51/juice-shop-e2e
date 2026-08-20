@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Pearl Russel","mobileNum":9042278663,"zipCode":"62709","streetAddress":"111 Maple Drive","city":"North Kelsieview","state":"Connecticut","country":"Falkland Islands (Malvinas)","UserId":28,"updatedAt":"2026-08-20T02:46:42.412Z","createdAt":"2026-08-20T02:46:42.412Z"}}

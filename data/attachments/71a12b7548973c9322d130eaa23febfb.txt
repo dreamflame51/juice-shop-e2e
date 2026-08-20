@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"santina.pfannerstill.l25n2vc2@e2e.test","updatedAt":"2026-08-20T02:46:42.227Z","createdAt":"2026-08-20T02:46:42.227Z","deletedAt":null}}

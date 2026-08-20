@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Joey Larson","cardNum":4328248791641111,"expMonth":2,"expYear":2081,"UserId":25,"updatedAt":"2026-08-20T02:46:43.708Z","createdAt":"2026-08-20T02:46:43.708Z"}}

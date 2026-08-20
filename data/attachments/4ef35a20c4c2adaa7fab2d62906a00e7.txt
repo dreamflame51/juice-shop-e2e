@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Lucas Hane MD","mobileNum":7318652149,"zipCode":"83148","streetAddress":"60593 Miller Valleys","city":"North Oscar","state":"California","country":"Antarctica","UserId":25,"updatedAt":"2026-08-20T02:46:43.704Z","createdAt":"2026-08-20T02:46:43.704Z"}}
