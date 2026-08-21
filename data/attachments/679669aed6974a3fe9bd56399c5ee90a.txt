@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Shari Larkin V","mobileNum":7575067309,"zipCode":"64827","streetAddress":"275 Arely Pass","city":"South Jena","state":"Delaware","country":"Ukraine","UserId":25,"updatedAt":"2026-08-21T02:54:05.541Z","createdAt":"2026-08-21T02:54:05.541Z"}}

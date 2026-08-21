@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Elena Heaney","mobileNum":8593406937,"zipCode":"50331","streetAddress":"3904 Kiera Plaza","city":"Berthaven","state":"Illinois","country":"Benin","UserId":24,"updatedAt":"2026-08-21T02:54:05.515Z","createdAt":"2026-08-21T02:54:05.515Z"}}

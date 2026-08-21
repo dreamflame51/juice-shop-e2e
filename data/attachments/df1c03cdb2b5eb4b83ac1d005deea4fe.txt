@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Katie Franey","cardNum":4137306975201111,"expMonth":5,"expYear":2092,"UserId":23,"updatedAt":"2026-08-21T02:53:59.011Z","createdAt":"2026-08-21T02:53:59.011Z"}}

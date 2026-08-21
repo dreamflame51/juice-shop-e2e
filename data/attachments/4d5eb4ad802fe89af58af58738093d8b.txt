@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jaime Runolfsson","mobileNum":8185533988,"zipCode":"72440","streetAddress":"5643 James Street","city":"Gradyburgh","state":"Delaware","country":"Libyan Arab Jamahiriya","UserId":27,"updatedAt":"2026-08-21T02:54:05.792Z","createdAt":"2026-08-21T02:54:05.792Z"}}

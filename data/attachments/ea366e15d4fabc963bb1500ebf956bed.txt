@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sarah Grady MD","mobileNum":8627310567,"zipCode":"55905","streetAddress":"4149 Amir Glen","city":"New Brisaburgh","state":"Arizona","country":"Haiti","UserId":23,"updatedAt":"2026-08-21T02:53:58.987Z","createdAt":"2026-08-21T02:53:58.987Z"}}
