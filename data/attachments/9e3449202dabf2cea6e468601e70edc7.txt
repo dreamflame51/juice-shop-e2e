@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":26,"email":"domenico86.o0t5gobj@e2e.test","updatedAt":"2026-08-22T02:44:47.271Z","createdAt":"2026-08-22T02:44:47.271Z","deletedAt":null}}

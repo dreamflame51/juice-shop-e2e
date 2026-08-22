@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"duncan.johnson89.vgw43xda@e2e.test","updatedAt":"2026-08-22T02:44:48.638Z","createdAt":"2026-08-22T02:44:48.638Z","deletedAt":null}}

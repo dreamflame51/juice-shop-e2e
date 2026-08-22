@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sonia Beer","mobileNum":6544414714,"zipCode":"79623","streetAddress":"193 Bashirian Meadow","city":"Port Michaelastad","state":"Hawaii","country":"Puerto Rico","UserId":23,"updatedAt":"2026-08-22T02:44:40.366Z","createdAt":"2026-08-22T02:44:40.366Z"}}

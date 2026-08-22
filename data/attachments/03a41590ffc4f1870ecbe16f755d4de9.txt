@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dianne Heathcote","mobileNum":8379869716,"zipCode":"84040","streetAddress":"802 University Drive","city":"Omerstad","state":"North Carolina","country":"Nicaragua","UserId":25,"updatedAt":"2026-08-22T02:44:49.474Z","createdAt":"2026-08-22T02:44:49.474Z"}}

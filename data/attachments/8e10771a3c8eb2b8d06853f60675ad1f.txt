@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Archie Durgan-Parker","mobileNum":2752591872,"zipCode":"10533","streetAddress":"3253 Maple Road","city":"Huntington Beach","state":"Nevada","country":"Kyrgyz Republic","UserId":28,"updatedAt":"2026-08-22T02:44:47.477Z","createdAt":"2026-08-22T02:44:47.477Z"}}

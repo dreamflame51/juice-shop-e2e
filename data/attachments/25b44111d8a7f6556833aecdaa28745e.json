@@ -1,0 +1,9 @@
+{
+  "email": "preston.senger91.o1asz6hy@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Bruno"
+}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Felix Keeling-Kiehn","mobileNum":2654886847,"zipCode":"76825","streetAddress":"5589 Rose Cape","city":"Krystinafurt","state":"Maine","country":"Brunei Darussalam","UserId":24,"updatedAt":"2026-08-22T02:44:49.544Z","createdAt":"2026-08-22T02:44:49.544Z"}}
