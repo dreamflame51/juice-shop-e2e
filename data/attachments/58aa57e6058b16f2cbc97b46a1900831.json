@@ -1,0 +1,9 @@
+{
+  "email": "josue.christiansen84.rv5wmrxk@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Stella"
+}

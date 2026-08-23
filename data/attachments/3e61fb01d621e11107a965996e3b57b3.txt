@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Teri Wyman","mobileNum":147454683,"zipCode":"56613","streetAddress":"32059 S Monroe Street","city":"Giannistead","state":"Idaho","country":"Austria","UserId":25,"updatedAt":"2026-08-23T02:53:13.035Z","createdAt":"2026-08-23T02:53:13.035Z"}}

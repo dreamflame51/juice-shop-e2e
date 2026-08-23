@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Renee Cruickshank","mobileNum":327240427,"zipCode":"33868","streetAddress":"11422 Commercial Road","city":"New Brendon","state":"Michigan","country":"Hungary","UserId":28,"updatedAt":"2026-08-23T02:52:58.725Z","createdAt":"2026-08-23T02:52:58.725Z"}}

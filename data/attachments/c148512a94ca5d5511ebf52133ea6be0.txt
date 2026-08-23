@@ -1,0 +1,2 @@
+200 http://localhost:3000/api/BasketItems/
+{"status":"success","data":{"id":10,"ProductId":1,"BasketId":8,"quantity":1,"updatedAt":"2026-08-23T02:53:13.016Z","createdAt":"2026-08-23T02:53:13.016Z"}}

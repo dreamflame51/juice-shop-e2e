@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Miranda Lehner","mobileNum":1964096797,"zipCode":"17518","streetAddress":"761 Jon Ford","city":"Lake Kennethview","state":"Minnesota","country":"Hungary","UserId":23,"updatedAt":"2026-08-23T02:53:04.310Z","createdAt":"2026-08-23T02:53:04.310Z"}}

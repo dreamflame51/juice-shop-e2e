@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"cleta.funk37.6ebo6uqr@e2e.test","updatedAt":"2026-08-23T02:53:12.944Z","createdAt":"2026-08-23T02:53:12.944Z","deletedAt":null}}
