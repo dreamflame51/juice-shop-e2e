@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"delpha.corwin.5yxfaehh@e2e.test","updatedAt":"2026-08-24T02:54:10.230Z","createdAt":"2026-08-24T02:54:10.230Z","deletedAt":null}}

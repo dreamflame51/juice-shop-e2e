@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Darrin Leuschke","mobileNum":6552484592,"zipCode":"49370","streetAddress":"92985 Rectory Close","city":"Merlinstad","state":"Florida","country":"Nicaragua","UserId":22,"updatedAt":"2026-08-24T02:54:00.361Z","createdAt":"2026-08-24T02:54:00.361Z"}}

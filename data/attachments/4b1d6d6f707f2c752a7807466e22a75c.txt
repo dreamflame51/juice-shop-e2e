@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"cleo.gutmann.yjqgodzn@e2e.test","updatedAt":"2026-08-24T02:54:11.560Z","createdAt":"2026-08-24T02:54:11.560Z","deletedAt":null}}

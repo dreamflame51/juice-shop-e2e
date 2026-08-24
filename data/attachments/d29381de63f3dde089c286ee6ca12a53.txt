@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Sherry Gleason Sr.","mobileNum":470760880,"zipCode":"62625","streetAddress":"72736 Fahey Valleys","city":"Sethstad","state":"Massachusetts","country":"Jamaica","UserId":28,"updatedAt":"2026-08-24T02:54:10.325Z","createdAt":"2026-08-24T02:54:10.325Z"}}
