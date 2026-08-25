@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Stuart Heathcote","mobileNum":5492105775,"zipCode":"87088","streetAddress":"6081 Lilly Hill","city":"Fort Annieville","state":"Michigan","country":"Anguilla","UserId":28,"updatedAt":"2026-08-25T02:49:29.833Z","createdAt":"2026-08-25T02:49:29.833Z"}}

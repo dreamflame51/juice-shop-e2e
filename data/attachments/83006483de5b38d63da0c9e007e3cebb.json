@@ -1,0 +1,9 @@
+{
+  "email": "bonnie_lubowitz78.h6qae9ww@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Ollie"
+}

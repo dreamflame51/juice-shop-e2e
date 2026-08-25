@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Darnell Lynch","mobileNum":1581464862,"zipCode":"48563","streetAddress":"772 Liberty Street","city":"West Ada","state":"Missouri","country":"Seychelles","UserId":22,"updatedAt":"2026-08-25T02:50:16.906Z","createdAt":"2026-08-25T02:50:16.906Z"}}

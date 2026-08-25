@@ -1,1 +1,1 @@
-{"id":"84c4d08c3aec3e40faf365d71b67b22f","fullName":"ui/basket/add-to-basket.spec.ts:32:3","name":"Basket seeded through the API is reflected in the UI","status":"passed","testResultsByEnv":{"default":"290992e90601ad1f93fbcc60c39830c6"}}
+{"id":"84c4d08c3aec3e40faf365d71b67b22f","fullName":"ui/basket/add-to-basket.spec.ts:32:3","name":"Basket seeded through the API is reflected in the UI","status":"passed","testResultsByEnv":{"default":"29efcc8ee116a956c2692cd73dc78317"}}

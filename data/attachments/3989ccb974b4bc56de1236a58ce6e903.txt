@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Warren Wisozk","mobileNum":7743041771,"zipCode":"93668","streetAddress":"894 Schaden Drives","city":"North Quinten","state":"Connecticut","country":"Eritrea","UserId":25,"updatedAt":"2026-08-25T02:49:35.800Z","createdAt":"2026-08-25T02:49:35.800Z"}}

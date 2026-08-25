@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Aubrey Gusikowski","cardNum":4129576282811111,"expMonth":1,"expYear":2092,"UserId":24,"updatedAt":"2026-08-25T02:49:35.869Z","createdAt":"2026-08-25T02:49:35.869Z"}}
