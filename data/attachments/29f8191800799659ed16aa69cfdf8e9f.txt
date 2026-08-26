@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Micheal Hills","mobileNum":8076598333,"zipCode":"07563","streetAddress":"857 Jackson Avenue","city":"Coystead","state":"Montana","country":"Honduras","UserId":24,"updatedAt":"2026-08-26T02:55:52.370Z","createdAt":"2026-08-26T02:55:52.370Z"}}

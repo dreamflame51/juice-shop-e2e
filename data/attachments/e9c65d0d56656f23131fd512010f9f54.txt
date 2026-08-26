@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kate Kuhlman","mobileNum":9229064300,"zipCode":"40809","streetAddress":"858 Keebler Fort","city":"Leslybury","state":"Montana","country":"Paraguay","UserId":23,"updatedAt":"2026-08-26T02:55:40.969Z","createdAt":"2026-08-26T02:55:40.969Z"}}

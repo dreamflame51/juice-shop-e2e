@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Tricia Bergstrom","mobileNum":811479721,"zipCode":"69073","streetAddress":"140 Quitzon Crossroad","city":"Herzogfield","state":"South Dakota","country":"Cameroon","UserId":25,"updatedAt":"2026-08-26T02:55:52.378Z","createdAt":"2026-08-26T02:55:52.378Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Andre Rice","mobileNum":8666993025,"zipCode":"41120","streetAddress":"4666 Martin Luther King Boulevard","city":"Weissnatton","state":"Rhode Island","country":"Peru","UserId":27,"updatedAt":"2026-08-26T02:55:43.436Z","createdAt":"2026-08-26T02:55:43.436Z"}}

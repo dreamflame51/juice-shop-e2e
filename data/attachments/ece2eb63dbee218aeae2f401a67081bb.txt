@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"jerod51.zr6tfl9q@e2e.test","updatedAt":"2026-08-26T02:55:43.848Z","createdAt":"2026-08-26T02:55:43.848Z","deletedAt":null}}

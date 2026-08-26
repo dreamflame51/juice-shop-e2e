@@ -1,0 +1,9 @@
+{
+  "email": "zora_anderson98.hog9g3xo@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Bella"
+}
