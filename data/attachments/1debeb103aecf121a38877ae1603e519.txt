@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Brandy Schmitt","cardNum":4824466221761111,"expMonth":3,"expYear":2092,"UserId":24,"updatedAt":"2026-08-27T12:05:33.849Z","createdAt":"2026-08-27T12:05:33.849Z"}}

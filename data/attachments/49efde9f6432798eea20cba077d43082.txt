@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Thomas Rowe DVM","mobileNum":7504258998,"zipCode":"60204","streetAddress":"90759 Daniel Club","city":"East Dolly","state":"Washington","country":"Hong Kong","UserId":28,"updatedAt":"2026-08-27T12:05:49.173Z","createdAt":"2026-08-27T12:05:49.173Z"}}

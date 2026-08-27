@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Arturo Ruecker","mobileNum":4049724563,"zipCode":"40796","streetAddress":"6042 Harold Ports","city":"Blue Springs","state":"Arkansas","country":"Dominica","UserId":24,"updatedAt":"2026-08-27T12:05:33.832Z","createdAt":"2026-08-27T12:05:33.832Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Miss Lynette Hilll","mobileNum":3342850503,"zipCode":"91308","streetAddress":"52762 Nathen Trafficway","city":"North Bethesda","state":"Connecticut","country":"Bolivia","UserId":23,"updatedAt":"2026-08-27T12:05:27.757Z","createdAt":"2026-08-27T12:05:27.757Z"}}

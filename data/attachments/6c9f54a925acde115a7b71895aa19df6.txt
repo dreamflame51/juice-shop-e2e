@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Connie Bartoletti","cardNum":4347068178121111,"expMonth":12,"expYear":2099,"UserId":23,"updatedAt":"2026-08-27T12:05:27.794Z","createdAt":"2026-08-27T12:05:27.794Z"}}

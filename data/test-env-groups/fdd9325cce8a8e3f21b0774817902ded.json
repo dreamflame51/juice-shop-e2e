@@ -1,1 +1,1 @@
-{"id":"fdd9325cce8a8e3f21b0774817902ded","fullName":"api/auth/login.spec.ts:25:3","name":"Rejects a wrong password with 401 and no token","status":"passed","testResultsByEnv":{"default":"b9fe943cca5b47bf979f48969ef32362"}}
+{"id":"fdd9325cce8a8e3f21b0774817902ded","fullName":"api/auth/login.spec.ts:25:3","name":"Rejects a wrong password with 401 and no token","status":"passed","testResultsByEnv":{"default":"a516db19546a4ad33b6263fc3be1405b"}}

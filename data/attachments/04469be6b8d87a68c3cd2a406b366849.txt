@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Garrett O'Conner","mobileNum":1490279903,"zipCode":"02730","streetAddress":"92198 Roberts Curve","city":"North Quincy","state":"Pennsylvania","country":"Algeria","UserId":25,"updatedAt":"2026-08-27T12:05:33.774Z","createdAt":"2026-08-27T12:05:33.774Z"}}
