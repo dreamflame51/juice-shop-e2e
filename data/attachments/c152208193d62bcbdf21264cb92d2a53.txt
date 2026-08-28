@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Darryl Bayer","mobileNum":76386725,"zipCode":"93979","streetAddress":"1622 Balmoral Road","city":"Pinkville","state":"Utah","country":"Virgin Islands, U.S.","UserId":28,"updatedAt":"2026-08-28T13:27:14.853Z","createdAt":"2026-08-28T13:27:14.853Z"}}

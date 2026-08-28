@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Johanna Jenkins","mobileNum":5103152791,"zipCode":"90903","streetAddress":"41217 Elijah Coves","city":"South Rosalyn","state":"Mississippi","country":"Equatorial Guinea","UserId":24,"updatedAt":"2026-08-28T13:27:19.440Z","createdAt":"2026-08-28T13:27:19.440Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Willis Schuppe III","mobileNum":2226960099,"zipCode":"09045","streetAddress":"643 Jaylin Freeway","city":"Lake Zoeytown","state":"Arkansas","country":"Dominican Republic","UserId":23,"updatedAt":"2026-08-28T13:27:05.976Z","createdAt":"2026-08-28T13:27:05.976Z"}}

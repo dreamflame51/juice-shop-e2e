@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Miss Kay Leffler","cardNum":4524312324841111,"expMonth":1,"expYear":2092,"UserId":28,"updatedAt":"2026-08-28T13:27:14.861Z","createdAt":"2026-08-28T13:27:14.861Z"}}

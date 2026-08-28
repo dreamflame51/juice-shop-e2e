@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Stephen Osinski","mobileNum":7099960676,"zipCode":"45654","streetAddress":"806 Treutel Parks","city":"Dareville","state":"Alabama","country":"Saint Kitts and Nevis","UserId":25,"updatedAt":"2026-08-28T13:27:19.399Z","createdAt":"2026-08-28T13:27:19.399Z"}}
