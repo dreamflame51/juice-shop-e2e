@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marshall Green","mobileNum":3443587940,"zipCode":"74847","streetAddress":"9927 Asia Walk","city":"Port Karelle","state":"Arkansas","country":"Rwanda","UserId":27,"updatedAt":"2026-08-29T08:21:58.164Z","createdAt":"2026-08-29T08:21:58.164Z"}}

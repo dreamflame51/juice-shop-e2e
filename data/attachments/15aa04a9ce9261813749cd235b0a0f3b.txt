@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Douglas Monahan","mobileNum":3306841558,"zipCode":"37585","streetAddress":"375 Maple Close","city":"North Octavia","state":"New Jersey","country":"Jordan","UserId":25,"updatedAt":"2026-08-29T08:21:56.265Z","createdAt":"2026-08-29T08:21:56.265Z"}}

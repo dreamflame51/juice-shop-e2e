@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Earnest Will II","mobileNum":3826043981,"zipCode":"99072","streetAddress":"525 Walter Avenue","city":"Marisachester","state":"North Carolina","country":"Sint Maarten","UserId":22,"updatedAt":"2026-08-29T08:21:48.021Z","createdAt":"2026-08-29T08:21:48.021Z"}}

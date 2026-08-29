@@ -1,0 +1,9 @@
+{
+  "email": "savion25.d0lpw1l6@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Buddy"
+}

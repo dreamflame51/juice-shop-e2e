@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ella Reinger","mobileNum":7231866716,"zipCode":"55882","streetAddress":"741 Heaney Key","city":"Boehmville","state":"Virginia","country":"Lesotho","UserId":24,"updatedAt":"2026-08-29T08:21:56.255Z","createdAt":"2026-08-29T08:21:56.255Z"}}
