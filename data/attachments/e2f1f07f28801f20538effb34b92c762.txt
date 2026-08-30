@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Tom Schinner","cardNum":4962143862191111,"expMonth":11,"expYear":2091,"UserId":23,"updatedAt":"2026-08-30T07:36:07.806Z","createdAt":"2026-08-30T07:36:07.806Z"}}

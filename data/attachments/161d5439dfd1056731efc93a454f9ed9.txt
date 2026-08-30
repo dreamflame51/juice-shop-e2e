@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Allan Heidenreich-Wyman","mobileNum":897990949,"zipCode":"70069","streetAddress":"4971 Colleen Plains","city":"Mullerworth","state":"Alaska","country":"Oman","UserId":24,"updatedAt":"2026-08-30T07:35:25.645Z","createdAt":"2026-08-30T07:35:25.645Z"}}

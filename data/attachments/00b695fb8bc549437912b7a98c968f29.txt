@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Armando Graham","mobileNum":8536543553,"zipCode":"32204","streetAddress":"792 Keebler Crossroad","city":"Fort Zelmaside","state":"Nebraska","country":"Barbados","UserId":27,"updatedAt":"2026-08-30T07:35:36.271Z","createdAt":"2026-08-30T07:35:36.271Z"}}

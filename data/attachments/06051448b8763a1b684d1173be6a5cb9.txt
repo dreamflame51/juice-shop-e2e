@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rita Koss","mobileNum":1104751492,"zipCode":"00608","streetAddress":"9939 Watsica Walks","city":"Schowalterville","state":"Kansas","country":"Latvia","UserId":23,"updatedAt":"2026-08-30T07:36:07.794Z","createdAt":"2026-08-30T07:36:07.794Z"}}
