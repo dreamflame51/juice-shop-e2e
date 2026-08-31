@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Rogelio Kihn","cardNum":4628630352861111,"expMonth":4,"expYear":2081,"UserId":25,"updatedAt":"2026-08-31T07:46:55.970Z","createdAt":"2026-08-31T07:46:55.970Z"}}

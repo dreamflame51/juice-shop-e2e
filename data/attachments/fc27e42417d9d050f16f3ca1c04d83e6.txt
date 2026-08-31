@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Susan Huels Jr.","mobileNum":9121847956,"zipCode":"13525","streetAddress":"2916 Dooley Lake","city":"Sawaynton","state":"Connecticut","country":"Greece","UserId":24,"updatedAt":"2026-08-31T07:46:56.010Z","createdAt":"2026-08-31T07:46:56.010Z"}}

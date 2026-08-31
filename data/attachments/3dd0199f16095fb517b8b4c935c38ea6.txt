@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sammy Graham","mobileNum":6011001088,"zipCode":"59281","streetAddress":"10065 Market Square","city":"Cleveland Heights","state":"Maryland","country":"Botswana","UserId":25,"updatedAt":"2026-08-31T07:46:55.963Z","createdAt":"2026-08-31T07:46:55.963Z"}}

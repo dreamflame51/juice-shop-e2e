@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Willie Heidenreich","mobileNum":511384113,"zipCode":"15754","streetAddress":"884 Bashirian Shore","city":"North Dillan","state":"Kansas","country":"Botswana","UserId":28,"updatedAt":"2026-08-31T07:46:38.368Z","createdAt":"2026-08-31T07:46:38.368Z"}}

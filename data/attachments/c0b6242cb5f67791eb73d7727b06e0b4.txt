@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"sabina_halvorson50.m8tr2pd9@e2e.test","updatedAt":"2026-08-31T07:46:43.340Z","createdAt":"2026-08-31T07:46:43.340Z","deletedAt":null}}

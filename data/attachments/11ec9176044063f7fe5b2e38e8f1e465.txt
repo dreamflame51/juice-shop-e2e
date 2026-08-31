@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Brandi Beier","cardNum":4949846608211111,"expMonth":10,"expYear":2093,"UserId":24,"updatedAt":"2026-08-31T07:46:56.028Z","createdAt":"2026-08-31T07:46:56.028Z"}}
