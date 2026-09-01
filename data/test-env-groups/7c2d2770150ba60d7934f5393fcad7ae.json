@@ -1,1 +1,1 @@
-{"id":"7c2d2770150ba60d7934f5393fcad7ae","fullName":"api/basket/concurrency.spec.ts:14:3","name":"@smoke Concurrent adds of the same product are not lost","status":"passed","testResultsByEnv":{"default":"2532696143f6cffa7403e69663312516"}}
+{"id":"7c2d2770150ba60d7934f5393fcad7ae","fullName":"api/basket/concurrency.spec.ts:14:3","name":"@smoke Concurrent adds of the same product are not lost","status":"passed","testResultsByEnv":{"default":"ff4ffac8eef4d2f22fe2291f7bf629ee"}}

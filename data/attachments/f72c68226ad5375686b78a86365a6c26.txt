@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lonnie Collins-Oberbrunner","mobileNum":3160225147,"zipCode":"64384","streetAddress":"65807 Jackie Light","city":"West Kali","state":"Alaska","country":"Burkina Faso","UserId":24,"updatedAt":"2026-09-01T06:52:50.851Z","createdAt":"2026-09-01T06:52:50.851Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"karelle54.h6mfimy0@e2e.test","updatedAt":"2026-09-01T06:52:46.141Z","createdAt":"2026-09-01T06:52:46.141Z","deletedAt":null}}

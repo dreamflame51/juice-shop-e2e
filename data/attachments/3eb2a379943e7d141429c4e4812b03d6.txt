@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rogelio Klocko","mobileNum":4910310581,"zipCode":"24895","streetAddress":"629 Shanna Ridge","city":"Anchorage","state":"Tennessee","country":"Nicaragua","UserId":28,"updatedAt":"2026-09-01T06:52:46.460Z","createdAt":"2026-09-01T06:52:46.460Z"}}

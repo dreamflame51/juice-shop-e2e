@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Willie Moen V","cardNum":4468598754331111,"expMonth":2,"expYear":2085,"UserId":25,"updatedAt":"2026-09-01T06:52:50.873Z","createdAt":"2026-09-01T06:52:50.873Z"}}
