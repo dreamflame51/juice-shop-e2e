@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Wallace Becker","mobileNum":7834675856,"zipCode":"05345","streetAddress":"16663 Meadow Drive","city":"Stillwater","state":"Minnesota","country":"Puerto Rico","UserId":24,"updatedAt":"2026-09-02T06:31:37.005Z","createdAt":"2026-09-02T06:31:37.005Z"}}

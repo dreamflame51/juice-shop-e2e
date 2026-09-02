@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Dr. Maureen Hodkiewicz","cardNum":4787097521001111,"expMonth":3,"expYear":2087,"UserId":25,"updatedAt":"2026-09-02T06:31:37.028Z","createdAt":"2026-09-02T06:31:37.028Z"}}

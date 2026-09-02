@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Carla Keebler","mobileNum":7637226498,"zipCode":"85569","streetAddress":"57597 2nd Avenue","city":"Savannah","state":"Minnesota","country":"Azerbaijan","UserId":25,"updatedAt":"2026-09-02T06:31:37.014Z","createdAt":"2026-09-02T06:31:37.014Z"}}

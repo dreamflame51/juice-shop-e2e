@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Martin Champlin","mobileNum":4635673062,"zipCode":"77127","streetAddress":"533 Genoveva Street","city":"North Kailyn","state":"Wyoming","country":"Antigua and Barbuda","UserId":23,"updatedAt":"2026-09-02T06:31:46.345Z","createdAt":"2026-09-02T06:31:46.345Z"}}

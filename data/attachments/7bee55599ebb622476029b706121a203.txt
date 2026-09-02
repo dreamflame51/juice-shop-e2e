@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Billy Schimmel","mobileNum":6422280540,"zipCode":"66181","streetAddress":"50501 Huels Run","city":"Port Werner","state":"California","country":"Andorra","UserId":28,"updatedAt":"2026-09-02T06:31:30.826Z","createdAt":"2026-09-02T06:31:30.826Z"}}

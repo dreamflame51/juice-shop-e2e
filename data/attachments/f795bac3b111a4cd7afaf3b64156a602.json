@@ -1,0 +1,9 @@
+{
+  "email": "evan_mcdermott29.hmftvdvt@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Ace"
+}

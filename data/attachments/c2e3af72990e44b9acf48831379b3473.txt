@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"reilly14.cq4fgw6l@e2e.test","updatedAt":"2026-09-02T06:31:36.650Z","createdAt":"2026-09-02T06:31:36.650Z","deletedAt":null}}
