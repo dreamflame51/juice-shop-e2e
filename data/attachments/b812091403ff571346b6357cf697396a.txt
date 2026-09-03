@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Beverly Renner","mobileNum":6488039510,"zipCode":"26718","streetAddress":"4307 Koepp Mall","city":"Vineland","state":"Texas","country":"Montenegro","UserId":23,"updatedAt":"2026-09-03T06:35:00.701Z","createdAt":"2026-09-03T06:35:00.701Z"}}

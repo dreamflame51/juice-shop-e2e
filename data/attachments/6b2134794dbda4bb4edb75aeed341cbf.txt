@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Peter Rutherford-Kerluke","cardNum":4113290150401111,"expMonth":5,"expYear":2092,"UserId":24,"updatedAt":"2026-09-03T06:35:02.454Z","createdAt":"2026-09-03T06:35:02.454Z"}}

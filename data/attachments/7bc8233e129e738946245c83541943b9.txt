@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Muriel Gusikowski I","mobileNum":1541216226,"zipCode":"11667","streetAddress":"83422 Schoen Lakes","city":"Zulaufchester","state":"Colorado","country":"Romania","UserId":25,"updatedAt":"2026-09-03T06:35:02.446Z","createdAt":"2026-09-03T06:35:02.446Z"}}

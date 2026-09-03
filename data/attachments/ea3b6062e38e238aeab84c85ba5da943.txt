@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laurence Fay","mobileNum":9535706085,"zipCode":"40675","streetAddress":"36450 Fae Mount","city":"Castle Rock","state":"New York","country":"South Georgia and the South Sandwich Islands","UserId":28,"updatedAt":"2026-09-03T06:35:09.180Z","createdAt":"2026-09-03T06:35:09.180Z"}}

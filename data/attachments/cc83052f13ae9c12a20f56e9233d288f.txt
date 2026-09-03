@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"joanne.kemmer31.j5q9bdpx@e2e.test","updatedAt":"2026-09-03T06:34:59.335Z","createdAt":"2026-09-03T06:34:59.335Z","deletedAt":null}}
