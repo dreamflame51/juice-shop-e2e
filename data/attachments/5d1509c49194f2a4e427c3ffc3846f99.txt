@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Lorenzo Trantow","cardNum":4075474826931111,"expMonth":8,"expYear":2098,"UserId":23,"updatedAt":"2026-09-04T06:40:20.611Z","createdAt":"2026-09-04T06:40:20.611Z"}}

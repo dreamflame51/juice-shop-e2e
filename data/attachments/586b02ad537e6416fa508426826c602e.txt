@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rebecca Lockman","mobileNum":9103402050,"zipCode":"57308","streetAddress":"1676 Cordia Shore","city":"Perrybury","state":"New Mexico","country":"Fiji","UserId":27,"updatedAt":"2026-09-04T06:44:37.188Z","createdAt":"2026-09-04T06:44:37.188Z"}}

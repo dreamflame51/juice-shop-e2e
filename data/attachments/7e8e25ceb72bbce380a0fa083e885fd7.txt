@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Miss Elsa Aufderhar","mobileNum":5256920868,"zipCode":"88359","streetAddress":"63533 Michel Neck","city":"Kyleeboro","state":"New Hampshire","country":"Uzbekistan","UserId":25,"updatedAt":"2026-09-04T06:39:31.098Z","createdAt":"2026-09-04T06:39:31.098Z"}}
