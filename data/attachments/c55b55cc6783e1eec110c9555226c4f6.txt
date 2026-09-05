@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Edmond Huels","mobileNum":4525513698,"zipCode":"24785","streetAddress":"32731 Conn Skyway","city":"Haleighmouth","state":"Missouri","country":"Albania","UserId":22,"updatedAt":"2026-09-05T06:24:14.496Z","createdAt":"2026-09-05T06:24:14.496Z"}}

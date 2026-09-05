@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Francis Thiel","mobileNum":8696191246,"zipCode":"08906","streetAddress":"7334 Baker Street","city":"Greenwood","state":"Florida","country":"Italy","UserId":25,"updatedAt":"2026-09-05T06:24:14.818Z","createdAt":"2026-09-05T06:24:14.818Z"}}
