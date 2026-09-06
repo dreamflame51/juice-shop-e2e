@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Daisy Gerlach","mobileNum":1957084036,"zipCode":"55806","streetAddress":"9267 Selina Station","city":"Jasminville","state":"Minnesota","country":"Azerbaijan","UserId":25,"updatedAt":"2026-09-06T06:34:45.112Z","createdAt":"2026-09-06T06:34:45.112Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Sonya Mosciski","mobileNum":2997321655,"zipCode":"98032","streetAddress":"716 Derwent Close","city":"Pagacfield","state":"Alabama","country":"Japan","UserId":24,"updatedAt":"2026-09-06T06:34:45.148Z","createdAt":"2026-09-06T06:34:45.148Z"}}

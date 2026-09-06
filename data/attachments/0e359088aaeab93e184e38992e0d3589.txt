@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Bruce Ankunding","mobileNum":5593742364,"zipCode":"65041","streetAddress":"84581 High Street","city":"Rebeccacester","state":"Massachusetts","country":"Turks and Caicos Islands","UserId":28,"updatedAt":"2026-09-06T06:34:49.266Z","createdAt":"2026-09-06T06:34:49.266Z"}}
