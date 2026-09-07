@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kyle Goodwin","mobileNum":8924413366,"zipCode":"45422","streetAddress":"5248 West Road","city":"Novi","state":"Iowa","country":"Paraguay","UserId":23,"updatedAt":"2026-09-07T06:42:15.743Z","createdAt":"2026-09-07T06:42:15.743Z"}}

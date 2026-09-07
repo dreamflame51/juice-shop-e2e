@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lila Larson II","mobileNum":5548678878,"zipCode":"48495","streetAddress":"33747 Stiedemann Coves","city":"Boyletown","state":"Virginia","country":"Monaco","UserId":24,"updatedAt":"2026-09-07T06:42:54.672Z","createdAt":"2026-09-07T06:42:54.672Z"}}

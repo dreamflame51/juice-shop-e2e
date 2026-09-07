@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marcus Pfannerstill","mobileNum":5139512964,"zipCode":"63418","streetAddress":"4956 Makayla Land","city":"Fort Hanna","state":"Oklahoma","country":"Trinidad and Tobago","UserId":28,"updatedAt":"2026-09-07T06:42:34.737Z","createdAt":"2026-09-07T06:42:34.737Z"}}

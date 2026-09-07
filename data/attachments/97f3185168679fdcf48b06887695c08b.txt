@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Damon Dach","mobileNum":9483226429,"zipCode":"41603","streetAddress":"3566 Castle Close","city":"East Santoshaven","state":"Maryland","country":"Guyana","UserId":25,"updatedAt":"2026-09-07T06:42:54.681Z","createdAt":"2026-09-07T06:42:54.681Z"}}

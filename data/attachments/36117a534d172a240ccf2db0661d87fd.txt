@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"raymundo.fisher.31a7knx2@e2e.test","updatedAt":"2026-09-07T06:42:36.287Z","createdAt":"2026-09-07T06:42:36.287Z","deletedAt":null}}
