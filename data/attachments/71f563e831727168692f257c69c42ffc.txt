@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Cecelia Predovic","mobileNum":1601733322,"zipCode":"79326","streetAddress":"2567 Reynold Point","city":"Portage","state":"North Carolina","country":"Norfolk Island","UserId":22,"updatedAt":"2026-09-08T06:37:29.161Z","createdAt":"2026-09-08T06:37:29.161Z"}}

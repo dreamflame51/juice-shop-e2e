@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"price.hickle16.pecmlu1z@e2e.test","updatedAt":"2026-09-08T06:37:38.094Z","createdAt":"2026-09-08T06:37:38.094Z","deletedAt":null}}

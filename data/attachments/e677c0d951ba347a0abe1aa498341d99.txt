@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Guadalupe Miller IV","cardNum":4998235784251111,"expMonth":5,"expYear":2097,"UserId":22,"updatedAt":"2026-09-08T06:37:29.232Z","createdAt":"2026-09-08T06:37:29.232Z"}}

@@ -1,0 +1,9 @@
+{
+  "email": "dario_rice46.a93euswa@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Lucy"
+}

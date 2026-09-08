@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"omer57.uieizfu8@e2e.test","updatedAt":"2026-09-08T06:37:37.742Z","createdAt":"2026-09-08T06:37:37.742Z","deletedAt":null}}

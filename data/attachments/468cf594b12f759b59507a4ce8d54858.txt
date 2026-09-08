@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Eleanor Mitchell","mobileNum":949477179,"zipCode":"73343","streetAddress":"16058 Richmond Close","city":"South Omer","state":"Missouri","country":"Luxembourg","UserId":25,"updatedAt":"2026-09-08T06:37:29.013Z","createdAt":"2026-09-08T06:37:29.013Z"}}
