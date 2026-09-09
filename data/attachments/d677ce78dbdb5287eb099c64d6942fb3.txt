@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Jessie Littel","mobileNum":4298220432,"zipCode":"63104","streetAddress":"6728 Crooks Flat","city":"Allisonton","state":"Florida","country":"Tanzania","UserId":24,"updatedAt":"2026-09-09T06:49:09.737Z","createdAt":"2026-09-09T06:49:09.737Z"}}

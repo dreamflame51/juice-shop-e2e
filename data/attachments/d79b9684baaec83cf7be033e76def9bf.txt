@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Johanna Balistreri","mobileNum":3913552564,"zipCode":"21887","streetAddress":"2970 Mill Road","city":"Whitebury","state":"Indiana","country":"Kazakhstan","UserId":28,"updatedAt":"2026-09-09T06:49:12.015Z","createdAt":"2026-09-09T06:49:12.015Z"}}

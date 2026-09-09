@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Miss Marcia Hackett","cardNum":4606116716151111,"expMonth":3,"expYear":2088,"UserId":23,"updatedAt":"2026-09-09T06:49:13.980Z","createdAt":"2026-09-09T06:49:13.980Z"}}

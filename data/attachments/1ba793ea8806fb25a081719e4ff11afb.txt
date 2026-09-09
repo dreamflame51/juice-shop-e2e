@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Ruben Lebsack","cardNum":4910050943071111,"expMonth":10,"expYear":2084,"UserId":28,"updatedAt":"2026-09-09T06:49:12.036Z","createdAt":"2026-09-09T06:49:12.036Z"}}

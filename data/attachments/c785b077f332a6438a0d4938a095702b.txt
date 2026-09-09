@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"itzel_gislason-conroy19.fjj06kvz@e2e.test","updatedAt":"2026-09-09T06:49:04.616Z","createdAt":"2026-09-09T06:49:04.616Z","deletedAt":null}}

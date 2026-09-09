@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marsha Weber","mobileNum":6309579886,"zipCode":"42145","streetAddress":"78861 Monahan Way","city":"Port Laishaton","state":"Maine","country":"Equatorial Guinea","UserId":25,"updatedAt":"2026-09-09T06:49:09.691Z","createdAt":"2026-09-09T06:49:09.691Z"}}
