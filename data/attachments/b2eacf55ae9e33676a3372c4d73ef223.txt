@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Wayne Kris-Kerluke","mobileNum":8372653544,"zipCode":"64477","streetAddress":"626 Bryon Streets","city":"Roscoechester","state":"Michigan","country":"Mozambique","UserId":23,"updatedAt":"2026-09-10T06:44:06.655Z","createdAt":"2026-09-10T06:44:06.655Z"}}

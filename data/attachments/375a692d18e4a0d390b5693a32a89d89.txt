@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"breanne.schuster91.aify26ag@e2e.test","updatedAt":"2026-09-10T06:44:03.970Z","createdAt":"2026-09-10T06:44:03.970Z","deletedAt":null}}

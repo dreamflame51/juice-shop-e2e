@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Guillermo Gutkowski","mobileNum":3812203162,"zipCode":"42284","streetAddress":"109 Mohr Cliffs","city":"Wolffield","state":"Oregon","country":"Italy","UserId":28,"updatedAt":"2026-09-10T06:44:04.241Z","createdAt":"2026-09-10T06:44:04.241Z"}}

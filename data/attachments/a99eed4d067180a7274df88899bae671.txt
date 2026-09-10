@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Shane Raynor","mobileNum":204148327,"zipCode":"62255","streetAddress":"14436 Laurel Flats","city":"Watersworth","state":"New Jersey","country":"Palestine","UserId":25,"updatedAt":"2026-09-10T06:44:13.002Z","createdAt":"2026-09-10T06:44:13.002Z"}}

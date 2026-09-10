@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"breanna_feil.cv7w0g9k@e2e.test","updatedAt":"2026-09-10T06:44:04.180Z","createdAt":"2026-09-10T06:44:04.180Z","deletedAt":null}}

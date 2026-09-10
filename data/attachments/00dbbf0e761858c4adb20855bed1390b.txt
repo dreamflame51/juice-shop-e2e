@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marsha Wunsch","mobileNum":2495828416,"zipCode":"46623","streetAddress":"485 Zemlak River","city":"Reedbury","state":"Nevada","country":"Gambia","UserId":24,"updatedAt":"2026-09-10T06:44:12.992Z","createdAt":"2026-09-10T06:44:12.992Z"}}
