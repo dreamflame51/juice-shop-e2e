@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Josefina Feeney","mobileNum":9904030710,"zipCode":"31551","streetAddress":"539 Terrence Road","city":"Bednarshire","state":"California","country":"Comoros","UserId":24,"updatedAt":"2026-09-11T06:43:49.837Z","createdAt":"2026-09-11T06:43:49.837Z"}}

@@ -1,0 +1,9 @@
+{
+  "email": "jody_graham11.xdd8dlfm@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Jack"
+}

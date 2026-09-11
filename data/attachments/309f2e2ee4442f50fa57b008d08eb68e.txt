@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Howard Bradtke","mobileNum":1540365691,"zipCode":"21047","streetAddress":"20816 High Street","city":"North Serenity","state":"Utah","country":"Niger","UserId":25,"updatedAt":"2026-09-11T06:43:49.797Z","createdAt":"2026-09-11T06:43:49.797Z"}}

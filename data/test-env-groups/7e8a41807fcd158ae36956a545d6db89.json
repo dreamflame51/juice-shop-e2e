@@ -1,1 +1,1 @@
-{"id":"7e8a41807fcd158ae36956a545d6db89","fullName":"api/basket/checkout.spec.ts:15:3","name":"@smoke Completes an order end to end and returns a confirmation","status":"passed","testResultsByEnv":{"default":"92a0fa0c51390d4f5febebdf5ae86d9b"}}
+{"id":"7e8a41807fcd158ae36956a545d6db89","fullName":"api/basket/checkout.spec.ts:15:3","name":"@smoke Completes an order end to end and returns a confirmation","status":"passed","testResultsByEnv":{"default":"996996e4d50994914424f555d6a2b848"}}

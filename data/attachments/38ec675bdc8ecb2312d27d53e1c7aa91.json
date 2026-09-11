@@ -1,0 +1,9 @@
+{
+  "email": "gaston87.ui2m7zgk@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Scout"
+}
