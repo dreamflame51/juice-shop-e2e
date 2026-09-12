@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Teri Romaguera","mobileNum":1577853750,"zipCode":"12202","streetAddress":"672 Olson Trafficway","city":"Kristianshire","state":"Hawaii","country":"Chad","UserId":25,"updatedAt":"2026-09-12T06:36:41.350Z","createdAt":"2026-09-12T06:36:41.350Z"}}

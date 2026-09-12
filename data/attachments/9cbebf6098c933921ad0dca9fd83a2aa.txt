@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Deborah Hahn","mobileNum":114693955,"zipCode":"83087","streetAddress":"6242 Nikita Ranch","city":"Jodiestead","state":"Hawaii","country":"Antigua and Barbuda","UserId":28,"updatedAt":"2026-09-12T06:36:47.917Z","createdAt":"2026-09-12T06:36:47.917Z"}}

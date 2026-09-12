@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Eddie Franey PhD","mobileNum":4920314899,"zipCode":"41996","streetAddress":"77852 Park Avenue","city":"Alexandrostad","state":"New Jersey","country":"Kazakhstan","UserId":22,"updatedAt":"2026-09-12T06:36:41.081Z","createdAt":"2026-09-12T06:36:41.081Z"}}

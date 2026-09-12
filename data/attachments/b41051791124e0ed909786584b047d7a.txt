@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ralph Kuvalis","mobileNum":6038366507,"zipCode":"41550","streetAddress":"305 Woodside","city":"Tamiami","state":"Oregon","country":"British Indian Ocean Territory (Chagos Archipelago)","UserId":24,"updatedAt":"2026-09-12T06:36:41.371Z","createdAt":"2026-09-12T06:36:41.371Z"}}
