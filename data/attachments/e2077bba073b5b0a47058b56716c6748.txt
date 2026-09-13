@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Lynda McClure","mobileNum":8049596062,"zipCode":"49288","streetAddress":"5141 Korbin Run","city":"Runolfssonborough","state":"Maine","country":"Montenegro","UserId":25,"updatedAt":"2026-09-13T06:52:35.668Z","createdAt":"2026-09-13T06:52:35.668Z"}}

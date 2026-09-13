@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Debra Hand","mobileNum":9647846158,"zipCode":"14847","streetAddress":"949 Edward Streets","city":"Fort Emmet","state":"Arizona","country":"Greece","UserId":28,"updatedAt":"2026-09-13T06:52:50.844Z","createdAt":"2026-09-13T06:52:50.844Z"}}

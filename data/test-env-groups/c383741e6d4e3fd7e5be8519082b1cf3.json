@@ -1,1 +1,1 @@
-{"id":"c383741e6d4e3fd7e5be8519082b1cf3","fullName":"api/basket/checkout.spec.ts:35:3","name":"Empties the basket once the order is placed","status":"passed","testResultsByEnv":{"default":"f8da24a0f0884aded3fde22ba777b338"}}
+{"id":"c383741e6d4e3fd7e5be8519082b1cf3","fullName":"api/basket/checkout.spec.ts:35:3","name":"Empties the basket once the order is placed","status":"passed","testResultsByEnv":{"default":"5f36fd7e47062bf4d3f69f03e2328a0b"}}

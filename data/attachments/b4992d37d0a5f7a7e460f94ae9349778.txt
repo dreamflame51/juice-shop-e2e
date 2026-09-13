@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Bradford Cole","mobileNum":7724164375,"zipCode":"17916","streetAddress":"1919 Ephraim Ranch","city":"New Magnoliastead","state":"South Carolina","country":"Thailand","UserId":23,"updatedAt":"2026-09-13T06:52:30.101Z","createdAt":"2026-09-13T06:52:30.101Z"}}
