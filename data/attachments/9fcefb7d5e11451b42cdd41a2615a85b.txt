@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Kevin Braun","mobileNum":8913860607,"zipCode":"06117","streetAddress":"3026 Mulberry Street","city":"West Dustin","state":"Alabama","country":"Costa Rica","UserId":28,"updatedAt":"2026-09-14T07:16:43.644Z","createdAt":"2026-09-14T07:16:43.644Z"}}

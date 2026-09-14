@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Barbara Hagenes","mobileNum":3027346855,"zipCode":"27679","streetAddress":"68044 Schumm Views","city":"Titostead","state":"Utah","country":"Kazakhstan","UserId":22,"updatedAt":"2026-09-14T07:16:43.524Z","createdAt":"2026-09-14T07:16:43.524Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Leah Runolfsdottir","cardNum":4062930817321111,"expMonth":12,"expYear":2099,"UserId":25,"updatedAt":"2026-09-14T07:16:43.454Z","createdAt":"2026-09-14T07:16:43.454Z"}}
