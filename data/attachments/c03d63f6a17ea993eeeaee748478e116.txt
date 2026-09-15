@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":26,"email":"annie_mayer49.abgj7sht@e2e.test","updatedAt":"2026-09-15T06:51:15.653Z","createdAt":"2026-09-15T06:51:15.653Z","deletedAt":null}}

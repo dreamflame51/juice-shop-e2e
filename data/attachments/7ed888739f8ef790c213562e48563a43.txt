@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ricardo Daugherty","mobileNum":5296682439,"zipCode":"85545","streetAddress":"4698 E High Street","city":"Fort Heaven","state":"Rhode Island","country":"Palestine","UserId":24,"updatedAt":"2026-09-15T06:51:19.864Z","createdAt":"2026-09-15T06:51:19.864Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Gregg Kulas","cardNum":4247453779411111,"expMonth":1,"expYear":2091,"UserId":28,"updatedAt":"2026-09-15T06:51:15.785Z","createdAt":"2026-09-15T06:51:15.785Z"}}

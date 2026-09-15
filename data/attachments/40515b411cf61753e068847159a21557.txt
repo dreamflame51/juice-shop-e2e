@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Georgia Cronin","mobileNum":4164377725,"zipCode":"02530","streetAddress":"36718 Church Street","city":"Louville","state":"Iowa","country":"Turks and Caicos Islands","UserId":28,"updatedAt":"2026-09-15T06:51:15.777Z","createdAt":"2026-09-15T06:51:15.777Z"}}
