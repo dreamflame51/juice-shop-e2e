@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sam Konopelski","mobileNum":4117432038,"zipCode":"86305","streetAddress":"65665 Lucienne Hills","city":"Wildermanborough","state":"Maryland","country":"San Marino","UserId":25,"updatedAt":"2026-09-16T06:56:02.857Z","createdAt":"2026-09-16T06:56:02.857Z"}}

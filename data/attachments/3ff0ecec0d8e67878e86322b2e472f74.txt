@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Ira Haag","cardNum":4549716802401111,"expMonth":3,"expYear":2082,"UserId":22,"updatedAt":"2026-09-16T06:55:46.887Z","createdAt":"2026-09-16T06:55:46.887Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Shawna Dickens","mobileNum":5084399140,"zipCode":"07032","streetAddress":"944 Station Street","city":"Bettytown","state":"South Dakota","country":"Peru","UserId":28,"updatedAt":"2026-09-16T06:56:18.910Z","createdAt":"2026-09-16T06:56:18.910Z"}}

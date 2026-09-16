@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Bennie Casper","mobileNum":1235374141,"zipCode":"26749","streetAddress":"401 Santos Vista","city":"Hosealand","state":"Washington","country":"Sao Tome and Principe","UserId":24,"updatedAt":"2026-09-16T06:56:02.911Z","createdAt":"2026-09-16T06:56:02.911Z"}}
