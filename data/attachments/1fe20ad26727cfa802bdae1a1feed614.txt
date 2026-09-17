@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Juanita Blanda V","mobileNum":4078844620,"zipCode":"98731","streetAddress":"3939 Trinity Road","city":"Jayville","state":"California","country":"Panama","UserId":25,"updatedAt":"2026-09-17T06:50:59.906Z","createdAt":"2026-09-17T06:50:59.906Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Mr. Alfredo Ferry","cardNum":4011968111271111,"expMonth":6,"expYear":2097,"UserId":24,"updatedAt":"2026-09-17T06:50:59.927Z","createdAt":"2026-09-17T06:50:59.927Z"}}

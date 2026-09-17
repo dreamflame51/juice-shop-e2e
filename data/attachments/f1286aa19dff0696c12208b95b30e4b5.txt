@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Hazel Lemke","mobileNum":9973086043,"zipCode":"13073","streetAddress":"735 Kreiger Fields","city":"Port Fernando","state":"South Carolina","country":"Western Sahara","UserId":28,"updatedAt":"2026-09-17T06:51:01.488Z","createdAt":"2026-09-17T06:51:01.488Z"}}

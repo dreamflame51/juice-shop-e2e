@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Donald Pfeffer","mobileNum":3940931442,"zipCode":"32689","streetAddress":"97737 Flatley Lane","city":"Purdyville","state":"Ohio","country":"Kazakhstan","UserId":24,"updatedAt":"2026-09-17T06:50:59.921Z","createdAt":"2026-09-17T06:50:59.921Z"}}
