@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ms. Kristina Jones","mobileNum":6975437224,"zipCode":"06935","streetAddress":"849 Oran Road","city":"Port Daynaton","state":"Florida","country":"Turkmenistan","UserId":25,"updatedAt":"2026-09-18T06:47:05.635Z","createdAt":"2026-09-18T06:47:05.635Z"}}

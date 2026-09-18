@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lydia O'Hara","mobileNum":751239917,"zipCode":"81269","streetAddress":"167 Breanne Branch","city":"Masonbury","state":"Michigan","country":"Saint Lucia","UserId":24,"updatedAt":"2026-09-18T06:47:05.626Z","createdAt":"2026-09-18T06:47:05.626Z"}}

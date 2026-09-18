@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Susie Ortiz","mobileNum":1031032669,"zipCode":"58868","streetAddress":"4410 Gulgowski Green","city":"Alexandria","state":"Utah","country":"United Kingdom","UserId":22,"updatedAt":"2026-09-18T06:46:50.979Z","createdAt":"2026-09-18T06:46:50.979Z"}}

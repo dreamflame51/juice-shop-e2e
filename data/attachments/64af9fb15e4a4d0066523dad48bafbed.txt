@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"tad.graham.lfhz7jl4@e2e.test","updatedAt":"2026-09-18T06:46:53.306Z","createdAt":"2026-09-18T06:46:53.306Z","deletedAt":null}}
