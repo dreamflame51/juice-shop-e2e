@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mrs. Shelley Nader","mobileNum":1531371072,"zipCode":"82604","streetAddress":"60653 Berge Vista","city":"Bismarck","state":"New Jersey","country":"Faroe Islands","UserId":23,"updatedAt":"2026-09-19T06:47:12.107Z","createdAt":"2026-09-19T06:47:12.107Z"}}

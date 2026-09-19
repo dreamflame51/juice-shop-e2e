@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Randy Stiedemann","mobileNum":20260766,"zipCode":"90269","streetAddress":"5220 Market Square","city":"Dejahhaven","state":"Massachusetts","country":"Dominica","UserId":24,"updatedAt":"2026-09-19T06:46:49.910Z","createdAt":"2026-09-19T06:46:49.910Z"}}

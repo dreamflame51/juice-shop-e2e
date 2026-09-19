@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ms. Faith Rutherford","mobileNum":173184849,"zipCode":"21205","streetAddress":"32166 Pacocha Common","city":"Considinefield","state":"South Carolina","country":"Mayotte","UserId":25,"updatedAt":"2026-09-19T06:46:49.919Z","createdAt":"2026-09-19T06:46:49.919Z"}}

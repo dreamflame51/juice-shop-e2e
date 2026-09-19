@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Megan Douglas","mobileNum":2707925737,"zipCode":"87176","streetAddress":"5865 Wisoky Valleys","city":"Gardena","state":"Louisiana","country":"Germany","UserId":28,"updatedAt":"2026-09-19T06:47:25.679Z","createdAt":"2026-09-19T06:47:25.679Z"}}
