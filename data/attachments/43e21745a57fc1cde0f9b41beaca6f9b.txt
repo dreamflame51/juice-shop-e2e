@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Julius Baumbach DVM","mobileNum":5329532460,"zipCode":"61859","streetAddress":"40761 Santino Road","city":"South Sagebury","state":"Hawaii","country":"Mexico","UserId":24,"updatedAt":"2026-09-20T07:11:14.347Z","createdAt":"2026-09-20T07:11:14.347Z"}}

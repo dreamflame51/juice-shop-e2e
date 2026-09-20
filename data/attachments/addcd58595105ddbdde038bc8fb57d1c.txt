@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ian Lind","mobileNum":8037225339,"zipCode":"33347","streetAddress":"84370 Manor Drive","city":"Darronmouth","state":"Massachusetts","country":"Romania","UserId":27,"updatedAt":"2026-09-20T07:11:07.332Z","createdAt":"2026-09-20T07:11:07.332Z"}}

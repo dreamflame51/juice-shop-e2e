@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Leslie Hackett","mobileNum":9522086166,"zipCode":"33068","streetAddress":"971 Dicki Prairie","city":"Grand Rapids","state":"Minnesota","country":"Guatemala","UserId":25,"updatedAt":"2026-09-20T07:11:14.357Z","createdAt":"2026-09-20T07:11:14.357Z"}}

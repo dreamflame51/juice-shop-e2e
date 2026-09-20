@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jody O'Connell","mobileNum":1913749912,"zipCode":"48849","streetAddress":"320 The Willows","city":"Jeremieview","state":"Nebraska","country":"Falkland Islands (Malvinas)","UserId":22,"updatedAt":"2026-09-20T07:11:10.901Z","createdAt":"2026-09-20T07:11:10.901Z"}}

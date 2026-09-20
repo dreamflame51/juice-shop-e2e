@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"George Kshlerin","cardNum":4844906487671111,"expMonth":7,"expYear":2082,"UserId":24,"updatedAt":"2026-09-20T07:11:14.365Z","createdAt":"2026-09-20T07:11:14.365Z"}}
