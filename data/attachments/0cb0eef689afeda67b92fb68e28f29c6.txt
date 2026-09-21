@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Pedro Hamill","mobileNum":3105661637,"zipCode":"23115","streetAddress":"758 Beach Road","city":"New Oda","state":"Washington","country":"Norfolk Island","UserId":25,"updatedAt":"2026-09-21T07:20:32.139Z","createdAt":"2026-09-21T07:20:32.139Z"}}

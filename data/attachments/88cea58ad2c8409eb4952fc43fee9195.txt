@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Janet Swaniawski","cardNum":4195843849921111,"expMonth":6,"expYear":2095,"UserId":28,"updatedAt":"2026-09-21T07:20:40.764Z","createdAt":"2026-09-21T07:20:40.764Z"}}

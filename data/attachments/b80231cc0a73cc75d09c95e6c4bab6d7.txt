@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Nathan Ullrich DDS","mobileNum":955994815,"zipCode":"26145","streetAddress":"3230 Orn Stravenue","city":"Williamsonfort","state":"Connecticut","country":"Jersey","UserId":24,"updatedAt":"2026-09-21T07:20:32.198Z","createdAt":"2026-09-21T07:20:32.198Z"}}

@@ -1,1 +1,1 @@
-{"id":"df2310ae98cb5b546e79b8f6540d2cb0","fullName":"ui/basket/add-to-basket.spec.ts:13:3","name":"@smoke An authenticated user can add a product to the basket","status":"passed","testResultsByEnv":{"default":"7d3caefab83d05c0ace10a7f070a2d2a"}}
+{"id":"df2310ae98cb5b546e79b8f6540d2cb0","fullName":"ui/basket/add-to-basket.spec.ts:13:3","name":"@smoke An authenticated user can add a product to the basket","status":"passed","testResultsByEnv":{"default":"f159ef81f67cefa118540400d4b1c317"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rolando Abernathy","mobileNum":778609390,"zipCode":"26506","streetAddress":"97535 Parisian Mountain","city":"South Fritzbury","state":"Delaware","country":"Gambia","UserId":22,"updatedAt":"2026-09-21T07:20:31.995Z","createdAt":"2026-09-21T07:20:31.995Z"}}
