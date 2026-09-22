@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Katherine Stehr","mobileNum":5193762250,"zipCode":"15696","streetAddress":"56615 3rd Street","city":"Hellerchester","state":"Louisiana","country":"Tokelau","UserId":22,"updatedAt":"2026-09-22T06:56:08.896Z","createdAt":"2026-09-22T06:56:08.896Z"}}

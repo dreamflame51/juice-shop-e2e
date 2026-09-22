@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sherri Kessler","mobileNum":9850941061,"zipCode":"57205","streetAddress":"7697 Ahmad Glens","city":"New Alfreda","state":"Washington","country":"Malawi","UserId":24,"updatedAt":"2026-09-22T06:56:23.009Z","createdAt":"2026-09-22T06:56:23.009Z"}}

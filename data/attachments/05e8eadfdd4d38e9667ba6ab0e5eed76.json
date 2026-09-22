@@ -1,0 +1,9 @@
+{
+  "email": "elmer_wisozk.c4qjkyma@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Lucy"
+}

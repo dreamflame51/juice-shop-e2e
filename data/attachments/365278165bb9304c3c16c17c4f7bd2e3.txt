@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Gerardo Doyle","mobileNum":9434930831,"zipCode":"29993","streetAddress":"55928 Lancaster Road","city":"Simi Valley","state":"Pennsylvania","country":"Democratic People's Republic of Korea","UserId":25,"updatedAt":"2026-09-22T06:56:23.020Z","createdAt":"2026-09-22T06:56:23.020Z"}}

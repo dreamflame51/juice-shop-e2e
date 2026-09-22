@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Everett Rosenbaum","cardNum":4530310611121111,"expMonth":11,"expYear":2090,"UserId":25,"updatedAt":"2026-09-22T06:56:23.039Z","createdAt":"2026-09-22T06:56:23.039Z"}}

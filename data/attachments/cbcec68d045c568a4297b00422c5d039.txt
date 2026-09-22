@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Kelly Davis III","cardNum":4931722140631111,"expMonth":9,"expYear":2093,"UserId":22,"updatedAt":"2026-09-22T06:56:08.902Z","createdAt":"2026-09-22T06:56:08.902Z"}}

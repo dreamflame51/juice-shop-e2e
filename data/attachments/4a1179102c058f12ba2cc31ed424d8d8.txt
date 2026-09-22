@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mike Quitzon","mobileNum":6219248989,"zipCode":"31703","streetAddress":"4070 W South Street","city":"Wardcester","state":"Georgia","country":"Aland Islands","UserId":28,"updatedAt":"2026-09-22T06:56:28.163Z","createdAt":"2026-09-22T06:56:28.163Z"}}
