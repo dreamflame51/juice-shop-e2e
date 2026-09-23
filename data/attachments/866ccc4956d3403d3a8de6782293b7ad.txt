@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Deborah Barrows","mobileNum":2251218747,"zipCode":"43776","streetAddress":"943 Dibbert Circles","city":"Aspen Hill","state":"New Hampshire","country":"Taiwan","UserId":24,"updatedAt":"2026-09-23T06:51:37.631Z","createdAt":"2026-09-23T06:51:37.631Z"}}

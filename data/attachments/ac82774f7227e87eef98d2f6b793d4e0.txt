@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Mrs. Maureen Huel-Veum","cardNum":4520394147461111,"expMonth":5,"expYear":2087,"UserId":23,"updatedAt":"2026-09-23T06:51:22.642Z","createdAt":"2026-09-23T06:51:22.642Z"}}

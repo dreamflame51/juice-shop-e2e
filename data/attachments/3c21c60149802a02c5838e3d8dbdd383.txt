@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Blake Hirthe","cardNum":4589778086391111,"expMonth":12,"expYear":2085,"UserId":28,"updatedAt":"2026-09-23T06:51:21.184Z","createdAt":"2026-09-23T06:51:21.184Z"}}

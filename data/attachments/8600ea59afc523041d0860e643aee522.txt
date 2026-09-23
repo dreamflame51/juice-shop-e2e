@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Freda Paucek","mobileNum":1207987492,"zipCode":"98689","streetAddress":"6973 Kimberly Forges","city":"North Nayeli","state":"Minnesota","country":"Peru","UserId":25,"updatedAt":"2026-09-23T06:51:37.639Z","createdAt":"2026-09-23T06:51:37.639Z"}}

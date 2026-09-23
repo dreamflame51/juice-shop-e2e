@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sally Kuhic","mobileNum":4566019523,"zipCode":"81202","streetAddress":"182 Robin Knoll","city":"Port Peterport","state":"Iowa","country":"Niue","UserId":28,"updatedAt":"2026-09-23T06:51:21.172Z","createdAt":"2026-09-23T06:51:21.172Z"}}

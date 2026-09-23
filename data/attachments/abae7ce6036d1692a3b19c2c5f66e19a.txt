@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Julian Reynolds","mobileNum":6276815517,"zipCode":"79321","streetAddress":"186 Maegan Unions","city":"Jasenbury","state":"Florida","country":"Argentina","UserId":23,"updatedAt":"2026-09-23T06:51:22.635Z","createdAt":"2026-09-23T06:51:22.635Z"}}

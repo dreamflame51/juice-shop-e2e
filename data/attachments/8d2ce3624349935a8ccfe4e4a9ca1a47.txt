@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Benny Zboncak","cardNum":4068599272041111,"expMonth":10,"expYear":2086,"UserId":24,"updatedAt":"2026-09-23T06:51:37.644Z","createdAt":"2026-09-23T06:51:37.644Z"}}
