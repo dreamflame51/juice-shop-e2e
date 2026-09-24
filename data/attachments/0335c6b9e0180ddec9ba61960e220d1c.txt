@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"angelo_murray.s2jbeeyp@e2e.test","updatedAt":"2026-09-24T06:51:26.931Z","createdAt":"2026-09-24T06:51:26.931Z","deletedAt":null}}

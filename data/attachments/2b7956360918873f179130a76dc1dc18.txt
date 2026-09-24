@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"lempi87.pubesfj8@e2e.test","updatedAt":"2026-09-24T06:51:44.835Z","createdAt":"2026-09-24T06:51:44.835Z","deletedAt":null}}

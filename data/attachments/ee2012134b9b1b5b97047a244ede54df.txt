@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dawn Weimann","mobileNum":9112964179,"zipCode":"41725","streetAddress":"313 Hilll Well","city":"Port Lelah","state":"South Dakota","country":"Niger","UserId":24,"updatedAt":"2026-09-24T06:51:30.707Z","createdAt":"2026-09-24T06:51:30.707Z"}}

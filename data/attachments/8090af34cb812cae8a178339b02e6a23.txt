@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ms. Jessie Windler","mobileNum":9998856244,"zipCode":"94244","streetAddress":"276 Lester Knoll","city":"Cedar Park","state":"Florida","country":"Kyrgyz Republic","UserId":28,"updatedAt":"2026-09-24T06:51:27.148Z","createdAt":"2026-09-24T06:51:27.148Z"}}

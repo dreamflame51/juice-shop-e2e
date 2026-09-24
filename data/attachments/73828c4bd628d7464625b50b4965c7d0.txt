@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mamie Skiles","mobileNum":3978521225,"zipCode":"05610","streetAddress":"1640 Gerhold Island","city":"Port Caleb","state":"Maryland","country":"Peru","UserId":23,"updatedAt":"2026-09-24T06:51:32.513Z","createdAt":"2026-09-24T06:51:32.513Z"}}
