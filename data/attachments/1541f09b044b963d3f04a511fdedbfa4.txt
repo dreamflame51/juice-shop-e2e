@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ginger Metz","mobileNum":3992136481,"zipCode":"37295","streetAddress":"7789 West Avenue","city":"Alyssonstead","state":"Louisiana","country":"Guyana","UserId":23,"updatedAt":"2026-09-25T06:46:17.116Z","createdAt":"2026-09-25T06:46:17.116Z"}}

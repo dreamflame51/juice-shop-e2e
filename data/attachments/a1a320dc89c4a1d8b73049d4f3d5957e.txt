@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Alexander Monahan","mobileNum":6233182826,"zipCode":"63680","streetAddress":"87569 Janae Extension","city":"Fort Nathaniel","state":"South Dakota","country":"China","UserId":25,"updatedAt":"2026-09-25T06:46:53.991Z","createdAt":"2026-09-25T06:46:53.991Z"}}

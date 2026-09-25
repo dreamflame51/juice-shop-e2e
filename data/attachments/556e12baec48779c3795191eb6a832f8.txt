@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nina Ledner","mobileNum":9736033177,"zipCode":"35005","streetAddress":"334 S Maple Street","city":"Garnettchester","state":"New York","country":"Palestine","UserId":24,"updatedAt":"2026-09-25T06:46:53.983Z","createdAt":"2026-09-25T06:46:53.983Z"}}

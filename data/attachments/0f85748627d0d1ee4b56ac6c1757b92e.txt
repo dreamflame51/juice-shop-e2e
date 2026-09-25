@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Patti Considine","cardNum":4098140115051111,"expMonth":9,"expYear":2092,"UserId":24,"updatedAt":"2026-09-25T06:46:53.998Z","createdAt":"2026-09-25T06:46:53.998Z"}}
