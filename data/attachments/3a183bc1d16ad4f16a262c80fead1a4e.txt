@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Courtney Streich","mobileNum":4713735149,"zipCode":"02823","streetAddress":"63703 Prospect Street","city":"Dietrichberg","state":"Tennessee","country":"Gambia","UserId":28,"updatedAt":"2026-09-26T06:44:43.027Z","createdAt":"2026-09-26T06:44:43.027Z"}}

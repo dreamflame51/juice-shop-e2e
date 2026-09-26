@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Doreen Bradtke","mobileNum":8492601655,"zipCode":"19236","streetAddress":"91324 Bergstrom Court","city":"Jameyfurt","state":"Pennsylvania","country":"Cameroon","UserId":24,"updatedAt":"2026-09-26T06:44:42.417Z","createdAt":"2026-09-26T06:44:42.417Z"}}

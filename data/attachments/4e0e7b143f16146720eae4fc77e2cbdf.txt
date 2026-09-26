@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"ellie_hermann39.w9h2av7g@e2e.test","updatedAt":"2026-09-26T06:44:45.257Z","createdAt":"2026-09-26T06:44:45.257Z","deletedAt":null}}

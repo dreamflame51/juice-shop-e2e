@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mark Leuschke","mobileNum":8895607914,"zipCode":"95941","streetAddress":"45839 Marguerite Cliff","city":"Windlerborough","state":"Connecticut","country":"Brunei Darussalam","UserId":23,"updatedAt":"2026-09-26T06:44:48.174Z","createdAt":"2026-09-26T06:44:48.174Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Connie Spinka I","mobileNum":7843527861,"zipCode":"84783","streetAddress":"6023 Deckow Manors","city":"North Stewart","state":"Kentucky","country":"Estonia","UserId":25,"updatedAt":"2026-09-26T06:44:42.425Z","createdAt":"2026-09-26T06:44:42.425Z"}}
