@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tommy Okuneva","mobileNum":3341982203,"zipCode":"03190","streetAddress":"1159 Donnelly Pass","city":"Hoboken","state":"Utah","country":"Guinea","UserId":28,"updatedAt":"2026-09-27T07:14:52.145Z","createdAt":"2026-09-27T07:14:52.145Z"}}

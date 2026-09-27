@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Alfred Purdy","mobileNum":2456340638,"zipCode":"85075","streetAddress":"8339 West Road","city":"South Hilda","state":"Michigan","country":"French Guiana","UserId":25,"updatedAt":"2026-09-27T07:14:45.314Z","createdAt":"2026-09-27T07:14:45.314Z"}}

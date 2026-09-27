@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Frankie Parisian","mobileNum":5984320589,"zipCode":"11400","streetAddress":"640 Graham Field","city":"Gislasonstad","state":"Pennsylvania","country":"Chile","UserId":24,"updatedAt":"2026-09-27T07:14:45.310Z","createdAt":"2026-09-27T07:14:45.310Z"}}
