@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tommy Heidenreich","mobileNum":3922918997,"zipCode":"62703","streetAddress":"17250 Post Road","city":"Lake Susana","state":"Colorado","country":"British Indian Ocean Territory (Chagos Archipelago)","UserId":23,"updatedAt":"2026-09-28T07:49:40.139Z","createdAt":"2026-09-28T07:49:40.139Z"}}

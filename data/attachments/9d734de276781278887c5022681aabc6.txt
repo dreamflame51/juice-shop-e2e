@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Billy Russel","mobileNum":761568186,"zipCode":"92849","streetAddress":"563 Dayton Mill","city":"Port Ernestineton","state":"Louisiana","country":"Martinique","UserId":27,"updatedAt":"2026-09-28T07:49:50.776Z","createdAt":"2026-09-28T07:49:50.776Z"}}

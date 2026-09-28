@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Dorothy Koepp","cardNum":4305490322021111,"expMonth":8,"expYear":2092,"UserId":25,"updatedAt":"2026-09-28T07:49:40.013Z","createdAt":"2026-09-28T07:49:40.013Z"}}

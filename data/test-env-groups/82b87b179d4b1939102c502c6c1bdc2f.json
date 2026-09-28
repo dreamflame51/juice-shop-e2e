@@ -1,1 +1,1 @@
-{"id":"82b87b179d4b1939102c502c6c1bdc2f","fullName":"ui/auth/registration.spec.ts:11:3","name":"@smoke A new customer can register and then log in","status":"passed","testResultsByEnv":{"default":"4a52e1b7614a36a3b56c536a38cfb90c"}}
+{"id":"82b87b179d4b1939102c502c6c1bdc2f","fullName":"ui/auth/registration.spec.ts:11:3","name":"@smoke A new customer can register and then log in","status":"passed","testResultsByEnv":{"default":"1c14d8b1b4af1852b17c6891df269146"}}

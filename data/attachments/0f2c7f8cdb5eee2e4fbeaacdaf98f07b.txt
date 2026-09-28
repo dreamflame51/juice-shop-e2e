@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lee Cassin","mobileNum":338059560,"zipCode":"05540","streetAddress":"14581 Langosh Path","city":"Lake Flo","state":"Missouri","country":"Saint Lucia","UserId":25,"updatedAt":"2026-09-28T07:49:40.007Z","createdAt":"2026-09-28T07:49:40.007Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"selina_okon.rggeufsf@e2e.test","updatedAt":"2026-09-28T07:49:50.713Z","createdAt":"2026-09-28T07:49:50.713Z","deletedAt":null}}

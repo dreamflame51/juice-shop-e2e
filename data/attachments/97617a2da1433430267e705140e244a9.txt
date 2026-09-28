@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Adam Aufderhar","mobileNum":3341303403,"zipCode":"69803","streetAddress":"943 Eugene Alley","city":"Schmelerport","state":"Nebraska","country":"Peru","UserId":24,"updatedAt":"2026-09-28T07:49:40.058Z","createdAt":"2026-09-28T07:49:40.058Z"}}
