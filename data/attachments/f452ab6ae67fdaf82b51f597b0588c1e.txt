@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Gene Ferry","mobileNum":3274761567,"zipCode":"37693","streetAddress":"790 Tyrell Pine","city":"Orem","state":"New Hampshire","country":"Luxembourg","UserId":22,"updatedAt":"2026-09-29T07:35:54.081Z","createdAt":"2026-09-29T07:35:54.081Z"}}

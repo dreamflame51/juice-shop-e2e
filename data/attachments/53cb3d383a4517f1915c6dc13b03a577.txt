@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Darin Stracke","mobileNum":9813783571,"zipCode":"67327","streetAddress":"486 Stehr Pine","city":"South Alice","state":"Arkansas","country":"Greenland","UserId":25,"updatedAt":"2026-09-29T07:35:48.557Z","createdAt":"2026-09-29T07:35:48.557Z"}}

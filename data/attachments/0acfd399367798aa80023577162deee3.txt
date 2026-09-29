@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Elvira Davis","cardNum":4049575786601111,"expMonth":12,"expYear":2099,"UserId":22,"updatedAt":"2026-09-29T07:35:54.127Z","createdAt":"2026-09-29T07:35:54.127Z"}}

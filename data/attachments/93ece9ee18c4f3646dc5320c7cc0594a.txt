@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jamie Mohr","mobileNum":1754325831,"zipCode":"84152","streetAddress":"45793 S 4th Street","city":"Baton Rouge","state":"South Dakota","country":"Poland","UserId":24,"updatedAt":"2026-09-29T07:35:48.549Z","createdAt":"2026-09-29T07:35:48.549Z"}}

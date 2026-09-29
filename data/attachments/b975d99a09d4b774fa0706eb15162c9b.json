@@ -1,0 +1,9 @@
+{
+  "email": "darryl.spinka1.wozvibod@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Bella"
+}

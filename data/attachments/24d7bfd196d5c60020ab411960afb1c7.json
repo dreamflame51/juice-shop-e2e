@@ -1,0 +1,9 @@
+{
+  "email": "anissa_stamm43.v9i2hfhf@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Lucy"
+}
