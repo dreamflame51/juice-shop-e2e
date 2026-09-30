@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Amanda Lowe","mobileNum":5537108035,"zipCode":"03957","streetAddress":"3314 Schowalter Drives","city":"Jessmouth","state":"New Mexico","country":"Brunei Darussalam","UserId":28,"updatedAt":"2026-09-30T07:35:28.678Z","createdAt":"2026-09-30T07:35:28.678Z"}}

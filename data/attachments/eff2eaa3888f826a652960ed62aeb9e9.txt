@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Joan Langosh","cardNum":4686850578791111,"expMonth":3,"expYear":2087,"UserId":23,"updatedAt":"2026-09-30T07:36:46.945Z","createdAt":"2026-09-30T07:36:46.945Z"}}

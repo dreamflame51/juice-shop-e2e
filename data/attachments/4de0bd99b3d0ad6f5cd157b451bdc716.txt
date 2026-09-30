@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Alton Kihn","mobileNum":4447379440,"zipCode":"92923","streetAddress":"684 Durgan Ports","city":"Hansenborough","state":"Alabama","country":"Estonia","UserId":23,"updatedAt":"2026-09-30T07:36:46.928Z","createdAt":"2026-09-30T07:36:46.928Z"}}

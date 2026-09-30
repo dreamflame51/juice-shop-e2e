@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Miss Juana Moore","mobileNum":3751559072,"zipCode":"33978","streetAddress":"90899 Tyrell Courts","city":"Lake Brandybury","state":"Tennessee","country":"Cambodia","UserId":24,"updatedAt":"2026-09-30T07:35:47.733Z","createdAt":"2026-09-30T07:35:47.733Z"}}

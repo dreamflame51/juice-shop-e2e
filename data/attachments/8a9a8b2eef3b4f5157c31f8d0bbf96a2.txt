@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"meagan_klocko91.hloccsp4@e2e.test","updatedAt":"2026-09-30T07:35:47.411Z","createdAt":"2026-09-30T07:35:47.411Z","deletedAt":null}}
