@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Terrence Willms V","cardNum":4129809737361111,"expMonth":5,"expYear":2096,"UserId":24,"updatedAt":"2026-10-01T07:54:37.502Z","createdAt":"2026-10-01T07:54:37.502Z"}}

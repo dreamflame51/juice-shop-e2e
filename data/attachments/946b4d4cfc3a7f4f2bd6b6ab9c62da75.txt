@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mr. Dustin DuBuque","mobileNum":246322135,"zipCode":"27748","streetAddress":"137 Camron Groves","city":"Olsonstad","state":"Utah","country":"Jordan","UserId":24,"updatedAt":"2026-10-01T07:54:37.487Z","createdAt":"2026-10-01T07:54:37.487Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nettie Crooks MD","mobileNum":6027994978,"zipCode":"92231","streetAddress":"78161 Hagenes Trail","city":"New Flaviofield","state":"Indiana","country":"Sweden","UserId":25,"updatedAt":"2026-10-01T07:54:37.433Z","createdAt":"2026-10-01T07:54:37.433Z"}}

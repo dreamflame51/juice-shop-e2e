@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"amber_ward.vk9uxs4f@e2e.test","updatedAt":"2026-10-01T07:54:38.296Z","createdAt":"2026-10-01T07:54:38.296Z","deletedAt":null}}

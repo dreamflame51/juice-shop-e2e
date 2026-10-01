@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ernest Casper","mobileNum":6589356878,"zipCode":"91919","streetAddress":"3052 Hartmann Springs","city":"Centreville","state":"Vermont","country":"Romania","UserId":22,"updatedAt":"2026-10-01T07:54:28.433Z","createdAt":"2026-10-01T07:54:28.433Z"}}

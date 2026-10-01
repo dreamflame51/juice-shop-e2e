@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Candace Hauck","cardNum":4601707593131111,"expMonth":8,"expYear":2083,"UserId":22,"updatedAt":"2026-10-01T07:54:28.447Z","createdAt":"2026-10-01T07:54:28.447Z"}}

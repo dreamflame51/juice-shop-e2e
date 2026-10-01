@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Benjamin Bogan","mobileNum":5528253478,"zipCode":"57504","streetAddress":"6054 Elmer Well","city":"Fort Royalfort","state":"Virginia","country":"Maldives","UserId":28,"updatedAt":"2026-10-01T07:54:37.011Z","createdAt":"2026-10-01T07:54:37.011Z"}}

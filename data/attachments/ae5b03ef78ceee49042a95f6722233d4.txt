@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Gilberto Medhurst Sr.","cardNum":4050101835611111,"expMonth":9,"expYear":2098,"UserId":25,"updatedAt":"2026-10-01T07:54:37.442Z","createdAt":"2026-10-01T07:54:37.442Z"}}

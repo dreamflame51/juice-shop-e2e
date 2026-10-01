@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"ibrahim_hagenes.klg16mo9@e2e.test","updatedAt":"2026-10-01T07:54:35.874Z","createdAt":"2026-10-01T07:54:35.874Z","deletedAt":null}}
