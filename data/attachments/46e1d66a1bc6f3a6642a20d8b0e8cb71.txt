@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Leticia Bauch","mobileNum":4143812180,"zipCode":"14122","streetAddress":"2434 Isidro Lakes","city":"Rudolphboro","state":"Georgia","country":"Latvia","UserId":28,"updatedAt":"2026-10-02T07:38:03.600Z","createdAt":"2026-10-02T07:38:03.600Z"}}

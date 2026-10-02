@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Eduardo Torphy","cardNum":4607770456891111,"expMonth":8,"expYear":2084,"UserId":25,"updatedAt":"2026-10-02T07:37:55.870Z","createdAt":"2026-10-02T07:37:55.870Z"}}

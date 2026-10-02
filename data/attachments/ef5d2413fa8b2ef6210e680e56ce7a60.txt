@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tracy Rice-Pagac","mobileNum":8631424198,"zipCode":"36346","streetAddress":"813 Hodkiewicz Wall","city":"Raphaelhaven","state":"Idaho","country":"Oman","UserId":23,"updatedAt":"2026-10-02T07:37:55.484Z","createdAt":"2026-10-02T07:37:55.484Z"}}

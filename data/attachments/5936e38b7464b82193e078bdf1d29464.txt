@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Karla Breitenberg","mobileNum":7760688876,"zipCode":"62425","streetAddress":"70847 Antone Estate","city":"Oro Valley","state":"Kentucky","country":"Martinique","UserId":25,"updatedAt":"2026-10-02T07:37:55.861Z","createdAt":"2026-10-02T07:37:55.861Z"}}
