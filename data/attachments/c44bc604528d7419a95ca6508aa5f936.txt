@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Colleen Terry","cardNum":4609797426391111,"expMonth":5,"expYear":2080,"UserId":23,"updatedAt":"2026-10-03T07:11:08.442Z","createdAt":"2026-10-03T07:11:08.442Z"}}

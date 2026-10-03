@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Omar Cummings","mobileNum":4847959503,"zipCode":"13040","streetAddress":"45818 W Oak Street","city":"Bettyburgh","state":"Pennsylvania","country":"Lesotho","UserId":24,"updatedAt":"2026-10-03T07:11:41.089Z","createdAt":"2026-10-03T07:11:41.089Z"}}

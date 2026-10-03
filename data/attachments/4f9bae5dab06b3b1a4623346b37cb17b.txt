@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Amelia Towne","mobileNum":2356945928,"zipCode":"50272","streetAddress":"840 Balistreri Expressway","city":"Erdmanborough","state":"North Dakota","country":"Burundi","UserId":23,"updatedAt":"2026-10-03T07:11:08.402Z","createdAt":"2026-10-03T07:11:08.402Z"}}
