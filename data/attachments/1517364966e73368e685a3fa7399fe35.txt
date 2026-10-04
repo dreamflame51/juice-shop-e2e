@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Alex Lockman","cardNum":4262813446941111,"expMonth":9,"expYear":2096,"UserId":22,"updatedAt":"2026-10-04T07:30:44.331Z","createdAt":"2026-10-04T07:30:44.331Z"}}

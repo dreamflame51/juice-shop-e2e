@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Justin Hansen","mobileNum":6465878462,"zipCode":"46054","streetAddress":"906 Spinka Parkway","city":"South Darby","state":"Tennessee","country":"Niger","UserId":28,"updatedAt":"2026-10-04T07:30:41.032Z","createdAt":"2026-10-04T07:30:41.032Z"}}

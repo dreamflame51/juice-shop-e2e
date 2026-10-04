@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Hilda Altenwerth","mobileNum":8893269276,"zipCode":"59620","streetAddress":"852 Zulauf Groves","city":"East Kimport","state":"Colorado","country":"Cape Verde","UserId":22,"updatedAt":"2026-10-04T07:30:44.313Z","createdAt":"2026-10-04T07:30:44.313Z"}}

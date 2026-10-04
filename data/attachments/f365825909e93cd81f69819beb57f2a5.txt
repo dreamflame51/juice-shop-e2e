@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Daryl Bergstrom","mobileNum":1117144181,"zipCode":"39170","streetAddress":"2928 Eve Flats","city":"East Luciousburgh","state":"Louisiana","country":"Anguilla","UserId":25,"updatedAt":"2026-10-04T07:30:50.276Z","createdAt":"2026-10-04T07:30:50.276Z"}}

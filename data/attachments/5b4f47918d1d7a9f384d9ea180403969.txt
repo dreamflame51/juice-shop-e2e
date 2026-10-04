@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Roosevelt Kessler","mobileNum":1707612399,"zipCode":"64167","streetAddress":"8059 Christiansen Walks","city":"West Americotown","state":"Colorado","country":"Thailand","UserId":24,"updatedAt":"2026-10-04T07:30:50.263Z","createdAt":"2026-10-04T07:30:50.263Z"}}
