@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ignacio Yost","mobileNum":1761735090,"zipCode":"82097","streetAddress":"85027 Sanford Lane","city":"New Leonardbury","state":"Illinois","country":"Ghana","UserId":23,"updatedAt":"2026-10-05T07:48:37.376Z","createdAt":"2026-10-05T07:48:37.376Z"}}

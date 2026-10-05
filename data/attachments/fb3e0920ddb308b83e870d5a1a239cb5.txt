@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Bobby Torphy IV","mobileNum":7886373587,"zipCode":"85167","streetAddress":"3397 Bedford Road","city":"Kulaschester","state":"Nevada","country":"Botswana","UserId":24,"updatedAt":"2026-10-05T07:48:24.125Z","createdAt":"2026-10-05T07:48:24.125Z"}}

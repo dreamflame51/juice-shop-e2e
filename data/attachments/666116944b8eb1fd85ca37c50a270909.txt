@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dr. Larry Kuvalis","cardNum":4735468343391111,"expMonth":2,"expYear":2095,"UserId":25,"updatedAt":"2026-10-05T07:48:24.081Z","createdAt":"2026-10-05T07:48:24.081Z"}}

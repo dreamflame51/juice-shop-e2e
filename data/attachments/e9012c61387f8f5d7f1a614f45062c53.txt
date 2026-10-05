@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Elizabeth Morissette","cardNum":4153237027941111,"expMonth":5,"expYear":2085,"UserId":24,"updatedAt":"2026-10-05T07:48:24.141Z","createdAt":"2026-10-05T07:48:24.141Z"}}

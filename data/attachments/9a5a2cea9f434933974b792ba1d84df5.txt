@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Trevor Corkery","cardNum":4849373282451111,"expMonth":11,"expYear":2088,"UserId":23,"updatedAt":"2026-10-05T07:48:37.390Z","createdAt":"2026-10-05T07:48:37.390Z"}}
