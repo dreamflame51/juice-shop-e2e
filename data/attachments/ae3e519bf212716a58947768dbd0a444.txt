@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mrs. Marilyn Shields","mobileNum":4960206596,"zipCode":"41784","streetAddress":"845 St Mary's Close","city":"Apex","state":"Pennsylvania","country":"Bolivia","UserId":24,"updatedAt":"2026-10-06T08:14:57.029Z","createdAt":"2026-10-06T08:14:57.029Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Connie Abshire","mobileNum":3326844122,"zipCode":"12579","streetAddress":"46260 Vaughn Union","city":"Neldaberg","state":"Arkansas","country":"Portugal","UserId":28,"updatedAt":"2026-10-06T08:14:24.161Z","createdAt":"2026-10-06T08:14:24.161Z"}}
