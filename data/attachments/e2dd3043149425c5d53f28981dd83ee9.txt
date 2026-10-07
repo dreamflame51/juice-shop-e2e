@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Bobbie Crooks","mobileNum":8331565632,"zipCode":"84016","streetAddress":"2311 Manor Way","city":"Oro Valley","state":"Nevada","country":"Samoa","UserId":24,"updatedAt":"2026-10-07T07:48:21.450Z","createdAt":"2026-10-07T07:48:21.450Z"}}

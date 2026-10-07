@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Eloise Dach","cardNum":4879941950711111,"expMonth":4,"expYear":2081,"UserId":25,"updatedAt":"2026-10-07T07:48:21.397Z","createdAt":"2026-10-07T07:48:21.397Z"}}

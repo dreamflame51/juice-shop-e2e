@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laurence Koepp I","mobileNum":7010712840,"zipCode":"43507","streetAddress":"73823 Brekke Parkway","city":"Fort Rosalyn","state":"Wisconsin","country":"Andorra","UserId":28,"updatedAt":"2026-10-07T07:48:35.292Z","createdAt":"2026-10-07T07:48:35.292Z"}}

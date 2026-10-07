@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Harry Sporer","mobileNum":5294327450,"zipCode":"57690","streetAddress":"563 Bosco Hill","city":"South Josefina","state":"Maryland","country":"Hong Kong","UserId":25,"updatedAt":"2026-10-07T07:48:21.389Z","createdAt":"2026-10-07T07:48:21.389Z"}}
