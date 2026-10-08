@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Roger Spinka-Pagac","mobileNum":8532204939,"zipCode":"61249","streetAddress":"4521 Central Street","city":"San Clemente","state":"Georgia","country":"Wallis and Futuna","UserId":24,"updatedAt":"2026-10-08T08:05:36.054Z","createdAt":"2026-10-08T08:05:36.054Z"}}

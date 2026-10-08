@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Jamie Bahringer","mobileNum":8456194343,"zipCode":"26866","streetAddress":"456 Kurtis Court","city":"Fort Demetris","state":"New York","country":"Pitcairn Islands","UserId":25,"updatedAt":"2026-10-08T08:05:36.063Z","createdAt":"2026-10-08T08:05:36.063Z"}}

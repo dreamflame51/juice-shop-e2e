@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Meghan Heaney III","mobileNum":5601993237,"zipCode":"21837","streetAddress":"47791 Issac Plains","city":"Darianshire","state":"Georgia","country":"Colombia","UserId":23,"updatedAt":"2026-10-08T08:05:42.444Z","createdAt":"2026-10-08T08:05:42.444Z"}}
