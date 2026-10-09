@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Bonnie Flatley","mobileNum":8960637207,"zipCode":"44491","streetAddress":"473 Estefania Islands","city":"Kamillestad","state":"Alabama","country":"Reunion","UserId":25,"updatedAt":"2026-10-09T08:05:34.673Z","createdAt":"2026-10-09T08:05:34.673Z"}}

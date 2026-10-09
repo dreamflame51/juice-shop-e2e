@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Arturo Terry","mobileNum":7145329409,"zipCode":"11496","streetAddress":"6497 Otho Passage","city":"Blockshire","state":"Idaho","country":"Ghana","UserId":22,"updatedAt":"2026-10-09T08:05:27.249Z","createdAt":"2026-10-09T08:05:27.249Z"}}

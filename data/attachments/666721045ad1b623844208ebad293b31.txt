@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Renee Herzog","mobileNum":3982173191,"zipCode":"15089","streetAddress":"601 Dare Station","city":"North Marie","state":"Rhode Island","country":"Samoa","UserId":24,"updatedAt":"2026-10-09T08:05:34.722Z","createdAt":"2026-10-09T08:05:34.722Z"}}

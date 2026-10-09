@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Jeanette Bergstrom V","cardNum":4731269665461111,"expMonth":11,"expYear":2088,"UserId":24,"updatedAt":"2026-10-09T08:05:34.740Z","createdAt":"2026-10-09T08:05:34.740Z"}}

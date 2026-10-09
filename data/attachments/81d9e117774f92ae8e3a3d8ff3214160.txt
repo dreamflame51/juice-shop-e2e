@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nelson Hand","mobileNum":9346586681,"zipCode":"77975","streetAddress":"42882 Predovic Camp","city":"Orlando","state":"Rhode Island","country":"Virgin Islands, U.S.","UserId":28,"updatedAt":"2026-10-09T08:05:48.298Z","createdAt":"2026-10-09T08:05:48.298Z"}}
