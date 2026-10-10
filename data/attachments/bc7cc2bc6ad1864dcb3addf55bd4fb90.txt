@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marty Daniel-Strosin","mobileNum":3725845730,"zipCode":"71353","streetAddress":"919 14th Street","city":"Abbottstad","state":"Kentucky","country":"El Salvador","UserId":27,"updatedAt":"2026-10-10T07:49:04.270Z","createdAt":"2026-10-10T07:49:04.270Z"}}

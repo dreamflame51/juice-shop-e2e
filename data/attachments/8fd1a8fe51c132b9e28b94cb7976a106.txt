@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Lori Gulgowski","cardNum":4859288487441111,"expMonth":9,"expYear":2090,"UserId":23,"updatedAt":"2026-10-10T07:48:58.390Z","createdAt":"2026-10-10T07:48:58.390Z"}}

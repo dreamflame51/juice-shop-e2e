@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sammy Mante","mobileNum":2580743046,"zipCode":"71790","streetAddress":"5796 East Road","city":"Wunschbury","state":"Wisconsin","country":"Georgia","UserId":24,"updatedAt":"2026-10-10T07:48:54.670Z","createdAt":"2026-10-10T07:48:54.670Z"}}

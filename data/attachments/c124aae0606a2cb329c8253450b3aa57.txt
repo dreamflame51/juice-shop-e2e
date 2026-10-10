@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jesse Mayert","mobileNum":6537533561,"zipCode":"14387","streetAddress":"90352 Larkin Junction","city":"North Cristalport","state":"Vermont","country":"Tajikistan","UserId":23,"updatedAt":"2026-10-10T07:48:58.380Z","createdAt":"2026-10-10T07:48:58.380Z"}}

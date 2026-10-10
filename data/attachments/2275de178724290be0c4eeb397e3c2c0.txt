@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Leland Zboncak","mobileNum":176084366,"zipCode":"13015","streetAddress":"85120 Nora Expressway","city":"North Mackenzie","state":"Alaska","country":"Nigeria","UserId":25,"updatedAt":"2026-10-10T07:48:54.741Z","createdAt":"2026-10-10T07:48:54.741Z"}}
