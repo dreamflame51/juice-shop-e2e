@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Loren Lynch","mobileNum":3953188090,"zipCode":"98179","streetAddress":"39887 Hansen Springs","city":"Trishaton","state":"North Dakota","country":"Nauru","UserId":28,"updatedAt":"2026-10-11T07:56:45.470Z","createdAt":"2026-10-11T07:56:45.470Z"}}

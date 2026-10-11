@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Harold Schaefer","mobileNum":8831130299,"zipCode":"14237","streetAddress":"7579 Bath Street","city":"New Eliza","state":"Pennsylvania","country":"Eswatini","UserId":23,"updatedAt":"2026-10-11T07:56:45.293Z","createdAt":"2026-10-11T07:56:45.293Z"}}

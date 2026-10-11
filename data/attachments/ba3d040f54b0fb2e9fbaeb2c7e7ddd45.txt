@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"alyce.hayes65.p4g4ts5l@e2e.test","updatedAt":"2026-10-11T07:56:45.282Z","createdAt":"2026-10-11T07:56:45.282Z","deletedAt":null}}

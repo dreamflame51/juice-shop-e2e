@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Carla Mohr","mobileNum":723791332,"zipCode":"41502","streetAddress":"529 Norfolk Road","city":"North Elva","state":"California","country":"Kazakhstan","UserId":24,"updatedAt":"2026-10-11T07:56:43.062Z","createdAt":"2026-10-11T07:56:43.062Z"}}
