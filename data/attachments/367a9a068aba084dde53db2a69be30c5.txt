@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Taylor Ziemann","cardNum":4188232450411111,"expMonth":4,"expYear":2081,"UserId":25,"updatedAt":"2026-10-12T08:10:32.300Z","createdAt":"2026-10-12T08:10:32.300Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laurie Bashirian","mobileNum":3235276402,"zipCode":"52992","streetAddress":"60397 Bradtke Point","city":"Gregton","state":"Tennessee","country":"Iran","UserId":22,"updatedAt":"2026-10-12T08:10:36.956Z","createdAt":"2026-10-12T08:10:36.956Z"}}

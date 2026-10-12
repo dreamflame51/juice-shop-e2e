@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"lindsay_rutherford-king.zzjymo0x@e2e.test","updatedAt":"2026-10-12T08:10:34.978Z","createdAt":"2026-10-12T08:10:34.978Z","deletedAt":null}}

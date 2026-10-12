@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Cathy Yost IV","mobileNum":5237838222,"zipCode":"84214","streetAddress":"29814 Moore Dale","city":"East Jovanyshire","state":"Colorado","country":"Tuvalu","UserId":28,"updatedAt":"2026-10-12T08:10:42.164Z","createdAt":"2026-10-12T08:10:42.164Z"}}

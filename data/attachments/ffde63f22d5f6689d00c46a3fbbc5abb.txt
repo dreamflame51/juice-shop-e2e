@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Toni Marvin","mobileNum":8840515016,"zipCode":"59057","streetAddress":"39362 Hansen Street","city":"Highland","state":"New Mexico","country":"Jamaica","UserId":25,"updatedAt":"2026-10-12T08:10:32.293Z","createdAt":"2026-10-12T08:10:32.293Z"}}

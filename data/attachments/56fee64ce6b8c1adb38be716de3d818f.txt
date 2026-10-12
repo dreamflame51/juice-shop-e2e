@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"romaine_lesch24.p9eeewk3@e2e.test","updatedAt":"2026-10-12T08:10:32.050Z","createdAt":"2026-10-12T08:10:32.050Z","deletedAt":null}}
