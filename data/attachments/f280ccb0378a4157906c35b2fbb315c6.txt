@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Deborah Friesen-Larkin","cardNum":4778381031121111,"expMonth":11,"expYear":2084,"UserId":25,"updatedAt":"2026-10-13T08:36:17.714Z","createdAt":"2026-10-13T08:36:17.714Z"}}

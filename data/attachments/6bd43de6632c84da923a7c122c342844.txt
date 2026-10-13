@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jerome Powlowski","mobileNum":7393327485,"zipCode":"74706","streetAddress":"134 Predovic Vista","city":"McAllen","state":"Vermont","country":"Eritrea","UserId":25,"updatedAt":"2026-10-13T08:36:17.708Z","createdAt":"2026-10-13T08:36:17.708Z"}}

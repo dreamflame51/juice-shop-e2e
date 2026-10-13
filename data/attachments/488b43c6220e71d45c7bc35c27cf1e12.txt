@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Allen Powlowski I","mobileNum":3023665600,"zipCode":"68827","streetAddress":"2126 Pinkie Shoals","city":"West Karlihaven","state":"Alabama","country":"Taiwan","UserId":27,"updatedAt":"2026-10-13T08:36:31.603Z","createdAt":"2026-10-13T08:36:31.603Z"}}

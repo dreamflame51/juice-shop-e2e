@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"angie3.tc85ag0k@e2e.test","updatedAt":"2026-10-13T08:36:12.529Z","createdAt":"2026-10-13T08:36:12.529Z","deletedAt":null}}

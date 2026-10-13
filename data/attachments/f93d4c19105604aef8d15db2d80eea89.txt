@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Emilio Heaney PhD","mobileNum":6813207587,"zipCode":"97007","streetAddress":"4406 Davis Flats","city":"Israelstead","state":"Iowa","country":"Iceland","UserId":22,"updatedAt":"2026-10-13T08:36:13.942Z","createdAt":"2026-10-13T08:36:13.942Z"}}

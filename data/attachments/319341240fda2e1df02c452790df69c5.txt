@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"lexi.altenwerth.k7x7p2ee@e2e.test","updatedAt":"2026-10-13T08:36:11.774Z","createdAt":"2026-10-13T08:36:11.774Z","deletedAt":null}}
