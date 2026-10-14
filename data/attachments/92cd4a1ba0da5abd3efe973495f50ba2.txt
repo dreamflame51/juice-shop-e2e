@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Clyde Gislason","cardNum":4198332255171111,"expMonth":4,"expYear":2095,"UserId":23,"updatedAt":"2026-10-14T06:49:48.811Z","createdAt":"2026-10-14T06:49:48.811Z"}}

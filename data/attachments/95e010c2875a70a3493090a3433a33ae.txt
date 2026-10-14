@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dora Abshire-Kohler","mobileNum":2224168298,"zipCode":"56263","streetAddress":"26244 Margarita Parks","city":"Robbieside","state":"Hawaii","country":"Hungary","UserId":23,"updatedAt":"2026-10-14T06:49:48.791Z","createdAt":"2026-10-14T06:49:48.791Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Michele Borer","mobileNum":3073229506,"zipCode":"70202","streetAddress":"22924 Rahsaan Terrace","city":"West Magnus","state":"Oklahoma","country":"Cameroon","UserId":28,"updatedAt":"2026-10-14T06:49:57.543Z","createdAt":"2026-10-14T06:49:57.543Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"alexzander.thiel.xuoo9h0c@e2e.test","updatedAt":"2026-10-14T06:50:06.431Z","createdAt":"2026-10-14T06:50:06.431Z","deletedAt":null}}

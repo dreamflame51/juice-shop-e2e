@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Roger Grady Sr.","mobileNum":4925631179,"zipCode":"30607","streetAddress":"432 Elm Street","city":"Schroederton","state":"Florida","country":"Uganda","UserId":24,"updatedAt":"2026-10-14T06:50:06.999Z","createdAt":"2026-10-14T06:50:06.999Z"}}

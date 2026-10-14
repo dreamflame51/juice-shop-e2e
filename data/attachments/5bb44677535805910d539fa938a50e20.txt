@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"keaton96.tevgb7hh@e2e.test","updatedAt":"2026-10-14T06:49:37.217Z","createdAt":"2026-10-14T06:49:37.217Z","deletedAt":null}}

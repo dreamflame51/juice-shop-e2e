@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nettie Hirthe V","mobileNum":5867894331,"zipCode":"64120","streetAddress":"3633 Spruce Street","city":"Masonboro","state":"Virginia","country":"Gambia","UserId":25,"updatedAt":"2026-10-14T06:50:06.989Z","createdAt":"2026-10-14T06:50:06.989Z"}}
