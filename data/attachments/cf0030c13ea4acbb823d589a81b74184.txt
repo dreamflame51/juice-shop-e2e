@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Patrick Moen","mobileNum":2367207770,"zipCode":"69534","streetAddress":"5703 Marley Island","city":"O'Konton","state":"New Mexico","country":"Togo","UserId":22,"updatedAt":"2026-10-15T06:36:19.739Z","createdAt":"2026-10-15T06:36:19.739Z"}}

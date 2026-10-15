@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Brooke Nicolas","mobileNum":4357759436,"zipCode":"15816","streetAddress":"8605 Rice Divide","city":"Christiansenton","state":"Michigan","country":"Bolivia","UserId":24,"updatedAt":"2026-10-15T06:36:22.519Z","createdAt":"2026-10-15T06:36:22.519Z"}}

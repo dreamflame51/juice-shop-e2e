@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Ellis McGlynn","cardNum":4494239030411111,"expMonth":10,"expYear":2087,"UserId":25,"updatedAt":"2026-10-15T06:36:22.595Z","createdAt":"2026-10-15T06:36:22.595Z"}}

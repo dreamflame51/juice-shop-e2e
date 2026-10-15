@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Carlton Pfeffer","mobileNum":4826590495,"zipCode":"21098","streetAddress":"17367 Connelly Mews","city":"McGlynnstad","state":"Alabama","country":"Djibouti","UserId":28,"updatedAt":"2026-10-15T06:36:38.942Z","createdAt":"2026-10-15T06:36:38.942Z"}}

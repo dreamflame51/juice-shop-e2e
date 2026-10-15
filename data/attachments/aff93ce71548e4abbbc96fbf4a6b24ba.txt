@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mr. Ernest Hayes","mobileNum":4272768625,"zipCode":"69436","streetAddress":"28876 Lessie Knolls","city":"Mavisworth","state":"Oregon","country":"Peru","UserId":25,"updatedAt":"2026-10-15T06:36:22.576Z","createdAt":"2026-10-15T06:36:22.576Z"}}
