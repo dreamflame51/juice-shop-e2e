@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Terry Braun-Boyer","mobileNum":9914616583,"zipCode":"14275","streetAddress":"828 S Division Street","city":"Arcadia","state":"Idaho","country":"China","UserId":23,"updatedAt":"2026-10-16T06:30:22.584Z","createdAt":"2026-10-16T06:30:22.584Z"}}

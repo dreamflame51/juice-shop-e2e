@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tara Walker","mobileNum":1511099646,"zipCode":"57848","streetAddress":"324 Pfannerstill Creek","city":"Curtstead","state":"Alaska","country":"Slovakia","UserId":25,"updatedAt":"2026-10-16T06:30:18.039Z","createdAt":"2026-10-16T06:30:18.039Z"}}

@@ -1,1 +1,1 @@
-{"id":"0afeeb721cfcf62b7c83004126cd042e","fullName":"api/auth/login.spec.ts:10:3","name":"@smoke Issues a JWT and a basket id for valid credentials","status":"passed","testResultsByEnv":{"default":"ad2a7eaabedb30dbc892c192012c49f6"}}
+{"id":"0afeeb721cfcf62b7c83004126cd042e","fullName":"api/auth/login.spec.ts:10:3","name":"@smoke Issues a JWT and a basket id for valid credentials","status":"passed","testResultsByEnv":{"default":"fc5a32a85754b201588b3710352daf78"}}

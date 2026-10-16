@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Shirley Hand","mobileNum":7089166709,"zipCode":"23158","streetAddress":"27511 Lilian Crest","city":"Purdycester","state":"New Hampshire","country":"Panama","UserId":24,"updatedAt":"2026-10-16T06:30:18.085Z","createdAt":"2026-10-16T06:30:18.085Z"}}

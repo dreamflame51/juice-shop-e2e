@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"casper75.ztp6ntqi@e2e.test","updatedAt":"2026-10-16T06:30:17.926Z","createdAt":"2026-10-16T06:30:17.926Z","deletedAt":null}}

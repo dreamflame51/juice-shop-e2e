@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Maurice Schaden","cardNum":4775448287461111,"expMonth":1,"expYear":2080,"UserId":28,"updatedAt":"2026-10-16T06:30:42.248Z","createdAt":"2026-10-16T06:30:42.248Z"}}
