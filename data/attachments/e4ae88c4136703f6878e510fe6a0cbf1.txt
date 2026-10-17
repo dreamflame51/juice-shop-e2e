@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tommie Rogahn","mobileNum":7221369796,"zipCode":"86835","streetAddress":"6566 Carroll Fields","city":"North Phylliscester","state":"North Dakota","country":"Holy See (Vatican City State)","UserId":22,"updatedAt":"2026-10-17T06:19:12.209Z","createdAt":"2026-10-17T06:19:12.209Z"}}

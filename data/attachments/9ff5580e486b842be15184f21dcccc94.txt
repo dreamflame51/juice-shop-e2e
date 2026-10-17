@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Allison Weissnat","mobileNum":4269111399,"zipCode":"78655","streetAddress":"7690 Helena Squares","city":"Claraboro","state":"Illinois","country":"Norfolk Island","UserId":24,"updatedAt":"2026-10-17T06:19:24.709Z","createdAt":"2026-10-17T06:19:24.709Z"}}

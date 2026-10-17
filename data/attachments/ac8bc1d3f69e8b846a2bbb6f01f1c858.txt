@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Patrick Koelpin","mobileNum":925724945,"zipCode":"24447","streetAddress":"48564 Tromp Corner","city":"New Geovannystad","state":"Nebraska","country":"Isle of Man","UserId":25,"updatedAt":"2026-10-17T06:19:24.718Z","createdAt":"2026-10-17T06:19:24.718Z"}}

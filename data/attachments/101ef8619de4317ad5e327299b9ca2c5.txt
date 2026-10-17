@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"sherwood.crooks.6j2itjfl@e2e.test","updatedAt":"2026-10-17T06:19:10.751Z","createdAt":"2026-10-17T06:19:10.751Z","deletedAt":null}}
