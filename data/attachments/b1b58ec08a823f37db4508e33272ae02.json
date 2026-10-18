@@ -1,0 +1,9 @@
+{
+  "email": "terence_hilll.blc5cfi3@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Coco"
+}

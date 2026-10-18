@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lorraine Goldner","mobileNum":5740759818,"zipCode":"16401","streetAddress":"8241 Runolfsson Falls","city":"League City","state":"Texas","country":"Philippines","UserId":22,"updatedAt":"2026-10-18T06:42:42.026Z","createdAt":"2026-10-18T06:42:42.026Z"}}

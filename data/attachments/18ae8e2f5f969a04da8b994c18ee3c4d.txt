@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ramiro Schinner","mobileNum":1771655260,"zipCode":"65592","streetAddress":"4698 Satterfield Meadow","city":"Port Quincy","state":"Tennessee","country":"Djibouti","UserId":24,"updatedAt":"2026-10-18T06:42:23.965Z","createdAt":"2026-10-18T06:42:23.965Z"}}

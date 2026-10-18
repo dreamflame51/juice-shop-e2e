@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Angelica Olson","mobileNum":6216380323,"zipCode":"08722","streetAddress":"6175 Oakfield Road","city":"Bogisichbury","state":"Connecticut","country":"Curacao","UserId":25,"updatedAt":"2026-10-18T06:42:23.975Z","createdAt":"2026-10-18T06:42:23.975Z"}}
