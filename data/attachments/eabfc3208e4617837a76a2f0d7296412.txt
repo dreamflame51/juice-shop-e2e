@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"emile_kemmer.u1cxjdx1@e2e.test","updatedAt":"2026-10-19T07:02:19.048Z","createdAt":"2026-10-19T07:02:19.048Z","deletedAt":null}}

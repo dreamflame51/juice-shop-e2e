@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Marilyn Halvorson","cardNum":4700589957161111,"expMonth":10,"expYear":2080,"UserId":24,"updatedAt":"2026-10-19T07:02:19.228Z","createdAt":"2026-10-19T07:02:19.228Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Eleanor Wyman","mobileNum":6247322390,"zipCode":"72245","streetAddress":"921 Ezekiel Pike","city":"Lesleyton","state":"New Mexico","country":"Iran","UserId":25,"updatedAt":"2026-10-19T07:02:19.189Z","createdAt":"2026-10-19T07:02:19.189Z"}}

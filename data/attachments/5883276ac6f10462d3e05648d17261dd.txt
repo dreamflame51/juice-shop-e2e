@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ryan Effertz","mobileNum":3828015322,"zipCode":"72247","streetAddress":"78453 Avis Parkway","city":"Jakubowskiborough","state":"Oregon","country":"Spain","UserId":28,"updatedAt":"2026-10-19T07:02:25.590Z","createdAt":"2026-10-19T07:02:25.590Z"}}

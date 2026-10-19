@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Erick Ruecker-Lesch DVM","mobileNum":3549579360,"zipCode":"15276","streetAddress":"3784 Myra Haven","city":"Port Janis","state":"Kansas","country":"Guadeloupe","UserId":23,"updatedAt":"2026-10-19T07:02:20.506Z","createdAt":"2026-10-19T07:02:20.506Z"}}
