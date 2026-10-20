@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Cynthia Wintheiser","mobileNum":9338149496,"zipCode":"15773","streetAddress":"4879 Gladys Streets","city":"Hudsonton","state":"Arizona","country":"Italy","UserId":28,"updatedAt":"2026-10-20T06:47:08.850Z","createdAt":"2026-10-20T06:47:08.850Z"}}

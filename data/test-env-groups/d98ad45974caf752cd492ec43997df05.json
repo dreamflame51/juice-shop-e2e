@@ -1,1 +1,1 @@
-{"id":"d98ad45974caf752cd492ec43997df05","fullName":"ui/products/search.spec.ts:11:3","name":"@smoke Returns only products matching the search term","status":"passed","testResultsByEnv":{"default":"7321f5e44c6b631875a2970a98d69644"}}
+{"id":"d98ad45974caf752cd492ec43997df05","fullName":"ui/products/search.spec.ts:11:3","name":"@smoke Returns only products matching the search term","status":"passed","testResultsByEnv":{"default":"2c6060d8d3817fdc1c1c2cb61baa52b5"}}

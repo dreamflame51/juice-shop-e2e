@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Carrie Will-Quigley","cardNum":4798850747891111,"expMonth":1,"expYear":2089,"UserId":23,"updatedAt":"2026-10-20T06:47:08.516Z","createdAt":"2026-10-20T06:47:08.516Z"}}

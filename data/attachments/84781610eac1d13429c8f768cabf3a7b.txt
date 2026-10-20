@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"daron_legros41.k8pdezbz@e2e.test","updatedAt":"2026-10-20T06:47:08.505Z","createdAt":"2026-10-20T06:47:08.505Z","deletedAt":null}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mario Kuhic","mobileNum":3422891263,"zipCode":"15132","streetAddress":"2999 Gutmann Terrace","city":"Pompano Beach","state":"New York","country":"Martinique","UserId":25,"updatedAt":"2026-10-20T06:47:00.113Z","createdAt":"2026-10-20T06:47:00.113Z"}}

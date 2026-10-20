@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Alejandro Schuppe","mobileNum":7031768149,"zipCode":"09191","streetAddress":"95954 Trinity Union","city":"Dessiebury","state":"Nevada","country":"Israel","UserId":24,"updatedAt":"2026-10-20T06:47:00.092Z","createdAt":"2026-10-20T06:47:00.092Z"}}

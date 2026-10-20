@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Barbara Crist","mobileNum":8261721641,"zipCode":"47199","streetAddress":"48660 Hillside Avenue","city":"Bauchcester","state":"Hawaii","country":"Rwanda","UserId":23,"updatedAt":"2026-10-20T06:47:08.504Z","createdAt":"2026-10-20T06:47:08.504Z"}}
