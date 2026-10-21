@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Miss Eleanor Willms","mobileNum":7902032410,"zipCode":"25914","streetAddress":"2313 Hamill Well","city":"East Kian","state":"Nebraska","country":"Colombia","UserId":23,"updatedAt":"2026-10-21T06:41:43.891Z","createdAt":"2026-10-21T06:41:43.891Z"}}

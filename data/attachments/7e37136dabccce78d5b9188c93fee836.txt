@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Inez O'Keefe","mobileNum":3592220959,"zipCode":"66344","streetAddress":"55792 Hintz Parks","city":"New Braxtonmouth","state":"Rhode Island","country":"British Indian Ocean Territory (Chagos Archipelago)","UserId":25,"updatedAt":"2026-10-21T06:41:36.394Z","createdAt":"2026-10-21T06:41:36.394Z"}}

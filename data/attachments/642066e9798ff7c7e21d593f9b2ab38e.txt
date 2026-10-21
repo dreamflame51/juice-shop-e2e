@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Christian Bednar Sr.","mobileNum":3926892163,"zipCode":"42022","streetAddress":"9085 Rice Falls","city":"North Enidton","state":"Kansas","country":"Jordan","UserId":28,"updatedAt":"2026-10-21T06:41:45.823Z","createdAt":"2026-10-21T06:41:45.823Z"}}

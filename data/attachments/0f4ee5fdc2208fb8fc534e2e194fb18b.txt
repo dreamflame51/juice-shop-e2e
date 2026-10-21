@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Myron Reilly","mobileNum":958946629,"zipCode":"53990","streetAddress":"93586 W 4th Avenue","city":"Luthercester","state":"Wyoming","country":"Macao","UserId":24,"updatedAt":"2026-10-21T06:41:36.372Z","createdAt":"2026-10-21T06:41:36.372Z"}}
