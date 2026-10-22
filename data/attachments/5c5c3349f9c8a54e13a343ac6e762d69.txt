@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Judith Veum","cardNum":4393891721841111,"expMonth":7,"expYear":2084,"UserId":25,"updatedAt":"2026-10-22T06:44:38.069Z","createdAt":"2026-10-22T06:44:38.069Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Judith Hilpert","mobileNum":9052288637,"zipCode":"06014","streetAddress":"985 Florida Pines","city":"Modestaport","state":"Nebraska","country":"New Caledonia","UserId":28,"updatedAt":"2026-10-22T06:45:09.141Z","createdAt":"2026-10-22T06:45:09.141Z"}}

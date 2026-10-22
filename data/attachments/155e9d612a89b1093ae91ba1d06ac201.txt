@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Angelina Ullrich","mobileNum":3715580147,"zipCode":"91474","streetAddress":"96420 Francis Glen","city":"Port Eveline","state":"New Jersey","country":"Wallis and Futuna","UserId":22,"updatedAt":"2026-10-22T06:44:21.969Z","createdAt":"2026-10-22T06:44:21.969Z"}}

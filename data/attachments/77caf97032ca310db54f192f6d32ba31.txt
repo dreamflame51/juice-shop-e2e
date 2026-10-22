@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dorothy Feeney","mobileNum":6849496065,"zipCode":"74606","streetAddress":"474 Airport Road","city":"Nikkichester","state":"Utah","country":"Martinique","UserId":24,"updatedAt":"2026-10-22T06:44:37.989Z","createdAt":"2026-10-22T06:44:37.989Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"geoffrey.bashirian26.vzo7q9dg@e2e.test","updatedAt":"2026-10-22T06:44:19.214Z","createdAt":"2026-10-22T06:44:19.214Z","deletedAt":null}}
