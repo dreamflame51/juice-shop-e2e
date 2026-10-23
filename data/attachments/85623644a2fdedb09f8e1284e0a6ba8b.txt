@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Alejandro Spinka","mobileNum":6465039588,"zipCode":"58751","streetAddress":"85196 Jed Center","city":"Bryan","state":"New Jersey","country":"Uruguay","UserId":24,"updatedAt":"2026-10-23T06:38:54.550Z","createdAt":"2026-10-23T06:38:54.550Z"}}

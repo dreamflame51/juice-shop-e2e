@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":26,"email":"alivia.raynor.rov2jbnf@e2e.test","updatedAt":"2026-10-23T06:38:54.564Z","createdAt":"2026-10-23T06:38:54.564Z","deletedAt":null}}

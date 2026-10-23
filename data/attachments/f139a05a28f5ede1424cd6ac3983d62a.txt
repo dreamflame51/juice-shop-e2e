@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Clifford Zieme","mobileNum":398025961,"zipCode":"78386","streetAddress":"3959 Hardy Place","city":"Estefaniatown","state":"South Carolina","country":"Nauru","UserId":22,"updatedAt":"2026-10-23T06:39:17.929Z","createdAt":"2026-10-23T06:39:17.929Z"}}

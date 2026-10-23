@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Karla Adams","mobileNum":3151724646,"zipCode":"70981","streetAddress":"95630 The Spinney","city":"South Chesley","state":"Kentucky","country":"Suriname","UserId":27,"updatedAt":"2026-10-23T06:38:54.724Z","createdAt":"2026-10-23T06:38:54.724Z"}}

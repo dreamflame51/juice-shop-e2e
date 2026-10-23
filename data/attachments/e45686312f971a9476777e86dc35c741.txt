@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Alonzo Romaguera","mobileNum":1022502996,"zipCode":"81533","streetAddress":"8426 Buford Plain","city":"VonRuedenworth","state":"Minnesota","country":"Singapore","UserId":25,"updatedAt":"2026-10-23T06:38:54.521Z","createdAt":"2026-10-23T06:38:54.521Z"}}
