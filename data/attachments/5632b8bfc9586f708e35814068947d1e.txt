@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Faith Langosh","mobileNum":5884922341,"zipCode":"02293","streetAddress":"5021 Kaia Curve","city":"South Judge","state":"New York","country":"Mauritius","UserId":23,"updatedAt":"2026-10-24T06:36:12.450Z","createdAt":"2026-10-24T06:36:12.450Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Naomi Morissette","mobileNum":4029631674,"zipCode":"61483","streetAddress":"75382 Wolff Extensions","city":"West Earnestfield","state":"Arkansas","country":"Heard Island and McDonald Islands","UserId":28,"updatedAt":"2026-10-24T06:36:10.021Z","createdAt":"2026-10-24T06:36:10.021Z"}}

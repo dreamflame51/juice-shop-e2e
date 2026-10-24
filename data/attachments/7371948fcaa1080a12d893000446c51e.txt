@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Lewis Rosenbaum","mobileNum":8607150821,"zipCode":"60382","streetAddress":"26696 8th Avenue","city":"Lillianaview","state":"Illinois","country":"Sweden","UserId":25,"updatedAt":"2026-10-24T06:36:21.131Z","createdAt":"2026-10-24T06:36:21.131Z"}}

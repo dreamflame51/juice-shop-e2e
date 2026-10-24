@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Maggie Hessel","mobileNum":4108248561,"zipCode":"66546","streetAddress":"3657 Kuhlman Way","city":"Corwinborough","state":"Connecticut","country":"Holy See (Vatican City State)","UserId":24,"updatedAt":"2026-10-24T06:36:21.124Z","createdAt":"2026-10-24T06:36:21.124Z"}}
