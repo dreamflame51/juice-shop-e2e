@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Matthew Ruecker","mobileNum":8541201923,"zipCode":"35160","streetAddress":"189 Torp Lights","city":"West Jeremyside","state":"Illinois","country":"Bahamas","UserId":23,"updatedAt":"2026-10-25T07:02:56.616Z","createdAt":"2026-10-25T07:02:56.616Z"}}

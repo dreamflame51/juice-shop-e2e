@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Roy Herzog","mobileNum":2432892706,"zipCode":"61715","streetAddress":"789 13th Street","city":"Gloverstad","state":"Nevada","country":"Uganda","UserId":24,"updatedAt":"2026-10-25T07:02:53.539Z","createdAt":"2026-10-25T07:02:53.539Z"}}

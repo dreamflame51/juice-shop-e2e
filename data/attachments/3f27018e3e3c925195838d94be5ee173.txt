@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Darlene White","mobileNum":350356667,"zipCode":"89032","streetAddress":"12576 Cedar Road","city":"East Imani","state":"Ohio","country":"Turkmenistan","UserId":28,"updatedAt":"2026-10-25T07:03:00.178Z","createdAt":"2026-10-25T07:03:00.178Z"}}

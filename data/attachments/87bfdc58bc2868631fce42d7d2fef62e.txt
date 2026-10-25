@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Van Koch","cardNum":4944905546231111,"expMonth":5,"expYear":2088,"UserId":28,"updatedAt":"2026-10-25T07:03:00.188Z","createdAt":"2026-10-25T07:03:00.188Z"}}

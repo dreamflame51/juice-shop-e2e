@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ms. Natasha Wisozk-Cole","mobileNum":5013382861,"zipCode":"84114","streetAddress":"128 Cherry Street","city":"Fort Katharina","state":"Nebraska","country":"Kenya","UserId":25,"updatedAt":"2026-10-25T07:02:53.546Z","createdAt":"2026-10-25T07:02:53.546Z"}}
