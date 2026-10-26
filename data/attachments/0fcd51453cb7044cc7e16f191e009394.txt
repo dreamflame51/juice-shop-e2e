@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Eric Haley IV","mobileNum":9373114322,"zipCode":"85790","streetAddress":"3820 Mulberry Street","city":"North Emory","state":"Kansas","country":"Nauru","UserId":22,"updatedAt":"2026-10-26T07:09:47.206Z","createdAt":"2026-10-26T07:09:47.206Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Mr. Arturo Mitchell","cardNum":4828473557151111,"expMonth":3,"expYear":2081,"UserId":28,"updatedAt":"2026-10-26T07:09:35.717Z","createdAt":"2026-10-26T07:09:35.717Z"}}

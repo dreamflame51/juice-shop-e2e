@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mr. Richard Mosciski MD","mobileNum":202312470,"zipCode":"14502","streetAddress":"3157 S Chestnut Street","city":"Port Maggie","state":"Wisconsin","country":"Japan","UserId":28,"updatedAt":"2026-10-26T07:09:35.708Z","createdAt":"2026-10-26T07:09:35.708Z"}}

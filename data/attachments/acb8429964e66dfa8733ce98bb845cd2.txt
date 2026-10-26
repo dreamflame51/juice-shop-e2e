@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dorothy Rolfson I","mobileNum":9009750193,"zipCode":"08391","streetAddress":"6696 Fritsch Mall","city":"Bernierport","state":"Rhode Island","country":"Cuba","UserId":25,"updatedAt":"2026-10-26T07:09:34.655Z","createdAt":"2026-10-26T07:09:34.655Z"}}

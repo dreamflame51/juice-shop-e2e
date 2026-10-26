@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sidney Bradtke","mobileNum":8684361837,"zipCode":"60143","streetAddress":"20702 Kuvalis Cliff","city":"Fort Chris","state":"Kentucky","country":"Djibouti","UserId":24,"updatedAt":"2026-10-26T07:09:34.644Z","createdAt":"2026-10-26T07:09:34.644Z"}}
