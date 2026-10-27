@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Blake Quitzon","cardNum":4446119416471111,"expMonth":3,"expYear":2091,"UserId":25,"updatedAt":"2026-10-27T06:55:53.433Z","createdAt":"2026-10-27T06:55:53.433Z"}}

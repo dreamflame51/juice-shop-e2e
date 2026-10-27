@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Levi Lakin","mobileNum":1961790181,"zipCode":"14477","streetAddress":"68698 Washington Street","city":"East Ethan","state":"New Jersey","country":"Singapore","UserId":23,"updatedAt":"2026-10-27T06:55:52.703Z","createdAt":"2026-10-27T06:55:52.703Z"}}

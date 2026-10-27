@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Christie Ritchie","mobileNum":9739548447,"zipCode":"57035","streetAddress":"648 Cummings River","city":"Lake Retha","state":"Tennessee","country":"Democratic People's Republic of Korea","UserId":24,"updatedAt":"2026-10-27T06:55:53.415Z","createdAt":"2026-10-27T06:55:53.415Z"}}
