@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"dora.schuppe-swaniawski51.ae8dkg9q@e2e.test","updatedAt":"2026-10-28T07:37:23.913Z","createdAt":"2026-10-28T07:37:23.913Z","deletedAt":null}}

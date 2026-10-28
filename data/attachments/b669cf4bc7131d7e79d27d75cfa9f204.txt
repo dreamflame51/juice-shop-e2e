@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"viola_bailey.o6rb5zvj@e2e.test","updatedAt":"2026-10-28T07:37:24.128Z","createdAt":"2026-10-28T07:37:24.128Z","deletedAt":null}}

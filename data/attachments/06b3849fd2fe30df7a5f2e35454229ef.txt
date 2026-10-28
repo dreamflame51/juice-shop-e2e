@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rochelle Dickinson","mobileNum":5600485963,"zipCode":"53717","streetAddress":"9291 Windler Crest","city":"Rochester","state":"Michigan","country":"Slovenia","UserId":23,"updatedAt":"2026-10-28T07:37:41.686Z","createdAt":"2026-10-28T07:37:41.686Z"}}

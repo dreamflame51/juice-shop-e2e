@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Pedro Muller V","mobileNum":9521627961,"zipCode":"08728","streetAddress":"10118 Samson Trace","city":"Lawton","state":"Mississippi","country":"Poland","UserId":25,"updatedAt":"2026-10-28T07:37:24.239Z","createdAt":"2026-10-28T07:37:24.239Z"}}

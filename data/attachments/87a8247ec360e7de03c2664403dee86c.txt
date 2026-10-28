@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Troy Kirlin","mobileNum":1272828036,"zipCode":"91507","streetAddress":"9774 Koch Well","city":"Walterfield","state":"Missouri","country":"Burundi","UserId":24,"updatedAt":"2026-10-28T07:37:24.297Z","createdAt":"2026-10-28T07:37:24.297Z"}}
