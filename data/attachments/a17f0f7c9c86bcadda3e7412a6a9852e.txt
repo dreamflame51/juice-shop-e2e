@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"madie80.v4uv89lu@e2e.test","updatedAt":"2026-10-29T07:44:11.355Z","createdAt":"2026-10-29T07:44:11.355Z","deletedAt":null}}

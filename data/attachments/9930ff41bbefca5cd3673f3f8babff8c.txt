@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Nelson Nitzsche PhD","mobileNum":8672863647,"zipCode":"34890","streetAddress":"822 Schroeder Run","city":"Atlanta","state":"Vermont","country":"Liberia","UserId":24,"updatedAt":"2026-10-29T07:44:15.801Z","createdAt":"2026-10-29T07:44:15.801Z"}}

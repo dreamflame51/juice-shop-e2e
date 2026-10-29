@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Guy Cronin","cardNum":4523269935051111,"expMonth":5,"expYear":2099,"UserId":25,"updatedAt":"2026-10-29T07:44:15.822Z","createdAt":"2026-10-29T07:44:15.822Z"}}

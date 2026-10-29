@@ -1,0 +1,9 @@
+{
+  "email": "andy_runolfsson35.j69rp1zz@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Kobe"
+}

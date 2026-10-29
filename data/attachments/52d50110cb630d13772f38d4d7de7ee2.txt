@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laurence Goyette III","mobileNum":8859898521,"zipCode":"82430","streetAddress":"3295 Lynch Points","city":"Adellefurt","state":"Arizona","country":"Ireland","UserId":28,"updatedAt":"2026-10-29T07:44:10.174Z","createdAt":"2026-10-29T07:44:10.174Z"}}
