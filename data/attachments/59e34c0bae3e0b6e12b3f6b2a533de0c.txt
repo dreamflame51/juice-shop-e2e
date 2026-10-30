@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Lila Kuvalis","mobileNum":6070891337,"zipCode":"30027","streetAddress":"2177 State Line Road","city":"Welchcester","state":"Montana","country":"Mongolia","UserId":23,"updatedAt":"2026-10-30T07:49:48.768Z","createdAt":"2026-10-30T07:49:48.768Z"}}

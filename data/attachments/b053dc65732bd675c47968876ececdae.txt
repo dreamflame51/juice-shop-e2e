@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Bernard Corkery","mobileNum":53483060,"zipCode":"13070","streetAddress":"29678 Weber River","city":"East Hulda","state":"Wyoming","country":"Central African Republic","UserId":25,"updatedAt":"2026-10-30T07:49:44.627Z","createdAt":"2026-10-30T07:49:44.627Z"}}

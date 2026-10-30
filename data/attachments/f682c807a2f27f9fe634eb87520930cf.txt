@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Erika Windler","mobileNum":6460480106,"zipCode":"09379","streetAddress":"1053 Mosciski Ports","city":"Sporerworth","state":"Mississippi","country":"Hungary","UserId":28,"updatedAt":"2026-10-30T07:49:41.870Z","createdAt":"2026-10-30T07:49:41.870Z"}}

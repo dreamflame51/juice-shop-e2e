@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Teri Schaefer","mobileNum":2207620946,"zipCode":"15734","streetAddress":"85704 Hickle Ridge","city":"Wuckertborough","state":"Virginia","country":"Slovakia","UserId":24,"updatedAt":"2026-10-30T07:49:44.618Z","createdAt":"2026-10-30T07:49:44.618Z"}}
