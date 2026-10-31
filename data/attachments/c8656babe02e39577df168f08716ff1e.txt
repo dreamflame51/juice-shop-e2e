@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Eula Beatty","mobileNum":1879699443,"zipCode":"50888","streetAddress":"3979 Kennith Groves","city":"Lake Camerontown","state":"Arizona","country":"Mayotte","UserId":25,"updatedAt":"2026-10-31T07:38:32.537Z","createdAt":"2026-10-31T07:38:32.537Z"}}

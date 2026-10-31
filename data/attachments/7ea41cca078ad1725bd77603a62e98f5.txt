@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Conrad Hayes","mobileNum":9131028275,"zipCode":"25835","streetAddress":"84048 Purdy Radial","city":"Fort Zackery","state":"Montana","country":"Paraguay","UserId":24,"updatedAt":"2026-10-31T07:38:32.514Z","createdAt":"2026-10-31T07:38:32.514Z"}}

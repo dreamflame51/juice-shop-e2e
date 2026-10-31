@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Roosevelt Muller","mobileNum":3947503235,"zipCode":"65316","streetAddress":"7828 Karl Square","city":"West Lexieton","state":"Maine","country":"Eswatini","UserId":28,"updatedAt":"2026-10-31T07:38:15.625Z","createdAt":"2026-10-31T07:38:15.625Z"}}
