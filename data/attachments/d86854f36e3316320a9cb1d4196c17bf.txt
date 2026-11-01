@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Ed Huel","mobileNum":108704527,"zipCode":"33698","streetAddress":"921 Heron Close","city":"Josiahshire","state":"Oregon","country":"Heard Island and McDonald Islands","UserId":28,"updatedAt":"2026-11-01T08:17:37.774Z","createdAt":"2026-11-01T08:17:37.774Z"}}

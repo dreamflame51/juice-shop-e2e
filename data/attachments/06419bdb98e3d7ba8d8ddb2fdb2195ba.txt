@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Malcolm Watsica","cardNum":4111546239801111,"expMonth":8,"expYear":2081,"UserId":28,"updatedAt":"2026-11-01T08:17:37.780Z","createdAt":"2026-11-01T08:17:37.780Z"}}

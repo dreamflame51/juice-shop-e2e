@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Ruby Ward","mobileNum":8258568189,"zipCode":"17320","streetAddress":"528 Liam Passage","city":"East Heather","state":"West Virginia","country":"Saudi Arabia","UserId":25,"updatedAt":"2026-11-01T08:17:12.778Z","createdAt":"2026-11-01T08:17:12.778Z"}}

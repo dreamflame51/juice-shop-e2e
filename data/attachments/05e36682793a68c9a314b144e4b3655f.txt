@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Muriel Kassulke","mobileNum":3718333582,"zipCode":"04442","streetAddress":"42364 Royce Lodge","city":"Tonyland","state":"Wisconsin","country":"Saint Vincent and the Grenadines","UserId":24,"updatedAt":"2026-11-01T08:17:12.765Z","createdAt":"2026-11-01T08:17:12.765Z"}}
