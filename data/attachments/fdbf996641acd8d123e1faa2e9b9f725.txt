@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Estelle Little","cardNum":4390792955591111,"expMonth":7,"expYear":2088,"UserId":25,"updatedAt":"2026-11-02T08:30:51.822Z","createdAt":"2026-11-02T08:30:51.822Z"}}

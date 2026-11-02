@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Victor Mertz","mobileNum":8327367609,"zipCode":"25422","streetAddress":"631 Church Hill","city":"Phyllisstad","state":"Nevada","country":"New Zealand","UserId":28,"updatedAt":"2026-11-02T08:30:25.734Z","createdAt":"2026-11-02T08:30:25.734Z"}}

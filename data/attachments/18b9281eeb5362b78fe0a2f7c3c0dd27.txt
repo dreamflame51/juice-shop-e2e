@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Blake Deckow","mobileNum":543080449,"zipCode":"94228","streetAddress":"45513 Austen Ports","city":"North Doris","state":"Pennsylvania","country":"France","UserId":25,"updatedAt":"2026-11-02T08:30:51.811Z","createdAt":"2026-11-02T08:30:51.811Z"}}

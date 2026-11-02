@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Joshua Mraz","cardNum":4009742215171111,"expMonth":5,"expYear":2082,"UserId":24,"updatedAt":"2026-11-02T08:30:51.802Z","createdAt":"2026-11-02T08:30:51.802Z"}}

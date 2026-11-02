@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ross Heaney","mobileNum":2904612084,"zipCode":"18771","streetAddress":"634 Ortiz Curve","city":"Fort Romaineport","state":"Kansas","country":"Romania","UserId":22,"updatedAt":"2026-11-02T08:30:42.550Z","createdAt":"2026-11-02T08:30:42.550Z"}}

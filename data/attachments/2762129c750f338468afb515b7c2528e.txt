@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ruby Blick","mobileNum":6699875492,"zipCode":"04673","streetAddress":"1463 Rupert Brook","city":"O'Konstad","state":"Texas","country":"Bermuda","UserId":24,"updatedAt":"2026-11-02T08:30:51.790Z","createdAt":"2026-11-02T08:30:51.790Z"}}
