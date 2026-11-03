@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jamie Schiller Jr.","mobileNum":4075137758,"zipCode":"97621","streetAddress":"9574 O'Connell Ridges","city":"Jacintheton","state":"New Jersey","country":"Libyan Arab Jamahiriya","UserId":25,"updatedAt":"2026-11-03T08:44:18.036Z","createdAt":"2026-11-03T08:44:18.036Z"}}

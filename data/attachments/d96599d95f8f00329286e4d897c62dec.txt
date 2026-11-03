@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Tricia D'Amore","mobileNum":6313224166,"zipCode":"58963","streetAddress":"8697 Riverside","city":"Lake Carroll","state":"Washington","country":"Latvia","UserId":24,"updatedAt":"2026-11-03T08:44:18.086Z","createdAt":"2026-11-03T08:44:18.086Z"}}

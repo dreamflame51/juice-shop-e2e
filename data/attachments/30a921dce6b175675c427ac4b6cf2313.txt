@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Phil Zemlak","mobileNum":6007039124,"zipCode":"16318","streetAddress":"87328 Barrows Loop","city":"Donnellside","state":"Arizona","country":"Japan","UserId":23,"updatedAt":"2026-11-03T08:43:58.706Z","createdAt":"2026-11-03T08:43:58.706Z"}}

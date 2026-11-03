@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Harvey Bashirian","cardNum":4036612858421111,"expMonth":9,"expYear":2084,"UserId":23,"updatedAt":"2026-11-03T08:43:58.717Z","createdAt":"2026-11-03T08:43:58.717Z"}}

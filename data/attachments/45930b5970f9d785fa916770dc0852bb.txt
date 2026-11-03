@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"brody.mclaughlin33.kv74fyor@e2e.test","updatedAt":"2026-11-03T08:44:17.725Z","createdAt":"2026-11-03T08:44:17.725Z","deletedAt":null}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Shawn Windler","mobileNum":4922636796,"zipCode":"70417","streetAddress":"9295 Grady Isle","city":"Lake Nicolasbury","state":"Louisiana","country":"Montserrat","UserId":28,"updatedAt":"2026-11-03T08:44:14.162Z","createdAt":"2026-11-03T08:44:14.162Z"}}

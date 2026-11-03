@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":27,"email":"malika79.szb8ftii@e2e.test","updatedAt":"2026-11-03T08:44:14.054Z","createdAt":"2026-11-03T08:44:14.054Z","deletedAt":null}}
