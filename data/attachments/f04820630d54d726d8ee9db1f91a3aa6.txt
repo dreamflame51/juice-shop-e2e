@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jared Boyle","mobileNum":6176490642,"zipCode":"07962","streetAddress":"5215 Garnett Street","city":"Collinsstad","state":"West Virginia","country":"Zimbabwe","UserId":23,"updatedAt":"2026-11-04T08:13:34.452Z","createdAt":"2026-11-04T08:13:34.452Z"}}

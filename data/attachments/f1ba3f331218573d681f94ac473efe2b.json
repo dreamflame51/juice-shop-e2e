@@ -1,0 +1,9 @@
+{
+  "email": "asa.pollich-swaniawski81.ia0x4gnw@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Louie"
+}

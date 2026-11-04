@@ -1,0 +1,9 @@
+{
+  "email": "tomasa57.a47pnbmh@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Lola"
+}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Margarita Conn","mobileNum":6582607765,"zipCode":"13343","streetAddress":"83783 Reanna Corners","city":"Bogisichberg","state":"North Carolina","country":"Samoa","UserId":24,"updatedAt":"2026-11-04T08:13:21.307Z","createdAt":"2026-11-04T08:13:21.307Z"}}

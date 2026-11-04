@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":24,"email":"ophelia30.g1hatgc4@e2e.test","updatedAt":"2026-11-04T08:13:41.048Z","createdAt":"2026-11-04T08:13:41.048Z","deletedAt":null}}

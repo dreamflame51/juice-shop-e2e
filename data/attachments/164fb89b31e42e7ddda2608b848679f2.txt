@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ebony Maggio PhD","mobileNum":654971059,"zipCode":"29828","streetAddress":"17991 Russell Street","city":"Kossfort","state":"Montana","country":"El Salvador","UserId":28,"updatedAt":"2026-11-04T08:13:47.607Z","createdAt":"2026-11-04T08:13:47.607Z"}}
