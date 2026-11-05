@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Ruth Hauck-Larkin","cardNum":4657950601321111,"expMonth":4,"expYear":2099,"UserId":24,"updatedAt":"2026-11-05T08:39:29.322Z","createdAt":"2026-11-05T08:39:29.322Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Deanna Huels","mobileNum":4398407868,"zipCode":"22533","streetAddress":"6097 Paxton Lake","city":"Douglasview","state":"Idaho","country":"Aruba","UserId":28,"updatedAt":"2026-11-05T08:39:41.375Z","createdAt":"2026-11-05T08:39:41.375Z"}}

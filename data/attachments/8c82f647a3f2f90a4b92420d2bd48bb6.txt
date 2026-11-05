@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Henrietta Grimes","mobileNum":1091444181,"zipCode":"43194","streetAddress":"601 Will Lake","city":"New Granville","state":"West Virginia","country":"Norfolk Island","UserId":24,"updatedAt":"2026-11-05T08:39:29.317Z","createdAt":"2026-11-05T08:39:29.317Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laverne Hills","mobileNum":6842307394,"zipCode":"34528","streetAddress":"425 Old Military Road","city":"Covina","state":"Michigan","country":"Libyan Arab Jamahiriya","UserId":25,"updatedAt":"2026-11-05T08:39:29.287Z","createdAt":"2026-11-05T08:39:29.287Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":25,"email":"eloise.watsica33.ouoret1y@e2e.test","updatedAt":"2026-11-05T08:39:41.106Z","createdAt":"2026-11-05T08:39:41.106Z","deletedAt":null}}
