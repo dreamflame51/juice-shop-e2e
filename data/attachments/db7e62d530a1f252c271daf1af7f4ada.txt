@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Brandi Lynch","mobileNum":3675089418,"zipCode":"21010","streetAddress":"786 Oak Avenue","city":"Eliseburgh","state":"New Jersey","country":"French Guiana","UserId":22,"updatedAt":"2026-11-06T08:39:26.151Z","createdAt":"2026-11-06T08:39:26.151Z"}}

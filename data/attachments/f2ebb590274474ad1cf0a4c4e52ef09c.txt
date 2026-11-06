@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Alvin Lakin","mobileNum":8340675200,"zipCode":"14563","streetAddress":"47490 N High Street","city":"Furmanberg","state":"Ohio","country":"Mali","UserId":27,"updatedAt":"2026-11-06T08:48:52.328Z","createdAt":"2026-11-06T08:48:52.328Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ms. Hope Vandervort","mobileNum":4885657704,"zipCode":"45200","streetAddress":"7019 Darian Fort","city":"Detroit","state":"New Hampshire","country":"Serbia","UserId":25,"updatedAt":"2026-11-06T08:39:34.906Z","createdAt":"2026-11-06T08:39:34.906Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ruth Howe II","mobileNum":3359928315,"zipCode":"03348","streetAddress":"999 Lindgren Brook","city":"Shyannefurt","state":"Iowa","country":"Switzerland","UserId":24,"updatedAt":"2026-11-06T08:39:34.896Z","createdAt":"2026-11-06T08:39:34.896Z"}}
