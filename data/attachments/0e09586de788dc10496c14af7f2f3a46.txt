@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Craig Botsford","mobileNum":7822227308,"zipCode":"30656","streetAddress":"86573 Mckenna Locks","city":"Alameda","state":"Wyoming","country":"French Polynesia","UserId":23,"updatedAt":"2026-11-07T07:54:18.249Z","createdAt":"2026-11-07T07:54:18.249Z"}}

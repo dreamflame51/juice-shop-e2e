@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Lucia Baumbach I","mobileNum":2128793396,"zipCode":"44021","streetAddress":"7859 Marcelo Parks","city":"Idellaberg","state":"Louisiana","country":"United States Minor Outlying Islands","UserId":25,"updatedAt":"2026-11-07T07:54:18.637Z","createdAt":"2026-11-07T07:54:18.637Z"}}

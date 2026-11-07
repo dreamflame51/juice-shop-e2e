@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"emory_spencer67.zzhqlijr@e2e.test","updatedAt":"2026-11-07T07:54:17.074Z","createdAt":"2026-11-07T07:54:17.074Z","deletedAt":null}}

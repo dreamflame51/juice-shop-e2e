@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jimmie Grant","mobileNum":8076373632,"zipCode":"05957","streetAddress":"69621 Johns Drives","city":"New Haven","state":"Louisiana","country":"Liberia","UserId":27,"updatedAt":"2026-11-07T07:54:31.051Z","createdAt":"2026-11-07T07:54:31.051Z"}}

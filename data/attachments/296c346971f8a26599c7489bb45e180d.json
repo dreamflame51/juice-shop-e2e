@@ -1,0 +1,9 @@
+{
+  "email": "tate.kiehn83.ap9g9wr8@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Bailey"
+}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Cathy Dicki","cardNum":4352657209721111,"expMonth":5,"expYear":2095,"UserId":27,"updatedAt":"2026-11-07T07:54:31.070Z","createdAt":"2026-11-07T07:54:31.070Z"}}

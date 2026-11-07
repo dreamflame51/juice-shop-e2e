@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Danny Daniel","mobileNum":5263259626,"zipCode":"79121","streetAddress":"92252 Quarry Road","city":"Maevetown","state":"Tennessee","country":"Liechtenstein","UserId":24,"updatedAt":"2026-11-07T07:54:18.632Z","createdAt":"2026-11-07T07:54:18.632Z"}}

@@ -1,1 +1,1 @@
-{"id":"8b9408ef4120c494b7465dd5488f95c5","fullName":"ui/auth/login.spec.ts:11:3","name":"@smoke A registered user can log in","status":"passed","testResultsByEnv":{"default":"c782b905de7ac2fcf7a0ef1444f25121"}}
+{"id":"8b9408ef4120c494b7465dd5488f95c5","fullName":"ui/auth/login.spec.ts:11:3","name":"@smoke A registered user can log in","status":"passed","testResultsByEnv":{"default":"b6ea2dde89d3951696c46f634b212d3a"}}
