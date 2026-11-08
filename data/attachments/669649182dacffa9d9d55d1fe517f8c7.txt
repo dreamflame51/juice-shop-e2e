@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Floyd Roberts IV","mobileNum":6416195828,"zipCode":"69428","streetAddress":"637 Brennon Points","city":"Marcworth","state":"Arkansas","country":"Hong Kong","UserId":24,"updatedAt":"2026-11-08T08:11:09.679Z","createdAt":"2026-11-08T08:11:09.679Z"}}

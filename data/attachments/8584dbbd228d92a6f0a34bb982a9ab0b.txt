@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Fred Spencer","mobileNum":4100475110,"zipCode":"55981","streetAddress":"74787 Hoppe Row","city":"Kiehnbury","state":"Nebraska","country":"Malawi","UserId":23,"updatedAt":"2026-11-08T08:10:59.395Z","createdAt":"2026-11-08T08:10:59.395Z"}}

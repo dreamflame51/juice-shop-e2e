@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Blake Wyman","mobileNum":3753163535,"zipCode":"93501","streetAddress":"641 Madison Avenue","city":"Port Verniceshire","state":"Arizona","country":"Vietnam","UserId":25,"updatedAt":"2026-11-08T08:11:09.689Z","createdAt":"2026-11-08T08:11:09.689Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Mrs. Cecilia Marvin","mobileNum":8053018356,"zipCode":"09406","streetAddress":"9587 The Oval","city":"East Tatumside","state":"Wisconsin","country":"Namibia","UserId":27,"updatedAt":"2026-11-08T08:10:50.400Z","createdAt":"2026-11-08T08:10:50.400Z"}}

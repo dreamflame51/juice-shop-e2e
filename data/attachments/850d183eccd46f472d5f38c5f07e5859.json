@@ -1,0 +1,9 @@
+{
+  "email": "laila_turcotte-west40.nhzlat4s@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Hank"
+}
