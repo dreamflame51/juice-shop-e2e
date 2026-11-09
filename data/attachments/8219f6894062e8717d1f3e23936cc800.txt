@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Joy Hermiston","mobileNum":5863843835,"zipCode":"46180","streetAddress":"88971 Stiedemann Hollow","city":"Rogers","state":"New Jersey","country":"Malta","UserId":27,"updatedAt":"2026-11-09T08:47:48.606Z","createdAt":"2026-11-09T08:47:48.606Z"}}

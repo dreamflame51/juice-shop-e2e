@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Loretta Reichel","mobileNum":6045755018,"zipCode":"81300","streetAddress":"2708 Castle Street","city":"Clydetown","state":"South Carolina","country":"Greece","UserId":23,"updatedAt":"2026-11-09T08:47:59.172Z","createdAt":"2026-11-09T08:47:59.172Z"}}

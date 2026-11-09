@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sadie Champlin-Kuphal","mobileNum":4394191831,"zipCode":"70701","streetAddress":"432 S Walnut Street","city":"Isabelville","state":"Utah","country":"Saint Martin","UserId":25,"updatedAt":"2026-11-09T08:47:40.995Z","createdAt":"2026-11-09T08:47:40.995Z"}}

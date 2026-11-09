@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Emilio Romaguera","mobileNum":8981455737,"zipCode":"51983","streetAddress":"85259 Grant Spring","city":"West Arichester","state":"Louisiana","country":"Montserrat","UserId":24,"updatedAt":"2026-11-09T08:47:41.039Z","createdAt":"2026-11-09T08:47:41.039Z"}}
