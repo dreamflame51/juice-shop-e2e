@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Patricia Gutmann","mobileNum":7085128518,"zipCode":"13766","streetAddress":"7631 Susanna Cape","city":"Reganfield","state":"Maine","country":"Cocos (Keeling) Islands","UserId":24,"updatedAt":"2026-11-10T08:56:03.754Z","createdAt":"2026-11-10T08:56:03.754Z"}}

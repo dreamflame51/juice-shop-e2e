@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Megan Nikolaus","cardNum":4021801120531111,"expMonth":12,"expYear":2090,"UserId":28,"updatedAt":"2026-11-10T08:54:36.946Z","createdAt":"2026-11-10T08:54:36.946Z"}}

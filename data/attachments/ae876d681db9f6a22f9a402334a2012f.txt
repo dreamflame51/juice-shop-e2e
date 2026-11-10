@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Loren Leffler","mobileNum":1135694161,"zipCode":"42503","streetAddress":"351 Church Street","city":"North Port","state":"Hawaii","country":"Virgin Islands, British","UserId":25,"updatedAt":"2026-11-10T08:56:03.710Z","createdAt":"2026-11-10T08:56:03.710Z"}}

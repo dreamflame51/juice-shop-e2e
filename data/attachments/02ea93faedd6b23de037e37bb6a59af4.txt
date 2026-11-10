@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marcos Runolfsdottir","mobileNum":6846303182,"zipCode":"24243","streetAddress":"461 N Locust Street","city":"Veummouth","state":"Virginia","country":"Virgin Islands, British","UserId":23,"updatedAt":"2026-11-10T08:55:12.430Z","createdAt":"2026-11-10T08:55:12.430Z"}}
