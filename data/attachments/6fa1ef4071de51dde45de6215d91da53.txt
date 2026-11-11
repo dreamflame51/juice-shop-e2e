@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Joshua West","mobileNum":1086762199,"zipCode":"62359","streetAddress":"72272 Simonis Islands","city":"Whittier","state":"Louisiana","country":"Colombia","UserId":25,"updatedAt":"2026-11-11T08:31:40.175Z","createdAt":"2026-11-11T08:31:40.175Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kerry O'Kon","mobileNum":2625840298,"zipCode":"97956","streetAddress":"481 Hazel Close","city":"Darionville","state":"North Carolina","country":"Peru","UserId":28,"updatedAt":"2026-11-11T08:31:46.689Z","createdAt":"2026-11-11T08:31:46.689Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Loren Kling PhD","mobileNum":1607783830,"zipCode":"11102","streetAddress":"2189 Alisa Track","city":"Lavadaville","state":"Rhode Island","country":"Turkey","UserId":22,"updatedAt":"2026-11-11T08:31:41.071Z","createdAt":"2026-11-11T08:31:41.071Z"}}

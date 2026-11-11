@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Martha Jaskolski","mobileNum":410220581,"zipCode":"01087","streetAddress":"280 Rashawn Vista","city":"Rigobertobury","state":"Wisconsin","country":"Ireland","UserId":24,"updatedAt":"2026-11-11T08:31:40.213Z","createdAt":"2026-11-11T08:31:40.213Z"}}
