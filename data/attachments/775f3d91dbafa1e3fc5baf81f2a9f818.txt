@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Mrs. Blanca Simonis","mobileNum":4772754495,"zipCode":"26501","streetAddress":"348 Titus Lodge","city":"Kertzmannmouth","state":"Nevada","country":"French Polynesia","UserId":25,"updatedAt":"2026-11-12T08:55:24.512Z","createdAt":"2026-11-12T08:55:24.512Z"}}

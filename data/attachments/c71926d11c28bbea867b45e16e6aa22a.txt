@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Blanca Turner-Reilly","cardNum":4031213806041111,"expMonth":9,"expYear":2093,"UserId":23,"updatedAt":"2026-11-12T08:55:44.458Z","createdAt":"2026-11-12T08:55:44.458Z"}}

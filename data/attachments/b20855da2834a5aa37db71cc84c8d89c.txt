@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Mandy Buckridge","mobileNum":9219907434,"zipCode":"51966","streetAddress":"636 Bechtelar Bypass","city":"Millerboro","state":"Wisconsin","country":"Uganda","UserId":24,"updatedAt":"2026-11-12T08:55:24.497Z","createdAt":"2026-11-12T08:55:24.497Z"}}
