@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Gretchen Wintheiser","cardNum":4582043381521111,"expMonth":1,"expYear":2090,"UserId":28,"updatedAt":"2026-11-13T08:51:59.918Z","createdAt":"2026-11-13T08:51:59.918Z"}}

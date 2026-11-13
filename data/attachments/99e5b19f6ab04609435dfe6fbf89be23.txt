@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Peggy Kihn","mobileNum":1322808403,"zipCode":"81838","streetAddress":"35797 Albertha Falls","city":"Durham","state":"Vermont","country":"Angola","UserId":24,"updatedAt":"2026-11-13T08:51:38.712Z","createdAt":"2026-11-13T08:51:38.712Z"}}

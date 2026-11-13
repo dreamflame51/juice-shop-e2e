@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Elmer Anderson","mobileNum":2868174906,"zipCode":"37968","streetAddress":"4242 S Grand Avenue","city":"Sterling Heights","state":"Pennsylvania","country":"Bahrain","UserId":28,"updatedAt":"2026-11-13T08:51:59.905Z","createdAt":"2026-11-13T08:51:59.905Z"}}

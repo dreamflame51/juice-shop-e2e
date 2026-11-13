@@ -1,0 +1,9 @@
+{
+  "email": "filiberto.goyette-cummings.z873g6o6@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Lola"
+}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Laurence Osinski","mobileNum":3510223942,"zipCode":"08978","streetAddress":"3020 Highfield Avenue","city":"Westminster","state":"Florida","country":"Congo","UserId":25,"updatedAt":"2026-11-13T08:51:38.703Z","createdAt":"2026-11-13T08:51:38.703Z"}}

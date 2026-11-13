@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Randy Price","cardNum":4764169486151111,"expMonth":11,"expYear":2083,"UserId":24,"updatedAt":"2026-11-13T08:51:38.726Z","createdAt":"2026-11-13T08:51:38.726Z"}}
