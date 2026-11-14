@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Shari Schamberger IV","mobileNum":9352462510,"zipCode":"52411","streetAddress":"951 Alexie Creek","city":"East Elzaworth","state":"Oregon","country":"United Arab Emirates","UserId":24,"updatedAt":"2026-11-14T08:13:04.419Z","createdAt":"2026-11-14T08:13:04.419Z"}}

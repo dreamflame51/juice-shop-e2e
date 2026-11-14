@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ida Moore","mobileNum":8837661466,"zipCode":"73834","streetAddress":"2572 Eusebio Walk","city":"Cutler Bay","state":"Utah","country":"Sierra Leone","UserId":28,"updatedAt":"2026-11-14T08:13:23.997Z","createdAt":"2026-11-14T08:13:23.997Z"}}

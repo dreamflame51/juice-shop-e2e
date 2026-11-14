@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Olivia Buckridge","cardNum":4911610162181111,"expMonth":4,"expYear":2089,"UserId":22,"updatedAt":"2026-11-14T08:13:09.390Z","createdAt":"2026-11-14T08:13:09.390Z"}}

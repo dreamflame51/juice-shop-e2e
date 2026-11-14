@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Ms. Jeannette Bashirian II","cardNum":4550445304211111,"expMonth":11,"expYear":2097,"UserId":25,"updatedAt":"2026-11-14T08:13:04.444Z","createdAt":"2026-11-14T08:13:04.444Z"}}

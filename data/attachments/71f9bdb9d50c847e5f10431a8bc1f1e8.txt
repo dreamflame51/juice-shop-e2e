@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Ms. Carolyn Strosin","mobileNum":8596477380,"zipCode":"02462","streetAddress":"1473 Dana Coves","city":"Fort Rodolfoboro","state":"Wisconsin","country":"Mauritius","UserId":25,"updatedAt":"2026-11-14T08:13:04.428Z","createdAt":"2026-11-14T08:13:04.428Z"}}

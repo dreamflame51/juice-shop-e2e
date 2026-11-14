@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"rolando.mckenzie56.bi2q9itx@e2e.test","updatedAt":"2026-11-14T08:13:04.095Z","createdAt":"2026-11-14T08:13:04.095Z","deletedAt":null}}
