@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Felicia Cassin PhD","mobileNum":5763885788,"zipCode":"08597","streetAddress":"8772 Sheila Crest","city":"Mission Viejo","state":"Virginia","country":"Turkey","UserId":28,"updatedAt":"2026-11-15T08:32:06.431Z","createdAt":"2026-11-15T08:32:06.431Z"}}

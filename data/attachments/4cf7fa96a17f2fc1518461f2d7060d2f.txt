@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Bill Deckow","mobileNum":2653079498,"zipCode":"07486","streetAddress":"9982 New Street","city":"Hartmannfurt","state":"Arizona","country":"Norfolk Island","UserId":25,"updatedAt":"2026-11-15T08:32:11.112Z","createdAt":"2026-11-15T08:32:11.112Z"}}

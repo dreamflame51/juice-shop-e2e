@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Marshall Dach","mobileNum":9327485505,"zipCode":"68671","streetAddress":"13362 Osinski Vista","city":"Port Bud","state":"Montana","country":"Philippines","UserId":22,"updatedAt":"2026-11-15T08:32:09.214Z","createdAt":"2026-11-15T08:32:09.214Z"}}

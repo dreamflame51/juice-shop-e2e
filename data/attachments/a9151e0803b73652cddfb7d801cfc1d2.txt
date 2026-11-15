@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Jessie Kilback","mobileNum":3041198427,"zipCode":"03822","streetAddress":"3984 Olson Mountain","city":"Port Giovanny","state":"Georgia","country":"Kazakhstan","UserId":24,"updatedAt":"2026-11-15T08:32:11.106Z","createdAt":"2026-11-15T08:32:11.106Z"}}
