@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Candice Smith","mobileNum":1354268268,"zipCode":"98034","streetAddress":"588 Cale Mall","city":"Reynoldsfield","state":"Indiana","country":"Suriname","UserId":22,"updatedAt":"2026-11-16T08:42:38.834Z","createdAt":"2026-11-16T08:42:38.834Z"}}

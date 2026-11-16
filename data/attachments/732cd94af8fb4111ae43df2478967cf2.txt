@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Kathleen Mueller","mobileNum":314742614,"zipCode":"02773","streetAddress":"81202 Highland Avenue","city":"New Kylermouth","state":"South Carolina","country":"Rwanda","UserId":25,"updatedAt":"2026-11-16T08:42:52.532Z","createdAt":"2026-11-16T08:42:52.532Z"}}

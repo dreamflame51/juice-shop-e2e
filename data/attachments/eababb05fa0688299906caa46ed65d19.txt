@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Jeannette Hartmann PhD","cardNum":4699118803631111,"expMonth":9,"expYear":2090,"UserId":25,"updatedAt":"2026-11-16T08:42:52.541Z","createdAt":"2026-11-16T08:42:52.541Z"}}

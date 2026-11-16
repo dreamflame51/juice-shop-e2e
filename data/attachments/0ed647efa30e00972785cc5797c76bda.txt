@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Dwight Klocko","cardNum":4539069251211111,"expMonth":7,"expYear":2089,"UserId":28,"updatedAt":"2026-11-16T08:42:46.208Z","createdAt":"2026-11-16T08:42:46.208Z"}}

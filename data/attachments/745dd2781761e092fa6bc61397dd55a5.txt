@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tabitha Moen","mobileNum":7741539368,"zipCode":"93833","streetAddress":"419 Harvey Fords","city":"Smithhaven","state":"Alabama","country":"South Georgia and the South Sandwich Islands","UserId":28,"updatedAt":"2026-11-16T08:42:46.201Z","createdAt":"2026-11-16T08:42:46.201Z"}}

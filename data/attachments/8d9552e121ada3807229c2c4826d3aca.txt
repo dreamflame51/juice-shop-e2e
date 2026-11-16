@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Paulette Crist","mobileNum":1916767207,"zipCode":"36269","streetAddress":"41976 George Street","city":"New Camylle","state":"Oklahoma","country":"Suriname","UserId":24,"updatedAt":"2026-11-16T08:42:52.525Z","createdAt":"2026-11-16T08:42:52.525Z"}}
