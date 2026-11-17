@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Shari Jakubowski","cardNum":4814010989521111,"expMonth":11,"expYear":2093,"UserId":25,"updatedAt":"2026-11-17T09:49:44.798Z","createdAt":"2026-11-17T09:49:44.798Z"}}

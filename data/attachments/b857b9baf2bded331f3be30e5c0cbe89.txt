@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Danielle Herman","mobileNum":8823886482,"zipCode":"45951","streetAddress":"63193 Pfeffer Drive","city":"Yakima","state":"Colorado","country":"Zambia","UserId":24,"updatedAt":"2026-11-17T09:49:44.834Z","createdAt":"2026-11-17T09:49:44.834Z"}}

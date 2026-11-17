@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Manuel Auer","mobileNum":4757339317,"zipCode":"09533","streetAddress":"9372 Jaquan Course","city":"Carrollcester","state":"Montana","country":"Australia","UserId":28,"updatedAt":"2026-11-17T09:49:57.026Z","createdAt":"2026-11-17T09:49:57.026Z"}}

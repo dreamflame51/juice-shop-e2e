@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Benjamin Lesch","mobileNum":8658055856,"zipCode":"41183","streetAddress":"282 Weimann Loop","city":"Jeannestead","state":"North Carolina","country":"Cayman Islands","UserId":23,"updatedAt":"2026-11-17T09:49:30.171Z","createdAt":"2026-11-17T09:49:30.171Z"}}

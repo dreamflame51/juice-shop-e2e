@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Edwin Littel","cardNum":4714836141011111,"expMonth":2,"expYear":2097,"UserId":23,"updatedAt":"2026-11-17T09:49:30.191Z","createdAt":"2026-11-17T09:49:30.191Z"}}

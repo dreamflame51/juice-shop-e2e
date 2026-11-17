@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Austin Shields","mobileNum":8707293632,"zipCode":"60688","streetAddress":"20966 North Road","city":"Layton","state":"Illinois","country":"New Caledonia","UserId":25,"updatedAt":"2026-11-17T09:49:44.792Z","createdAt":"2026-11-17T09:49:44.792Z"}}
