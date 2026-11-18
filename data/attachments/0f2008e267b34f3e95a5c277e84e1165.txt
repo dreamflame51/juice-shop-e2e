@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Johanna Corkery DDS","cardNum":4458737244981111,"expMonth":8,"expYear":2081,"UserId":25,"updatedAt":"2026-11-18T09:21:57.688Z","createdAt":"2026-11-18T09:21:57.688Z"}}

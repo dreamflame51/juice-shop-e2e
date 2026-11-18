@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Tony Weimann","mobileNum":4219608054,"zipCode":"41185","streetAddress":"93824 Dickinson Views","city":"Woodland","state":"North Dakota","country":"Grenada","UserId":24,"updatedAt":"2026-11-18T09:21:57.664Z","createdAt":"2026-11-18T09:21:57.664Z"}}

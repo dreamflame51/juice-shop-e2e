@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Helen Christiansen","mobileNum":1740987291,"zipCode":"31700","streetAddress":"757 Manor Close","city":"Antoneland","state":"New Hampshire","country":"Svalbard & Jan Mayen Islands","UserId":28,"updatedAt":"2026-11-18T09:21:26.857Z","createdAt":"2026-11-18T09:21:26.857Z"}}

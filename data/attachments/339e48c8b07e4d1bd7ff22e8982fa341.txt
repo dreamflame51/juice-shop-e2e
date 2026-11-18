@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Rosemary Brakus","cardNum":4530913713981111,"expMonth":1,"expYear":2090,"UserId":24,"updatedAt":"2026-11-18T09:21:57.674Z","createdAt":"2026-11-18T09:21:57.674Z"}}

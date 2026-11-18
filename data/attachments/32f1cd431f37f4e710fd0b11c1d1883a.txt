@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Pablo Hilpert-Hamill","mobileNum":6039545354,"zipCode":"79680","streetAddress":"1904 Kris Spur","city":"Gregtown","state":"Nevada","country":"Fiji","UserId":23,"updatedAt":"2026-11-18T09:21:38.789Z","createdAt":"2026-11-18T09:21:38.789Z"}}

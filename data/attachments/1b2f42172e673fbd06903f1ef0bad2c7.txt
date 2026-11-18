@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Kayla Weissnat","cardNum":4193198118941111,"expMonth":4,"expYear":2099,"UserId":28,"updatedAt":"2026-11-18T09:21:26.864Z","createdAt":"2026-11-18T09:21:26.864Z"}}
