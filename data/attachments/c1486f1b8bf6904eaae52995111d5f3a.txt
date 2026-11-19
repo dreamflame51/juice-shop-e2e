@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kelvin Pacocha","mobileNum":1849327926,"zipCode":"17933","streetAddress":"107 Boyer Light","city":"Christinaville","state":"Connecticut","country":"Heard Island and McDonald Islands","UserId":28,"updatedAt":"2026-11-19T09:39:03.756Z","createdAt":"2026-11-19T09:39:03.756Z"}}

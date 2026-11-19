@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kelley Bednar DDS","mobileNum":1773235129,"zipCode":"54473","streetAddress":"770 Rosanna Greens","city":"Sunnyworth","state":"Oklahoma","country":"Tonga","UserId":23,"updatedAt":"2026-11-19T09:38:47.852Z","createdAt":"2026-11-19T09:38:47.852Z"}}

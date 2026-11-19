@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"rusty_schumm-rau.k3fapbq3@e2e.test","updatedAt":"2026-11-19T09:38:46.288Z","createdAt":"2026-11-19T09:38:46.288Z","deletedAt":null}}
