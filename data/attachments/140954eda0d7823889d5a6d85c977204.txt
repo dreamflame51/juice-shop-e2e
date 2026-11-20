@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Ivan Kassulke","mobileNum":6956892575,"zipCode":"71117","streetAddress":"81744 Madyson Throughway","city":"Southfield","state":"Vermont","country":"Georgia","UserId":28,"updatedAt":"2026-11-20T09:18:18.088Z","createdAt":"2026-11-20T09:18:18.088Z"}}

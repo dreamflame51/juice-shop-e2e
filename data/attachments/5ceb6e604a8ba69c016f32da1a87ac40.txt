@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Katie Rogahn","mobileNum":6945644528,"zipCode":"49795","streetAddress":"8383 Gleason Hollow","city":"Cranston","state":"New Hampshire","country":"Tanzania","UserId":22,"updatedAt":"2026-11-20T09:18:52.083Z","createdAt":"2026-11-20T09:18:52.083Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Kelley Koepp","mobileNum":9399886144,"zipCode":"08359","streetAddress":"643 Reichert Fall","city":"Prohaskafield","state":"Colorado","country":"Czechia","UserId":25,"updatedAt":"2026-11-20T09:18:54.031Z","createdAt":"2026-11-20T09:18:54.031Z"}}

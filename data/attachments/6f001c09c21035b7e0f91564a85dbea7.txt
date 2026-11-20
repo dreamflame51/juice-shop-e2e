@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Gabriel Haley","mobileNum":8509424313,"zipCode":"02331","streetAddress":"2316 South View","city":"Donnellyfort","state":"Maine","country":"Jersey","UserId":24,"updatedAt":"2026-11-20T09:18:54.026Z","createdAt":"2026-11-20T09:18:54.026Z"}}
