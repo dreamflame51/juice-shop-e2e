@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Lynda Nitzsche DDS","mobileNum":1271058934,"zipCode":"32162","streetAddress":"8606 Lebsack Walks","city":"Hahncester","state":"Rhode Island","country":"Vietnam","UserId":24,"updatedAt":"2026-11-21T08:55:23.575Z","createdAt":"2026-11-21T08:55:23.575Z"}}

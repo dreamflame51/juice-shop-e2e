@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"May Kulas Sr.","mobileNum":1525953757,"zipCode":"36881","streetAddress":"52718 Meagan Ford","city":"East Kelli","state":"Alaska","country":"Gambia","UserId":25,"updatedAt":"2026-11-21T08:55:23.342Z","createdAt":"2026-11-21T08:55:23.342Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Elena Langosh","mobileNum":8462507214,"zipCode":"47020","streetAddress":"4017 Treutel Views","city":"Shreveport","state":"Iowa","country":"Albania","UserId":22,"updatedAt":"2026-11-21T08:55:31.226Z","createdAt":"2026-11-21T08:55:31.226Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"casey_ullrich72.i8ftklmi@e2e.test","updatedAt":"2026-11-21T08:55:11.580Z","createdAt":"2026-11-21T08:55:11.580Z","deletedAt":null}}
