@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":29,"email":"josefina.jacobson63.rvz3ndcc@e2e.test","updatedAt":"2026-11-22T08:57:35.646Z","createdAt":"2026-11-22T08:57:35.646Z","deletedAt":null}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Benjamin Tromp-Kub III","mobileNum":841439984,"zipCode":"03540","streetAddress":"556 Mertz Shoals","city":"Joyceburgh","state":"Oklahoma","country":"Albania","UserId":25,"updatedAt":"2026-11-22T08:57:35.040Z","createdAt":"2026-11-22T08:57:35.040Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Wallace Stanton","mobileNum":4991379276,"zipCode":"80010","streetAddress":"41434 Buckridge Lane","city":"South Erik","state":"Kentucky","country":"Portugal","UserId":22,"updatedAt":"2026-11-22T08:57:42.899Z","createdAt":"2026-11-22T08:57:42.899Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"rodolfo.fay86.y5xn064y@e2e.test","updatedAt":"2026-11-22T08:57:33.325Z","createdAt":"2026-11-22T08:57:33.325Z","deletedAt":null}}

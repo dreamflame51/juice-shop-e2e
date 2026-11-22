@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rachel Terry-Ebert","mobileNum":4577753778,"zipCode":"90735","streetAddress":"1372 Eugene Pass","city":"Craigmouth","state":"California","country":"Georgia","UserId":24,"updatedAt":"2026-11-22T08:57:35.029Z","createdAt":"2026-11-22T08:57:35.029Z"}}
