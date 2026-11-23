@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Daryl Quitzon","mobileNum":3212854133,"zipCode":"90036","streetAddress":"59368 Alvis Bridge","city":"Mount Pleasant","state":"Texas","country":"Mozambique","UserId":27,"updatedAt":"2026-11-23T09:55:35.884Z","createdAt":"2026-11-23T09:55:35.884Z"}}

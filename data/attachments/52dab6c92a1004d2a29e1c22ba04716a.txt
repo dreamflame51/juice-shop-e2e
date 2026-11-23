@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Ramona Bauch","mobileNum":5861679051,"zipCode":"44377","streetAddress":"855 University Drive","city":"Pacochaburgh","state":"Alaska","country":"Tonga","UserId":23,"updatedAt":"2026-11-23T09:55:40.771Z","createdAt":"2026-11-23T09:55:40.771Z"}}

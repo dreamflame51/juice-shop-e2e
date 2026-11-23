@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Vivian Bins","mobileNum":5861619891,"zipCode":"97534","streetAddress":"6479 Lavon Meadows","city":"Feestmouth","state":"Texas","country":"Tanzania","UserId":24,"updatedAt":"2026-11-23T09:55:47.689Z","createdAt":"2026-11-23T09:55:47.689Z"}}

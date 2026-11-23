@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Malcolm Harber II","mobileNum":8313453458,"zipCode":"91852","streetAddress":"121 Alma Street","city":"Port Leifville","state":"Missouri","country":"Uzbekistan","UserId":25,"updatedAt":"2026-11-23T09:55:47.649Z","createdAt":"2026-11-23T09:55:47.649Z"}}

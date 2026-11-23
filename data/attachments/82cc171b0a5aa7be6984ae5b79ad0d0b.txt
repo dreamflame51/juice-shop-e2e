@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Dr. Mike Hayes","cardNum":4113943736451111,"expMonth":8,"expYear":2085,"UserId":24,"updatedAt":"2026-11-23T09:55:47.705Z","createdAt":"2026-11-23T09:55:47.705Z"}}
