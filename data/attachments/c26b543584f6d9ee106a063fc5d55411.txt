@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":23,"email":"ferne53.c4loo0ga@e2e.test","updatedAt":"2026-11-24T11:44:09.476Z","createdAt":"2026-11-24T11:44:09.476Z","deletedAt":null}}

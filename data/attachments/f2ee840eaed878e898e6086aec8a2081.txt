@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Iris Monahan-Streich","cardNum":4788031649001111,"expMonth":11,"expYear":2099,"UserId":24,"updatedAt":"2026-11-24T11:43:47.077Z","createdAt":"2026-11-24T11:43:47.077Z"}}

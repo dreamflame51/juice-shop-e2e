@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Rosemary Runolfsson","mobileNum":8140349448,"zipCode":"69680","streetAddress":"6314 Schumm Manor","city":"Ebertstead","state":"New Jersey","country":"Eritrea","UserId":28,"updatedAt":"2026-11-24T11:44:10.254Z","createdAt":"2026-11-24T11:44:10.254Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Shannon Gibson","mobileNum":3091435334,"zipCode":"93308","streetAddress":"1044 Lauren Crossing","city":"New Tyreekboro","state":"Nevada","country":"Faroe Islands","UserId":24,"updatedAt":"2026-11-24T11:43:47.066Z","createdAt":"2026-11-24T11:43:47.066Z"}}

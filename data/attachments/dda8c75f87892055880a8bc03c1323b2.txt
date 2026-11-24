@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Alejandro Hamill","mobileNum":1112783369,"zipCode":"21939","streetAddress":"702 Lavada Glen","city":"Port Darrellside","state":"Hawaii","country":"Hungary","UserId":23,"updatedAt":"2026-11-24T11:44:02.853Z","createdAt":"2026-11-24T11:44:02.853Z"}}

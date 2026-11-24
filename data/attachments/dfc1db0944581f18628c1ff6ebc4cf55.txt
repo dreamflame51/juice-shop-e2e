@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Dr. Guadalupe McGlynn","mobileNum":9622759693,"zipCode":"57372","streetAddress":"5251 9th Street","city":"Kingtown","state":"Montana","country":"Yemen","UserId":25,"updatedAt":"2026-11-24T11:43:47.072Z","createdAt":"2026-11-24T11:43:47.072Z"}}
