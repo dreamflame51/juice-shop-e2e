@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Sheryl Kshlerin","mobileNum":1142422482,"zipCode":"28616","streetAddress":"294 Birch Avenue","city":"New Karianneburgh","state":"Illinois","country":"Canada","UserId":28,"updatedAt":"2026-11-25T10:36:56.617Z","createdAt":"2026-11-25T10:36:56.617Z"}}

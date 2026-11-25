@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Holly Littel","mobileNum":1586441798,"zipCode":"44628","streetAddress":"81172 7th Street","city":"New Markus","state":"Maryland","country":"Hong Kong","UserId":25,"updatedAt":"2026-11-25T10:36:49.226Z","createdAt":"2026-11-25T10:36:49.226Z"}}

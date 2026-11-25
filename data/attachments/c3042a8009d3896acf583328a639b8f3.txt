@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Andre Jacobi","mobileNum":4864896468,"zipCode":"54068","streetAddress":"681 Oberbrunner Ford","city":"East Garnetshire","state":"New Hampshire","country":"Romania","UserId":23,"updatedAt":"2026-11-25T10:36:42.335Z","createdAt":"2026-11-25T10:36:42.335Z"}}

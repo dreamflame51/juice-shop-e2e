@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Glenda Rowe","mobileNum":2914496279,"zipCode":"17905","streetAddress":"68446 Kshlerin Throughway","city":"Gabeside","state":"Tennessee","country":"Timor-Leste","UserId":24,"updatedAt":"2026-11-25T10:36:49.262Z","createdAt":"2026-11-25T10:36:49.262Z"}}
