@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Daryl Kuvalis-Schiller","cardNum":4973505197321111,"expMonth":11,"expYear":2089,"UserId":25,"updatedAt":"2026-11-26T10:07:57.122Z","createdAt":"2026-11-26T10:07:57.122Z"}}

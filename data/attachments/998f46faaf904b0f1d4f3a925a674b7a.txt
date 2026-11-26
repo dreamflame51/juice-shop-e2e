@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"bridie_williamson6.wf5xw4s0@e2e.test","updatedAt":"2026-11-26T10:08:02.483Z","createdAt":"2026-11-26T10:08:02.483Z","deletedAt":null}}

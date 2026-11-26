@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kevin Bailey","mobileNum":729545244,"zipCode":"43595","streetAddress":"704 Parker Junctions","city":"Elizabethland","state":"South Carolina","country":"Rwanda","UserId":28,"updatedAt":"2026-11-26T10:08:02.802Z","createdAt":"2026-11-26T10:08:02.802Z"}}

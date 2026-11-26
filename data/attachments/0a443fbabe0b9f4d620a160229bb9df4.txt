@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":7,"fullName":"Eleanor Ritchie-Schaefer Sr.","cardNum":4015328092221111,"expMonth":5,"expYear":2094,"UserId":22,"updatedAt":"2026-11-26T10:12:48.591Z","createdAt":"2026-11-26T10:12:48.591Z"}}
