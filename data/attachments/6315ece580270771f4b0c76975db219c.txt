@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Teresa Lesch","mobileNum":1367793892,"zipCode":"43436","streetAddress":"32730 Hackett Courts","city":"New Wallace","state":"Wyoming","country":"New Caledonia","UserId":22,"updatedAt":"2026-11-27T10:13:26.422Z","createdAt":"2026-11-27T10:13:26.422Z"}}

@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Dr. Rufus Smith-King","mobileNum":8848075232,"zipCode":"26845","streetAddress":"495 Vicarage Close","city":"Lake Shakira","state":"Nebraska","country":"French Southern Territories","UserId":28,"updatedAt":"2026-11-27T10:13:43.612Z","createdAt":"2026-11-27T10:13:43.612Z"}}

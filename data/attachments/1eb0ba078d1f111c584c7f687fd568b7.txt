@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Cards/
+{"status":"success","data":{"id":8,"fullName":"Brendan Ziemann DVM","cardNum":4857947146321111,"expMonth":2,"expYear":2082,"UserId":25,"updatedAt":"2026-11-27T10:13:43.787Z","createdAt":"2026-11-27T10:13:43.787Z"}}

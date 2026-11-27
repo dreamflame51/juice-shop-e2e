@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":22,"email":"assunta_rau.uz5cldb6@e2e.test","updatedAt":"2026-11-27T10:13:43.445Z","createdAt":"2026-11-27T10:13:43.445Z","deletedAt":null}}

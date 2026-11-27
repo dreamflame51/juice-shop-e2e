@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Users/
+{"status":"success","data":{"username":"","role":"customer","deluxeToken":"","lastLoginIp":"0.0.0.0","profileImage":"/assets/public/images/uploads/default.svg","isActive":true,"id":28,"email":"lafayette.vonrueden74.q2xsupbp@e2e.test","updatedAt":"2026-11-27T10:13:43.540Z","createdAt":"2026-11-27T10:13:43.540Z","deletedAt":null}}
