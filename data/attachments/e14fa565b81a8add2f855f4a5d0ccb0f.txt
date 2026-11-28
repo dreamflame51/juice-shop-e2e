@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Winifred McCullough","mobileNum":2421149080,"zipCode":"99790","streetAddress":"6851 Candelario Canyon","city":"East Enolaboro","state":"Hawaii","country":"Bosnia and Herzegovina","UserId":22,"updatedAt":"2026-11-28T09:32:22.167Z","createdAt":"2026-11-28T09:32:22.167Z"}}

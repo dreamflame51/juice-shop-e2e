@@ -1,0 +1,9 @@
+{
+  "email": "colton.cassin8.rjq3ilw8@e2e.test",
+  "password": "Pa55w0rd!e2e",
+  "passwordRepeat": "Pa55w0rd!e2e",
+  "securityQuestion": {
+    "id": 1
+  },
+  "securityAnswer": "Stella"
+}

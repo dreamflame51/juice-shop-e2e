@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Darin Parisian","mobileNum":2156121575,"zipCode":"76891","streetAddress":"6922 4th Avenue","city":"Erdmanside","state":"Connecticut","country":"Israel","UserId":25,"updatedAt":"2026-11-28T09:32:40.385Z","createdAt":"2026-11-28T09:32:40.385Z"}}

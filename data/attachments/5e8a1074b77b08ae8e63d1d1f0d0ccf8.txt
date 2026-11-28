@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":7,"fullName":"Kirk Miller","mobileNum":8320618873,"zipCode":"64024","streetAddress":"4930 Heller Corner","city":"Bahringercester","state":"Kentucky","country":"Saint Barthelemy","UserId":28,"updatedAt":"2026-11-28T09:32:51.825Z","createdAt":"2026-11-28T09:32:51.825Z"}}

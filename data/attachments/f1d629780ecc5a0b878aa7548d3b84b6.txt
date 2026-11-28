@@ -1,0 +1,2 @@
+201 http://localhost:3000/api/Addresss/
+{"status":"success","data":{"id":8,"fullName":"Sheldon Hackett-Schroeder","mobileNum":5507666349,"zipCode":"21124","streetAddress":"8150 East Street","city":"Roryfort","state":"Indiana","country":"Yemen","UserId":24,"updatedAt":"2026-11-28T09:32:40.473Z","createdAt":"2026-11-28T09:32:40.473Z"}}
